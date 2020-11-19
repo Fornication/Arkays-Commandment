@@ -1,6 +1,7 @@
 # A-Khats-Life
  [A Khat's Life](#A-Khats-Life)
 - [Preamble](#preamble)
+- [Thought Process](#thought-process-behind-creation)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -36,10 +37,26 @@
 
 A Khat’s Life is a modlist focused around the Khajiiti race and their culture. With a focus on realism and making the player character’s choices matter, the list features many well known quest mods and a seamless transition from the wilds to the cities through the addition of Open Cities, Dawn of Skyrim and Expanded Towns and Cities.
 
-Check the [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md) to see all the changes!
+Check the [Changelog](https://github.com/Althro/A-Khats-Life/blob/main/Changlog.md) to see all the changes!
 
-**Under no circumstances should you be bothering her or her team with issues for this list.**
-Instead come in the discord I made for everything around the list! https://discord.gg/ZgjVrXp
+**This list is currently not available for public usage.**
+If you have any queries about the list, please come and join the discord server which I created for it:  https://discord.gg/cZ4UXMjZrr
+
+# Thought process behind creation
+
+To help people better understand my vision for the list, I’ve created this section to show some of my thought patterns and ideas behind the list. Most lists tend to follow the following themes as to how they handled the world and levelling:
+
+1. They focus on making the world of Skyrim into a power-fantasy game with many mods that both change and expand the worldspace, significantly change the way perks and levelling work, and can make the character very overpowered.
+2. They take a more Vanilla + route and aim to enhance the base game, without straying too far away from the original vision that Bethesda had for the game. There might be some quest  mods and other additions, but at their core they are still in line with how Bethesda envisaged the game.
+3. They use Requiem and that itself is a whole different kettle of fish.
+
+With this list, however, I wanted to kinda try something different. I want to have the game be realistic and use some of the Vanilla + mods, but also tie in some of the other fantasy elements and expand the worldspace. That doesn’t mean you’ll be seeing ordinator, VIGILANT, SkySouls or Requiem though.
+
+The same is true when it comes to the werewolves and vampires. I want them to be realistic and be more of a choice, rather than a way to get an easy way of taking down multiple enemies. Don’t get me wrong, they are still powerful, but you have to be sure you want to play one.
+
+I want your decisions to matter, and for the game to not punish you for playing a certain way. Sure, some classes may be stronger or weaker against a certain enemy type, but by playing sensibly and utilising what’s available to you, you will be able to survive. Oh yeah, there’s survival mods in as well. Because realism.
+
+The specs the list were developed on are linked here: https://uk.pcpartpicker.com/list/RKHDCL
 
 ## Installation
 ### Pre-Installation
@@ -71,13 +88,13 @@ To ensure that Steam does not automatically updates the game for you, head over 
 
 #### Set the Game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **will not give support to people with a non-English game**.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the Shredder: https://www.nexusmods.com/skyrimspecialedition/mods/30133
+I highly recommend using Skyrim Shredder to completely uninstall your game prior to using this list, particularly if you have modded using Vortex or Nexus Mod Mangager in the past. They leave behind files even when uninstalled and can cause many issue with Mod Organizer based lists. You can find the shredder here: https://www.nexusmods.com/skyrimspecialedition/mods/30133
 
 #### Start Skyrim
 
@@ -94,9 +111,9 @@ Start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Let's get to the actual installation. Grab the release of Among Sovngarde's Stars from available through the Discord server in #links.
+Let's get to the actual installation. Grab the latest release of A Khat's Life that is available in the releases tab.
 
-Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Download the release to a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack` or `C:/Games/Wabbajack`.
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in the _working folder_.
 
@@ -105,8 +122,8 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load _Among Sovngarde's Stars.wabbajack file_ from Disk
-3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Among Sovngarde's Stars".
+2. Load _A Khat's Life.wabbajack file_ from Disk
+3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "A Khat's Life".
 4. Select the created folder in 3. as your installation folder.
 5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
 6. Select the created folder in 5. as your downloads folder.
@@ -139,35 +156,19 @@ Copy the all of the files from the `MO2/Game Folder Files` directory into your g
 
 #### Getting an ENB
 
-This list uses **OBSIDIAN WEATHERS, CATHEDRAL WEATHERS OR VIVID WEATHERS DEPENDING ON THE PROFILE YOU'RE USING** so you want to get an ENB that is compatible. Here is a list of ENBs that I can recommend
+This list uses **Azurite Weathers** so you want to get an ENB that is compatible. Most ENB's that are made for Cathedral work with it. Here is a list of ENBs that I can recommend
 
-Obsidian Weathers:
-
-- [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
-- [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
-- [Amon ENB Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/35141)
-- [Ominous](https://www.nexusmods.com/skyrimspecialedition/mods/27333)
-- [Nyclix's ENB/ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/3352)
-
-Vivid Weathers:
-
-- [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
-- [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
-
-Cathedral Weathers:
-
-- [Semirealis](https://www.nexusmods.com/skyrimspecialedition/mods/25163)
 - [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
 - [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
 - [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
-- [ENBCo A comprehensive comparison](https://www.nexusmods.com/skyrimspecialedition/mods/35328/)
+- [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
 
 Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory. 
 
 **Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
 
 
-## How to start up Among Sovngarde's Stars
+## How to start up A Khat's Life
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
@@ -184,99 +185,24 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Switching Weather Mods
 
-Look at the drop menu on top of the right panel and next to "Profile" in MO2, you should be able to select the profile with the weather mod of your choice. Like [this](http://prntscr.com/tmu8ar).
-
 ## In-Game MCM Options
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
 
 #### Game Difficulty
-- Set the game difficulty to Adept if you want a normal experience, if you want some challenge, put Expert instead. Whenever you feel like you're too strong, don't hesitate putting it higher.
+- The game difficulty has been balanced around Expert and as such you should play on that for a normal experience. If you find the game too difficult or too easy, you can adjust the difficulty easily.
 
 #### A Matter of Time
 
 - Presets :
   - Load User Settings
 
-#### AGO
-- Settings
-  - Enable/Disable
-    - Bow Camera : Disabled (Also disables Bow Crosshair)
-    - Arrow Wounds (Player) : Disabled
-    - Arrow Wounds (NPCs) : Disabled
-    - Persistant Arrows : Disabled
-    
-#### All Geared up Derivative
-- Misc. Player :
-  - Enable Misc. Item Display : Disabled
-  - Require Torso Armor : Enabled
-- NPC :
-  - Enable Weapons : Enabled
-  - Enable Misc. Item Display : Disabled
+#### Dragonstone
 
-#### Animated Armoury
-- General Settings
-  - Enable DAR Support : Enabled
-
-#### Complete Crafting
-- Recipe Display → Crafting Menu Filters :
-  - Crafting Categories: Disabled
-  - Item Filters : Disabled
-  - Breakdown Recipes: Enabled   
-- Crafting Options → Additional Items: :
-  - Artifact Replicas : Enabled
-  - Matching Circlets : Enabled
-- Learning & XP → Smithing Experience:
-    - Tanning Rack : 0.1
-    - Smelter : 0.2
-    - Mining : 20
-- Learning & XP → Learn to Craft :   
-  - Learning Points required to Craft : 250
-- Mining  and Materials → Mining :
-  - Mining Presets : FASTER MINING
-- Mining  and Materials → Firewood :
-  - Firewood per chop : 6
-  - Max per activation : 1
-
-#### Deadly Dragons
-- Dragons → Presets :
-  - Difficulty: Expert
-- Dragons → Special :
-  - Knockdown: Disabled
-
-#### Diverse Dragons Col. 3
-- Dragons
-  - Nether Dragon : Disabled
-  - Sanguine Dragon : Disabled
-  - Vile Dragon : Disabled
-  
-**Note : Exit the MCM after this step to allow it to do its thing**
-
-#### Easy Wheel
-- General → Mode selection :
-  - Use Swap mode : Enabled
-  - Show : M5 (Or whatever hotkey you like)
-  - Next : Arrow Right Key (Or whatever hotkey you like)
-  - Previous : Arrow Left Key (Or whatever hotkey you like)
-- Available Functions → Loaded Mods :
-  - Heathfire Multi Kid Adoption: Hidden
-  - Dovahkiin's Relax: Hidden
-  - Simple Action: Hidden
-- Configuration → Wheel Layout :
-  - Current Wheel : 2
-  - Set it up however you like, but it's recommended to have Pray.
+- Load User Preset
 
 #### Expanded Towns
-- Settings → Fortification Wall :
-  - Dawnstar : Disabled
-  - Falkreath : Disabled
-  - Morthal : Disabled
-  - Winterhold : Disabled
-
-#### Farmhouse Chimneys
-- Mod Support → Misc Mods :
-  - Cutting Room Floor : Enabled
-- Mod Support → Mod Compatibility :
-  - Expanded Towns and Cities : Enabled
+- Patches
+  - Enable SMIM Patch
 
 #### FNIS Sexy Move
 - Don't use certain NPC Moves (Max. 3)
@@ -298,42 +224,7 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Features
   - Invulnerable During Transformation: Enabled
 - If you want to be a Werebear instead:
-  - Immersion : Werebear : Enabled
-
-#### I'm a Customer
-- Food
-  - Eating Location : At Home Only
-  - Infinite Food : Nowhere
-
-#### Immersive Creatures
-- General → General : 
-  - Select Version Preset: Purist - No Spiders
-- Additional Spawns → Spawn Types
-  - Animals Spawns : Disabled
-  - Ore Guardian Spawns: Disabled
-- Night Spawns → Spawn Time : 
-  - Start : 19 PM
-  - End : 6 AM
-- Random Event Spawns : 
-  - Random Event Spawns : Deactivated
-- Difficulty Adjustments → Global Difficulty : 
-  - Assign Global Difficulty: Adept
-- Difficulty Adjustments → Creature Spawn Difficulty : 
-  - Additional Spawns : Medium
-
-#### Imperious Racials
-- Nothing is really important, you can toggle stuff depending on your Race tho!
-Reminder that you can't switch race/sex using Showracemenu because of such a mod!
-
-#### Keep It Clean - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
-- Settings → Parameters :
-  - Soap Buff Duration : 12
-  - Duration before becoming Dirty : 24
-  - Duration before becoming Very Dirty : 48
-- Settings → Toggles :
-  - Start Keep It Clean: Enabled
-  
-**Note : Exit the MCM to let it start up properly**
+  - Immersion : Werebear : Enabled 
 
 #### Lock Overhaul
 - General : 
@@ -381,13 +272,6 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 - Other :
   - No Negotiations : Enabled
 
-#### OBIS
-- Don't touch it, enabling it will result only in additional spawns which is already handled by OMEGA
-
-#### OBIS - Patrols
-- Settings → Bandit Patrols :
-  - Enable? : Enabled
-
 #### Predator Vision
 - Predator Vision → Settings :
   - Nightvision Color : 30%
@@ -396,29 +280,6 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
 #### Quick Light
 - Quick Light → Brightness :
   - Brightness - Bright
-
-#### Realistic Needs - CAN REMAIN DEACTIVATED IF YOU DO NOT LIKE SURVIVAL ASPECTS
-- Basic Needs → Start RND
-
-**Note : Exit the MCM to let it start up properly**
-
-#### I Want RND Widgets
-- User Load/Save:
-  - Load
-
-#### Realistic Water Two
-- Mod Options → Blacksmith Forge Water :
-  - Expanded Towns and Cities SSE : Enabled
-
-#### Sacrosanct 
-- Vampire
-  - Allow Regeneration in Shadows: Enabled
-- Vampire Spells, Powers and Abilities
-  - Vampiric Drain: Enable Reverse Progression: Enabled
-
-#### Simple Horse
-- Call Horse Key : Set yours (H by default)
-- Followers Ride : Enabled
 
 #### SkyUI
 - General → Item List :
@@ -443,10 +304,6 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
   - Realistic : Enabled
 - Settings → Fork Lightning : 
   - Minimum Fork Distance : 1
-
-#### Take Notes!
-- Controls
-  - Set your controls if you wish to use it, if you don't want to use it, put them far away from your main controls.  
   
 #### Tentapalooza
 - Set all tents from "No Protection" to "Rain & Snow"
@@ -461,12 +318,6 @@ Reminder that you can't switch race/sex using Showracemenu because of such a mod
  - Cycle through all the tabs
  - Load Preset again (now it will stick)
   
-#### Trade and Barter
-- Trade & Barter → Settings :
-  - Modify Barter Setting : Enabled
-- Trade & Barter → Preset : 
-  - Barter Presets : Medium
-  
 #### The Ultimate Dodge Mod  
  - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
  A Keybinding example would be:
@@ -479,9 +330,6 @@ I also would recommend to use sidestep (personal preference)
   - NPC Dodge AI: Disabled
 
 #### Ultimate Combat
-- General → Timed Block : 
-  - Effective Time : 0.00s
-  - Blur Strength : 0.0s
 - General → Game Balance Settings : 
   - Speed Bonus : Disabled
 - General → Others :
@@ -503,32 +351,11 @@ I also would recommend to use sidestep (personal preference)
 - NPC Settings → Dragon Priest : 
   - HP Mult : HP 1.0
   
-#### VIGILANT
- - No tweak here, you can manually adjust the difficulty if you find the mod too easy. It has been heavily modified by Minerva and I, the first act is for level 10 players and onwards and act 2 and onwards for level 30 players and onwards. 
-  
 #### VioLens
 - Load Preset
 
-#### Wildcat
-- Disable Injuries: Enabled
-- Allow Wildcat to manage difficulty: Enabled
-
 #### Wonders of Weathers
 - Rain Splashes : Disabled
-
-#### Frostfall - IF YOU DO NOT WANT TO USE IT, ACTIVATE ONE TIME THEN DEACTIVATE MANUALLY, IT HAS A SCRIPT THAT MIGHT BLOAT YOUR SAVE IF YOU ONLY LEAVE IT DEACTIVATED
-**Note : DO NOT ACTIVATE FROSTFALL UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
-
-- Overview → Frostfall Status :
-  - Frostfall Is: Enabled (This will require you to exit and wait until you see the message "Done! Frostfall is enabled")
-- Profiles → Settings Profiles :
-  - Load Profile
-  
-#### Hunterborn
-**Note : DO NOT ACTIVATE HUNTERBORN UNTIL AFTER YOU CHOOSE YOUR PATH WITH THE MARA STATUE.**
-
-- Features :
-  - Start Hunterborn
   
 ## Creating your Character
 
@@ -541,21 +368,15 @@ If you have an ultrawide monitor (21:9 or 32:9), the UI will be off. You just ne
 
 ### Performance stuff
 
-If you have less than 6GB of VRAM, there is an alternative DynDOLOD and TexGEN output, without 3D tree lods, available in the discord. Follow the instructions to swap to the alternate.
+This list was developed on a PC using a 6GB Vram Graphics card and very heavy ENB. General performance so far has been around 55 in exteriors and over 60 in interiors. If you do find you are having performance issues, Octagon is included so you can downscale some textures if you wish to.
 
 ## Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
-## How do I use High Poly Head????? Why does my hair clips throught my fucking skull?????
-Under face part in Racemenu, select the high poly head part.
-
 ## My character is blocked in the air when trying to dodge!
 
 Simply press G (or your swap dodge key) two times to reset it.
-
-## I'm using a gamepad, please help me!
-Go to the Discord, we have a gamepad guide for you.
 
 ## My Mega.nz download dont work! / I can't download more from mega.nz!
 Go to the Discord, in the channel #Links and there will be mirrors for the files.
@@ -563,14 +384,10 @@ Go to the Discord, in the channel #Links and there will be mirrors for the files
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Darkladylexy and her team - for creating this incredible guide and allowing me to create this fork.
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
-- Xanza for being an awesome person overall, knowledgeable and more.
-- Lively for guiding me through early steps of compiling and understanding how WJ works.
-- Althro for being such a resourceful person and helping for the Discord and development a lot.
-- ShadesofDawn for being incredible, amazing thought process and good suggestions overall.
-- Every each of my Patreons for supporting me, and with the Special Folks of my discord, for helping with the development.
-- Minerva for all the good information on xEdit and the VIGILANT Patch cooperation.
+- Sovn for teaching me a lot of the stuff I didn't know, guiding me through compilation and being very patient with my questions.
+- ShadesofDawn for helping the dev phase with some of the tougher questions and some of the patching.
+- Jen, Stronmaus, Destwin, Sabrenation and Mantis for helping with the play-testing and input in the development phase.
 
 ## Contact
 
@@ -582,4 +399,4 @@ See [Contributing](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Contrbut
 
 ## Changelog
 
-See [Changelog](https://github.com/SovnSkyrim/AmongSovngardesStars/blob/master/Changelog.md).
+See [Changelog](https://github.com/Althro/A-Khats-Life/blob/main/Changlog.md).
