@@ -1,15 +1,14 @@
-# 0.0.3
+# 0.0.2.1
 
-**Notes** : Another big dev update.
+**Notes** : Small update and first push to Dev team.
 
-**Added** :
-
-**Removed** :
-
-**Updated** :
+**Released to Dev Team** : 'Soon'
 
 **Fixes** :
-
+- Generated xLodGEN
+- Generated TexGEN
+- Generated DynDOLOD
+- Fixed Game Folder Files
 
 # 0.0.2
 
