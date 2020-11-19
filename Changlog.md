@@ -1,8 +1,11 @@
 # 0.0.2.1
 
-**Notes** : Small update and first push to Dev team.
+**Notes** : Small update and first push to Dev team. PLEASE NOTE THAT THIS IS NOT FULLY PATCHED YET. THINGS WILL LOOK WEIRD. READ THE POST IN THE DISCORD.
 
-**Released to Dev Team** : 'Soon'
+**Released to Dev Team** : `20/11/2020`
+
+**Added** :
+- Better Vampires
 
 **Fixes** :
 - Generated xLodGEN
