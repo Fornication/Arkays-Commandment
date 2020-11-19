@@ -1,5 +1,5 @@
 # A-Khats-Life
- [A Khat's Life](#A-Khats-Life)
+ **Contents**
 - [Preamble](#preamble)
 - [Thought Process](#thought-process-behind-creation)
 - [Installation](#installation)
