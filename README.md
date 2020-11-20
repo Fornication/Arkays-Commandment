@@ -94,7 +94,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-I highly recommend using Skyrim Shredder to completely uninstall your game prior to using this list, particularly if you have modded using Vortex or Nexus Mod Mangager in the past. They leave behind files even when uninstalled and can cause many issue with Mod Organizer based lists. You can find the shredder here: https://www.nexusmods.com/skyrimspecialedition/mods/30133
+If you have never used a Wabbajack list before, I highly recommend using Skyrim Shredder to completely uninstall your game prior to using this list, particularly if you have modded using Vortex or Nexus Mod Mangager in the past. They leave behind files even when uninstalled and can cause many issue with Mod Organizer based lists. You can find the shredder here: https://www.nexusmods.com/skyrimspecialedition/mods/30133
 
 #### Start Skyrim
 
