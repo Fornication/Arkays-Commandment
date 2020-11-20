@@ -1,8 +1,6 @@
-# 0.0.2.1
+# 0.0.3
 
-**Notes** : Small update and first push to Dev team. PLEASE NOTE THAT THIS IS NOT FULLY PATCHED YET. THINGS WILL LOOK WEIRD. READ THE POST IN THE DISCORD.
-
-**Released to Dev Team** : `20/11/2020`
+**Notes** : Cancelled push of 0.0.2.1 to Dev Team, more fixing was required. This release may be the first to push to DEV Team. WIP Changelog, this will get updated.
 
 **Added** :
 - Better Vampires
