@@ -3,15 +3,36 @@
 **Notes** : Cancelled push of 0.0.2.1 to Dev Team, more fixing was required. This release may be the first to push to DEV Team. WIP Changelog, this will get updated.
 
 **Added** :
+- 360 Movement Behaviour
+- AI Overhaul SSE
+- AI Overhaul SkyRem EVE Patch
+- AI Overhual JK's Skyrim Patch
+- AI Overhaul Open Cities Patch
 - Better Vampires
 - Campfire
 - Campfire and Frostfall Fixes
+- Cities of the North - Dawnstar
+- COTN Dawnstar Patch Collection
+- Cities of the North - Morthal
+- COTN Morthal Patch Collection
+- Cities of the North - Winterhold
+- COTN Winterhold Patch Collection
+- Cloaks of Skyrim
+- Cloaks of Skyrim Retextured [Cherry picked items]
+- Cloaks of Skyrim UHD [Cherry picked items]
 - Curators Companion
+- Denizens of Morthal
+- Dynamic Animation Replacer
+- Eating Sounds and Animations
 - ENB Light
 - ENB Light Patches
+- EVG Conditional Idles
+- Finding Helgi and Laelette
 - Glorious Doors of Skyrim
 - Gray Cowl of Nocturnal
 - Gray Cowl of Nocturnal patches
+- Immersive Laundry
+- Immersive Laundry Patches for Multiple Cities
 - JK's Skyrim
 - JK's Skyrim OCS Patch
 - JK's Skyrim ETAC Patch
@@ -26,8 +47,9 @@
 - Papyrus Util
 - Practical Female Armors
 - RUDY HQ More Lights For ENB (Whole Set)
-- SKyrim Wayshrines (SWIFT)
+- Skyrim 3D Trees and Plants (Custom Setup inspired by Elysium and Lovass)
 - Skyrim Particle Patch
+- SKyrim Wayshrines (SWIFT)
 - Sunhelm
 - Sunhelm Patches
 - SWIFT Open Wayshrines
@@ -40,9 +62,14 @@
 - Expanded Towns and Cities (Removed for now. If I gain the patience to patch it, then I will include it.)
 
 **Updated**
-- 
+- Bleak Falls Revisited
+- Embershard Mine Revisited
+- Halted Stream Camp Revisited
 - Serana Dialogue Add-On
+- Synthesis
+- Ustengrav Revisited
 - Your Own Thoughts
+- White River Watch Revisited
 
 **Fixes** :
 - Generated xLodGEN
