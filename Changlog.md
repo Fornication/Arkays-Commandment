@@ -4,13 +4,18 @@
 
 **Added** :
 - 360 Movement Behaviour
+- 3D Whiterun Trellis
 - AI Overhaul SSE
 - AI Overhaul SkyRem EVE Patch
 - AI Overhual JK's Skyrim Patch
 - AI Overhaul Open Cities Patch
+- Better Dynamic Snow
+- Better Dynamic Snow Patches
 - Better Vampires
 - Campfire
 - Campfire and Frostfall Fixes
+- Carriage and Ferry Travel overhaul
+- Cathedral Landscape LODS
 - Cities of the North - Dawnstar
 - COTN Dawnstar Patch Collection
 - Cities of the North - Morthal
@@ -31,8 +36,10 @@
 - Glorious Doors of Skyrim
 - Gray Cowl of Nocturnal
 - Gray Cowl of Nocturnal patches
+- Hearthfire Extended
 - Immersive Laundry
 - Immersive Laundry Patches for Multiple Cities
+- Immersive Fort Dawnguard
 - JK's Skyrim
 - JK's Skyrim OCS Patch
 - JK's Skyrim ETAC Patch
@@ -47,13 +54,13 @@
 - Papyrus Util
 - Practical Female Armors
 - RUDY HQ More Lights For ENB (Whole Set)
-- Skyrim 3D Trees and Plants (Custom Setup inspired by Elysium and Lovass)
 - Skyrim Particle Patch
 - SKyrim Wayshrines (SWIFT)
 - Sunhelm
 - Sunhelm Patches
 - SWIFT Open Wayshrines
 - The Frozen North
+- Vivid Landscapes Rocking Stones and Mountains
 - Zim's Improved Artifacts
 
 **Removed** :
@@ -72,10 +79,13 @@
 - White River Watch Revisited
 
 **Fixes** :
-- Generated xLodGEN
-- Generated TexGEN
-- Generated DynDOLOD
+- Began Conflict Resolution
 - Fixed Game Folder Files
+- Generated DynDOLOD
+- Generated TexGEN
+- Generated xLODGen
+- Removed in-lined files
+- Updated Bodyslide Meshes
 
 # 0.0.2
 
