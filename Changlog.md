@@ -4,6 +4,38 @@
 
 **Added** :
 - Better Vampires
+- Campfire
+- Campfire and Frostfall Fixes
+- ENB Light
+- ENB Light Patches
+- Glorious Doors of Skyrim
+- Gray Cowl of Nocturnal
+- Gray Cowl of Nocturnal patches
+- JK's Skyrim
+- JK's Skyrim OCS Patch
+- JK's Skyrim ETAC Patch
+- Landscape Fixes for Grass Mods
+- Leanwolfs Better Shaped Weapons
+- Lock Overhaul
+- Papyrus Util
+- Practical Female Armors
+- RUDY HQ More Lights For ENB (Whole Set)
+- SKyrim Wayshrines (SWIFT)
+- Skyrim Particle Patch
+- Sunhelm
+- Sunhelm Patches
+- SWIFT Open Wayshrines
+- The Frozen North
+
+**Removed** :
+- Dawn Of Skyrim
+- Dawn of Skyrim Patches
+- Expanded Towns and Cities (Removed for now. If I gain the patience to patch it, then I will include it.)
+
+**Updated**
+- 
+- Serana Dialogue Add-On
+- Your Own Thoughts
 
 **Fixes** :
 - Generated xLodGEN
