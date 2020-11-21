@@ -6,6 +6,7 @@
 - Better Vampires
 - Campfire
 - Campfire and Frostfall Fixes
+- Curators Companion
 - ENB Light
 - ENB Light Patches
 - Glorious Doors of Skyrim
@@ -16,6 +17,11 @@
 - JK's Skyrim ETAC Patch
 - Landscape Fixes for Grass Mods
 - Leanwolfs Better Shaped Weapons
+- Legacy of the Dragonborn Patches
+- Legacy 3DNPC Patch
+- Legacy Inigo Patch
+- Legacy Mrissi Patch
+- Legacy Volkihar Knight Patch
 - Lock Overhaul
 - Papyrus Util
 - Practical Female Armors
@@ -26,6 +32,7 @@
 - Sunhelm Patches
 - SWIFT Open Wayshrines
 - The Frozen North
+- Zim's Improved Artifacts
 
 **Removed** :
 - Dawn Of Skyrim
