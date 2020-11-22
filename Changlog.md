@@ -52,6 +52,10 @@
 - No Snow Under Roo (Didn't work properly with setup)
 - Vivid Landscapes (Swapped to Skyland)
 
+**Fixes**
+- Regenerated Synthesis
+- Regenerated xLODGen, TEXGen, DynDOLOD
+
 # 0.0.3
 
 **Notes** : Cancelled push of 0.0.2.1 to Dev Team, more fixing was required.
