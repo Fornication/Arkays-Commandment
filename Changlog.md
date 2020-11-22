@@ -1,6 +1,60 @@
+# 0.0.4
+
+**Notes** : Way too many changes occured to simply roll it into 0.0.3. Major re-work of textures and landscapes to attempt to fix multi-tree issues and texture issues on mountains.
+
+**Added** :
+- aMidianborn Buildings and Landscapes
+- aMidianborn Caves and Mines
+- Awesome Apiaries
+- Druidic Bandits
+- Druidic Bandits Heritage Patch
+- Elegant Circlets
+- Heritage
+- HQ Paper
+- Markarth HD Retexture (2K-1K)
+- Obsidian Weathers
+- Rustic Animated Potions and Poisons
+- Rustic Azura's Star (2K)
+- Rustic Clutter Collection
+- Rustic Cooking
+- Rustic Daedra
+- Rustic Death Hound and Gargoyles
+- Rustic East Empire Signage
+- Rustic Elderscroll
+- Rustic Furniture SMIM
+- Rustic Monuments and Tombstones
+- Rustic Reliefs
+- Rustic Spriggan
+- Rustic Windows
+- Rustic Word Walls
+- Save the Icerunner
+- Skeever Tail (1K)
+- Skyland HD Road Signs
+- Skyland Landscapes
+- Skyland Nordic Ruins
+- Skyland Riften
+- Skyland Ships and Shacks
+- Skyland Solitude
+- Skyland Villages and Towns
+- Skyland Winterhold
+- SRTO Spiders (2K)
+- Summermyst (Required for Druidic Bandits)
+- Triumvirate
+- True Meeko
+- Varied Guard Armor SE- Vanilla Mashup - Replacer (Under Evaluation)
+- What No Manhole
+
+**Removed** :
+- Azurite Weathers (Mod is incomplete and whilst looks nice, weather mods with better compatibility exist)
+- Better Dynamic Snow (Has issues with COTN Dawnstar)
+- Cathedral Landscapes (Swapped to Skyland)
+- Cathedral Rocks
+- No Snow Under Roo (Didn't work properly with setup)
+- Vivid Landscapes (Swapped to Skyland)
+
 # 0.0.3
 
-**Notes** : Cancelled push of 0.0.2.1 to Dev Team, more fixing was required. This release may be the first to push to DEV Team. WIP Changelog, this will get updated.
+**Notes** : Cancelled push of 0.0.2.1 to Dev Team, more fixing was required.
 
 **Added** :
 - 360 Movement Behaviour
