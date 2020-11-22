@@ -1,7 +1,7 @@
 # A-Khats-Life
  **Contents**
 - [Preamble](#preamble)
-- [Thought Process](#thought-process-behind-creation)
+  - [Thought Process](#thought-process-behind-creation)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -35,14 +35,12 @@
 
 # Preamble
 
-A Khat’s Life is a modlist focused around the Khajiiti race and their culture. With a focus on realism and making the player character’s choices matter, the list features many well known quest mods and a seamless transition from the wilds to the cities through the addition of Open Cities, Dawn of Skyrim and Expanded Towns and Cities.
-
-Check the [Changelog](https://github.com/Althro/A-Khats-Life/blob/main/Changlog.md) to see all the changes!
+A Khat’s Life is a modlist focused around the Khajiiti race and their culture. With a focus on realism and making the world of Skyrim feel alive, the list includes mods such as Open Cities Skyrim, JK's Skyrim, Dragonstone, The Frozen North and all the bug-fixes you'd expect to find. Textures are all 2K-1K to enable performance on lower end systems to be better without any noticable visual quallity deterioration.
 
 **This list is currently not available for public usage.**
 If you have any queries about the list, please come and join the discord server which I created for it:  https://discord.gg/cZ4UXMjZrr
 
-# Thought process behind creation
+  ## Thought process behind creation
 
 To help people better understand my vision for the list, I’ve created this section to show some of my thought patterns and ideas behind the list. Most lists tend to follow the following themes as to how they handled the world and levelling:
 
@@ -148,25 +146,33 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ### Post-Installation
 
-#### Copy Game Folder Files
+#### Download Lod Files
 
-Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` to your game folder.
+Currently, the list has it's lod file seperate from the main installer. You grab these from the same place you got the list and then want to place them as follows on the left pane:
+
+https://cdn.discordapp.com/attachments/779138936916148296/780209749572190238/Left_Pane.jpg
+
+On the right pane, make sure DynDOLOD.esm is the last ESM loaded, DynDOLOD.esp is the 2nd last and Occlusion.esp is the last.
+
+#### Copy Game Folder Files
 
 Copy the all of the files from the `MO2/Game Folder Files` directory into your game folder.
 
 #### Getting an ENB
 
-This list uses **Azurite Weathers** so you want to get an ENB that is compatible. Most ENB's that are made for Cathedral work with it. Here is a list of ENBs that I can recommend
+To make switching ENB profiles easier, this list comes with TOLLS ENB manager pre-installed. It does not come with any profiles and you will have to set it up. It is very easy to use though. 
 
-- [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/39113)
+This list uses **Obsidian Weathers** so you want to get an ENB that is compatible. Here is a list of ENBs that I can recommend:
+
+- [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
 - [Skyrim Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089)
-- [Ljoss](https://www.nexusmods.com/skyrimspecialedition/mods/30971)
-- [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543)
+- [Amon ENB Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/35141)
+- [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333)
+- [Nyclix's ENB Reshade](https://www.nexusmods.com/skyrimspecialedition/mods/3352)
 
-Once you found a preset you like. Download it and extract the enbseries folder, enbseries.ini and enblocal.ini to your Skyrim Special Edition directory. 
+Once you found a preset you like download it and extract the files into a folder somewhere. I like to make a master "ENB Profiles" folder and have all my presets there. Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy `d3d11.dll` and `d3dcompiler_46e.dll` into the folder you just extracted the ENB preset into. You will need to do this for every preset you use.
 
 **Note : Please check that vsync is set to disable in enblocal.ini otherwise you will be stuck compiling shaders**
-
 
 ## How to start up A Khat's Life
 
@@ -200,26 +206,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 
 - Load User Preset
 
-#### Expanded Towns
-- Patches
-  - Enable SMIM Patch
-
-#### FNIS Sexy Move
-- Don't use certain NPC Moves (Max. 3)
-  - No Sexy Move 1 : Disabled
-  - No Sexy Move 7 : Enabled
-  - No Sexy Move 8 : Enabled
-  - No Sexy Move 9 : Enabled
-- Player Movement :
-  - Sexy Move 1 (female animation) : Enabled
-- Average Move Assignments
-  - less sexy : Enabled
-- Armored NPCs less sexy : Enabled
-
-#### Follower Framework
-- System :
-  - Load From File 
-
 #### Growl Werebeasts 
 - Features
   - Invulnerable During Transformation: Enabled
@@ -239,47 +225,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 - Unlock with Magic → Unlock Spell :
   - Enable Unlock Spell : Enabled
   - Frost effect Required Skill malus: -0
-  
-#### LOTD Settings
-- LOTD Settings → General → Shippment Crate Locations : 
-  - Carriages: Enabled
-  - Inns: Enabled
-  - Player Houses: Enabled (They have been changed so you might want to report problems with that)
-
-#### moreHUD (mostly preferences, I play with this)
-
-- Enemy's Level
-  - General:
-    - Show Enemy Level: Disabled
-    - Show Soul Level: Disabled
-- Enemy Meters:
-  - Enemy Meter
-    - Show Magicka Meter: Disabled
-    - Show Stamina Meter: Disabled
-    
-#### Not So Fast MG
-- Minimum Days Before Event : 
-  - Saarthal Expedition : 3
-  - Psijic Monk Visi t: 7
-  - Brelyna's Practice : 4
-  - J'Zargo's Experiment : 4
-  - Onmund's Request : 4
-
-#### Not So Fast MQ
-- Minimum Days Before Events :
-  - First Dragon Sighting : 3
-  - Note From Delphine : 6
-- Other :
-  - No Negotiations : Enabled
-
-#### Predator Vision
-- Predator Vision → Settings :
-  - Nightvision Color : 30%
-  - Predator Vision Color Boost : 70%   
-
-#### Quick Light
-- Quick Light → Brightness :
-  - Brightness - Bright
 
 #### SkyUI
 - General → Item List :
@@ -292,31 +237,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
   - Barter Menu : Disabled
   - Container Menu : Disabled
   - Crafting Menu : Disabled
-
-#### SmoothCam  -for 3rd person players-
-- Presets
-  - Load Preset
-    - Slot 1 Perfect
-    This preset might not be the best for you, don't hesitate tweaking the numerous options of that mod if you wish to use it to it's full potential
-
-#### Storm Lightning
-- Preset → Load Preset : 
-  - Realistic : Enabled
-- Settings → Fork Lightning : 
-  - Minimum Fork Distance : 1
-  
-#### Tentapalooza
-- Set all tents from "No Protection" to "Rain & Snow"
-
-#### Thieves Guild Requirements
- - Load Prest
- - Cycle through all the tabs
- - Load Preset again (now it will stick)
-  
-#### Timing is Everything
- - Load Prest
- - Cycle through all the tabs
- - Load Preset again (now it will stick)
   
 #### The Ultimate Dodge Mod  
  - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
@@ -351,35 +271,23 @@ I also would recommend to use sidestep (personal preference)
 - NPC Settings → Dragon Priest : 
   - HP Mult : HP 1.0
   
-#### VioLens
-- Load Preset
-
-#### Wonders of Weathers
-- Rain Splashes : Disabled
-  
 ## Creating your Character
 
 Simply step up to the statue of mara and choose a start.
 
 ## FAQ
 
-### Ultrawide Options
-If you have an ultrawide monitor (21:9 or 32:9), the UI will be off. You just need to enable "Dear Diary for (screen resolution)" under the Separator "Activate this if you have a widescreen monitor" in MO2. [Those](https://prnt.sc/udw0qv)
-
 ### Performance stuff
 
-This list was developed on a PC using a 6GB Vram Graphics card and very heavy ENB. General performance so far has been around 55 in exteriors and over 60 in interiors. If you do find you are having performance issues, Octagon is included so you can downscale some textures if you wish to.
+This list was developed on a PC using a 6GB Vram Graphics card and very heavy ENB. General performance so far has been around 45 to 55 in exteriors and over 60 in interiors. If you do find you are having performance issues, Octagon is included so you can downscale some more textures if you wish to.
 
 ## Removing the Modlist
 
-You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
+You can just remove the MO2 folder and be done with it. SKSE and ENB files will still be in your game folder, so use the ENB manager tool found in your tools folder/MO2 to remove the ENB.
 
 ## My character is blocked in the air when trying to dodge!
 
 Simply press G (or your swap dodge key) two times to reset it.
-
-## My Mega.nz download dont work! / I can't download more from mega.nz!
-Go to the Discord, in the channel #Links and there will be mirrors for the files.
 
 ## Credits and Thanks
 
@@ -391,11 +299,7 @@ Go to the Discord, in the channel #Links and there will be mirrors for the files
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU** but you can safely ping me in #unofficial-modlist-support or my own Discord, I'll answer whenever I can.
-
-## Contributing
-
-See [Contributing](https://github.com/SovnSkyrim/Sovns_LOTD/blob/master/Contrbuting.md).
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Changelog
 
