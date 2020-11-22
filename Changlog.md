@@ -1,4 +1,4 @@
-# 0.0.4
+# 0.0.4 - Land of the Sky
 
 **Notes** : Way too many changes occured to simply roll it into 0.0.3. Major re-work of textures and landscapes to attempt to fix multi-tree issues and texture issues on mountains.
 
@@ -56,7 +56,7 @@
 - Regenerated Synthesis
 - Regenerated xLODGen, TEXGen, DynDOLOD
 
-# 0.0.3
+# 0.0.3 - Cities and more textures
 
 **Notes** : Cancelled push of 0.0.2.1 to Dev Team, more fixing was required.
 
@@ -145,7 +145,7 @@
 - Removed in-lined files
 - Updated Bodyslide Meshes
 
-# 0.0.2
+# 0.0.2 - SRO and animations
 
 **Notes** : Major dev update. Reworked texture baseline and animations. This is still being worked on to get the balance just right, expect more changes in this area. Inlcuded more mods that were missing such as Dear Diary and More Infomrative Console.
 
@@ -214,7 +214,7 @@
 - Created Bodyslide Meshes
 - Created Synthesis patchers for consisitency
 
-# 0.0.1
+# 0.0.1 - The beginning
 Initial Build.
 
 **Developer Preview only**
