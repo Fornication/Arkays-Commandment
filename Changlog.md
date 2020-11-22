@@ -1,6 +1,6 @@
-# 0.0.4 - Land of the Sky
+# 0.0.4 - Land of the Sky & Performance fixes
 
-**Notes** : Way too many changes occured to simply roll it into 0.0.3. Major re-work of textures and landscapes to attempt to fix multi-tree issues and texture issues on mountains.
+**Notes** : Way too many changes occured to simply roll it into 0.0.3. Major re-work of textures and landscapes to attempt to fix multi-tree issues and texture issues on mountains. All textures have been changed and/or resized to be 2K-1K to increase performance at minimal visual quality detriment.
 
 **Added** :
 - aMidianborn Buildings and Landscapes
@@ -41,7 +41,7 @@
 - Summermyst (Required for Druidic Bandits)
 - Triumvirate
 - True Meeko
-- Varied Guard Armor SE- Vanilla Mashup - Replacer (Under Evaluation)
+- Varied Guard Armor SE- Vanilla Mashup - Replacer
 - What No Manhole
 
 **Removed** :
@@ -49,10 +49,11 @@
 - Better Dynamic Snow (Has issues with COTN Dawnstar)
 - Cathedral Landscapes (Swapped to Skyland)
 - Cathedral Rocks
-- No Snow Under Roo (Didn't work properly with setup)
+- No Snow Under Roof (Didn't work properly with setup)
 - Vivid Landscapes (Swapped to Skyland)
 
 **Fixes**
+- Optimised a lot of textures using Octagon. Pretty much all textures now are 2K-1K or lower.
 - Regenerated Synthesis
 - Regenerated xLODGen, TEXGen, DynDOLOD
 
