@@ -50,6 +50,7 @@
 - Cathedral Landscapes (Swapped to Skyland)
 - Cathedral Rocks
 - No Snow Under Roof (Didn't work properly with setup)
+- Open Cities (Way more trouble than it's worth)
 - Vivid Landscapes (Swapped to Skyland)
 
 **Fixes**
