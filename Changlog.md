@@ -14,6 +14,7 @@
 - Audio Overhaul Skyrim
 - Awesome Apiaries
 - Bandolier - Bags and Pouches Classic
+- Beards of Power
 - Better Dynamic Snow
 - Better Dynamic Snow Patches
 - Better Vampires
@@ -57,6 +58,7 @@
 - HQ Paper
 - Hearthfire Extended
 - Heritage
+- High Poly Vanilla Hair
 - Immersive Fort Dawnguard
 - Immersive Laundry
 - Immersive Laundry Patches for Multiple Cities
@@ -85,6 +87,7 @@
 - Practical Female Armors
 - RUDY HQ More Lights For ENB (Whole Set)
 - Realistic Aspen Trees
+- Reyliik Do Skyrim
 - Rustic Animated Potions and Poisons
 - Rustic Azura's Star (2K)
 - Rustic Clutter Collection
@@ -123,6 +126,7 @@
 - Synthesis
 - The Elder Scrolls General Loadscreen Replacer
 - The Frozen North
+- The Great Cities and Towns
 - The Ultimate Dodge Mod
 - Triumvirate
 - True Meeko
@@ -153,6 +157,7 @@
 - SkyRem Grace
 - SkyRem Rae
 - Skyrim 3D Trees and Plants (Swapped to EVT)
+- White River Watch Revisited (Removed due to conflicts with SRC)
 
 **Updated**
 - Bleak Falls Revisited
