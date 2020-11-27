@@ -1,178 +1,20 @@
-# 0.0.1 - Major update and rework of near enough everything.
+# 0.0.1 - The initial build
 
-**Notes** : Previous incremental updates rolled into one, hence massive changelog. Work in progress still so stuff will be removed and added accodingly.
+**Notes** : Previous list scrapped and a new base of TPF used. Most of what's in it is going to be changed and rewroked whilst still retaining the good performance that it has.
 
-**Added** :
-- 360 Movement Behaviour
-- 3D Whiterun Trellis
-- A Matter of Time
-- AI Overhaul SSE
-- AI Overhaul SkyRem EVE Patch
-- aMidianborn Buildings and Landscapes
-- aMidianborn Caves and Mines
-- AOS ISC Compat Patch
-- Audio Overhaul Skyrim
-- Awesome Apiaries
-- Bandolier - Bags and Pouches Classic
-- Beards of Power
-- Better Dynamic Snow
-- Better Dynamic Snow Patches
-- Better Vampires
-- Bodyslide Meshes
-- COTN Dawnstar Patch Collection
-- COTN Morthal Patch Collection
-- COTN Winterhold Patch Collection
-- Campfire
-- Campfire and Frostfall Fixes
-- Carriage and Ferry Travel overhaul
-- Cities of the North - Dawnstar
-- Cities of the North - Morthal
-- Cities of the North - Winterhold
-- Cloaks of Skyrim
-- Cloaks of Skyrim Retextured [Cherry picked items]
-- Cloaks of Skyrim UHD [Cherry picked items]
-- Common Clothes and Armors
-- Curators Companion
-- Dear Diary
-- Denizens of Morthal
-- Druidic Bandits
-- Druidic Bandits Heritage Patch
-- Dynamic Animation Replacer
-- ENB Helper
-- ENB Light
-- ENB Light Patches
-- ETAC Blended Roads Patch
-- EVG Conditional Idles
-- Eating Sounds and Animations
-- Ehanced Vanilla Trees
-- Elegant Circlets
-- Ethereal Clouds
-- Experience
-- Extended UI
-- Finding Helgi and Laelette
-- FranklinZunge Collection SSE
-- Gameplay Patches
-- Glorious Doors of Skyrim
-- Gray Cowl of Nocturnal
-- Gray Cowl of Nocturnal patches
-- HQ Paper
-- Hearthfire Extended
-- Heritage
-- High Poly Vanilla Hair
-- Immersive Fort Dawnguard
-- Immersive Laundry
-- Immersive Laundry Patches for Multiple Cities
-- Immersive Music
-- Immersive Sounds Compendium
-- Landscape Fixes for Grass Mods
-- Leanwolfs Better Shaped Weapons
-- Legacy 3DNPC Patch
-- Legacy Inigo Patch
-- Legacy Mrissi Patch
-- Legacy Volkihar Knight Patch
-- Legacy of the Dragonborn Patches
-- Lock Overhaul
-- Majestic Mountains Darkside
-- Map Markers Complete
-- Markarth HD Retexture (2K-1K)
-- Missives
-- moreHud
-- More Infomative Console
-- Nemesis
-- Obsidian Weathers
-- Paper Hud
-- Paper UI Sounds
-- Papyrus Util
-- Penitus Oculatus
-- Practical Female Armors
-- RUDY HQ More Lights For ENB (Whole Set)
-- Realistic Aspen Trees
-- Reyliik Do Skyrim
-- Rustic Animated Potions and Poisons
-- Rustic Azura's Star (2K)
-- Rustic Clutter Collection
-- Rustic Cooking
-- Rustic Daedra
-- Rustic Death Hound and Gargoyles
-- Rustic East Empire Signage
-- Rustic Elderscroll
-- Rustic Furniture SMIM
-- Rustic Monuments and Tombstones
-- Rustic Reliefs
-- Rustic Spriggan
-- Rustic Windows
-- Rustic Word Walls
-- SKyrim Wayshrines (SWIFT)
-- SRTO Spiders (2K)
-- SWIFT Open Wayshrines
-- Save the Icerunner
-- Skeever Tail (1K)
-- SkyHUD
-- Skyland HD Road Signs
-- Skyland Landscapes
-- Skyland Nordic Ruins
-- Skyland Riften
-- Skyland Ships and Shacks
-- Skyland Solitude
-- Skyland Villages and Towns
-- Skyland Winterhold
-- Skyrim Particle Patch
-- Skyrim Realistic Overhaul
-- Sovngarde Font
-- Stay At The System page
-- Summermyst (Required for Druidic Bandits)
-- Sunhelm
-- Sunhelm Patches
+**Added**
+- Legacy of the Dragonborn
 - Synthesis
-- The Elder Scrolls General Loadscreen Replacer
-- The Frozen North
-- The Great Cities and Towns
-- The Ultimate Dodge Mod
-- Triumvirate
-- True Meeko
-- Ultimate Combat
-- Unofficial Material Fix
-- Varied Guard Armor SE- Vanilla Mashup - Replacer
-- Vivid Landscapes
-- What No Manhole
-- XP32 Maximum Skeleton
-- Your Own Thoughts
-- Zim's Improved Artifacts
 
-**Removed** :
-- Cathedral Landscapes (Swapped to Skyland)
-- Cathedral Rocks
-- Cathedral Weathers (Swapped to Obsidian Weathers)
-- Expanded Towns and Cities (Removed for now. If I gain the patience to patch it, then I will include it.)
-- Improved Rain and Fog for Cathedral Weathers
-- JK's Skyrim
-- JK's Skyrim ETAC Patch
-- JK's Skyrim OCS Patch
-- Lucid Rain
-- No Snow Under Roof (Didn't work properly with setup)
-- Noble Skyrim (Swapped to other textures which fit better with theme)
-- Open Cities (Way more trouble than it's worth. It may come back.)
-- SkyRem Elsa
-- SkyRem Gabi
-- SkyRem Grace
-- SkyRem Rae
-- Skyrim 3D Trees and Plants (Swapped to EVT)
-- White River Watch Revisited (Removed due to conflicts with SRC)
+**Removed**
+- Morroloot Miscellania Hybrid Loot
+- Morrowloot Miscellania Item Distribution
 
 **Updated**
-- Bleak Falls Revisited
-- DynDOLOD
-- Embershard Mine Revisited
-- Halted Stream Camp Revisited
-- Project Clarity Weapons
-- Serana Dialogue Add-On
-- Serana Dialogue Add-on
-- Synthesis
-- Ustengrav Revisited
-- White River Watch Revisited
-- Your Own Thoughts
+- Net Script Framework
+- SSE Display Tweaks
+- Dwemer Gates don't reset
+- Skyrim Landscape and water fixes
+- CBBE
 
 **Fixes**
-- Optimised a lot of textures using Octagon. Pretty much all textures now are 2K-1K or lower.
-- Regenerated Synthesis
-- Regenerated xLODGen, TEXGen, DynDOLOD
