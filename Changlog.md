@@ -11,17 +11,28 @@
 - Bodyslide
 - CBBE Bodyslide Presets Compendium (using only the mage one)
 - City Enterance Overhaul - Windhelm
+- Cloaks of Skyrim
+- Cloaks of Skyrim HD
 - COTN Dawnstar
 - COTN Morthal
 - COTN Winterhold
 - COTN Patch (Many many patches)
-- Cloaks of Skyrim
-- Cloaks of Skyrim HD
+- Cuyima Interesting NPC's
 - Dark Face Issue Reporter
+- Dear Diary
+- Dragonstone - A Skyrim Overhaul
+- Experience
+- Extended UI
 - Feminine Khajiit Textures [Grey Cat] (CBBE)
+- Fort Takeovers Framework
 - Glorious Doors of Skyrim
 - Halgari's RPG Loot
 - Hammets Dungeon Pack
+- Interesting NPC's
+- Interesting NPC's Karthwasten Patch
+- Interesting NPC's Kynesgrove Patch
+- Interesting NPC's Legacy of The Dragonborn
+- Interesting NPC's Zora Customiser
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches
 - Markarth Enterance Overhaul Fixed
@@ -29,9 +40,19 @@
 - MXPF
 - Nemesis
 - Northern Marsh Bridges
+- Oblivion Like Loading Menu
+- Paper UI Sounds
 - Reyliik do Skyrim
 - Rodryks Dragonbridge
 - Simple Sleeved Armor
+- SkyRem AVA
+- SkyRem CORI
+- Skyrim Realistic Conquering - All In One
+- Skyrim Realistic Conquering - Riverside Shack
+- Skyrim Realistic Conquering - Shors Watchtower
+- Skyrim Realistic Conquering - Swindlers Den
+- Skyrim Realistic Conquering - Traitors Post
+- Sovngarde Light Font
 - Synthesis
 - Tempered Skins for Males
 - TES Arena Cities
@@ -45,6 +66,7 @@
 - Wrye Bash
 - Wyrmstooth
 - xLODGEN
+- Zim's Dragon Improvements
 
 **Removed**
 - Book Covers Skyrim (Not needed with LotD)
@@ -55,6 +77,25 @@
 - Morroloot Miscellania Hybrid Loot
 - Morrowloot Miscellania Item Distribution
 - Whistling Mine
+- Roboto Font
+- Rustic Dragons
+- The Decayed Dragon
+- HD Serpentine Dragon
+- Diverse Dragons Collection
+- Splendor Dragon Variants
+- Dragon Remains Updated
+- Immersive Dragons
+- Dragon Animation Replacer
+- Remove Quicksave button
+- Wider MCM Menu
+- Favourite Things - Extended Favourites menu
+- Immersive Bookreading
+- Immersive Lockpicking
+- Smaller Cursors
+- Recleaned Menu
+- loading screen smoke removed
+- Immersive Patrols
+
 
 **Updated**
 - Arena
@@ -80,4 +121,6 @@
 - Resolved some issues that new additions caused.
 - Updated a few mods and resolved any new conflicts.
 - Regenerated AllGUD.
-- Regenerated DynDOLOD and TexGEN.
+- Regenerated DynDOLOD and TexGEN (way too many times)
+- Renamed Seperators and moved mods around to better fit areas.
+- Worked through load order making sure it made sense/was logical.

@@ -32,7 +32,7 @@
 
 # Preamble
 
-A Khat’s Life is a fork of The Phoneix Flavour that expands the already amazing guide with a focus on the Khajiiti race and making the world of Skyrim feel alive and lived in. This is achieved through the addition of mods such as Dragonstone, The Frozen North, Moonpath to Elysweyr, Legacy of the Dragonborn and a variety of other content. The gameplay will be harder but feel more rewarding, with many new enchantments and items that do not stray too far from lore.
+A Khat’s Life is a fork of The Phoneix Flavour that expands the already amazing guide with a focus on the Khajiiti race and creating a Skyrim that feels alive, whilst also remaining true to lore and having a realistic feel. This is achieved through the addition of mods such as Dragonstone, The Frozen North, Moonpath to Elysweyr, Legacy of the Dragonborn and a variety of other content. The gameplay will be harder but feel more rewarding, with many new enchantments and items that do not stray too far from lore. 
 
 The list also aims to be accessible to those that might not have the highest end systems, with most textures being at most 2k with the majotity being 2k-1k to enable better performance on lower end systems without any noticable visual quallity deterioration. AKL has been patched fully [currently in progress] to achieve consistency and compatibility. In the case where patches didn't already exist or were found to be inadequate/ill fitting, they have been created.
 
@@ -314,6 +314,8 @@ I also would recommend to use sidestep (personal preference)
 - Npc Settings :
   - NPC Dodge AI: Disabled
 
+**Note that TUDM will not work until you are out of the starting cell.**
+
 #### Timing is Everything
 - Extra Options
   - Presets
@@ -348,7 +350,7 @@ I also would recommend to use sidestep (personal preference)
   
 ## Creating your Character
 
-Simply step up to the statue of mara and choose a start.
+Once you have created your character, and done the MCM menu's, you will recieve a pop-up asking you to assign your skills. Choose your skills according to the character archetype you want to play and, once done, step up to the statue of mara and choose a start.
 
 ## FAQ
 
@@ -373,7 +375,7 @@ That's because I'm still working on the finer details of things. If you think so
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Sovn for teaching me a lot of the stuff I didn't know, guiding me through compilation and being very patient with my questions.
-- ShadesofDawn for helping the dev phase with some of the tougher questions and some of the patching.
+- ShadesofDawn for helping in the dev phase with some of the tougher questions and some of the patching.
 - Jen, Stronmaus, Destwin, Sabrenation and Mantis for helping with the play-testing and input in the development phase.
 
 ## Contact
