@@ -10,13 +10,13 @@
 - Better Wyrmstooth Map
 - Bodyslide
 - CBBE Bodyslide Presets Compendium (using only the mage one)
+- COTN Dawnstar
+- COTN Morthal
+- COTN Patch (Many many patches)
+- COTN Winterhold
 - City Enterance Overhaul - Windhelm
 - Cloaks of Skyrim
 - Cloaks of Skyrim HD
-- COTN Dawnstar
-- COTN Morthal
-- COTN Winterhold
-- COTN Patch (Many many patches)
 - Cuyima Interesting NPC's
 - Dark Face Issue Reporter
 - Dear Diary
@@ -35,9 +35,9 @@
 - Interesting NPC's Zora Customiser
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches
+- MXPF
 - Markarth Enterance Overhaul Fixed
 - Masculine Khajiit Textures [Grey Cat]
-- MXPF
 - Nemesis
 - Northern Marsh Bridges
 - Oblivion Like Loading Menu
@@ -54,8 +54,8 @@
 - Skyrim Realistic Conquering - Traitors Post
 - Sovngarde Light Font
 - Synthesis
-- Tempered Skins for Males
 - TES Arena Cities
+- Tempered Skins for Males
 - The Frozen North
 - The Ultimate Dodge Mod
 - Ultimate Combat
@@ -70,57 +70,56 @@
 
 **Removed**
 - Book Covers Skyrim (Not needed with LotD)
+- Diverse Dragons Collection
+- Dragon Animation Replacer
+- Dragon Remains Updated
 - Dragonbridge
 - FNIS
+- Favourite Things - Extended Favourites menu
+- HD Serpentine Dragon
+- Immersive Bookreading
+- Immersive Dragons
+- Immersive Lockpicking
+- Immersive Patrols
+- Loading screen smoke removed
 - Majestic Mountains DynDOLOD (swapped to xLODGen version)
 - Marvelous Windhelm Gate (Replaced with Glorious doors of Skyrim)
 - Morroloot Miscellania Hybrid Loot
 - Morrowloot Miscellania Item Distribution
-- Whistling Mine
+- Recleaned Menu
+- Remove Quicksave button
 - Roboto Font
 - Rustic Dragons
-- The Decayed Dragon
-- HD Serpentine Dragon
-- Diverse Dragons Collection
-- Splendor Dragon Variants
-- Dragon Remains Updated
-- Immersive Dragons
-- Dragon Animation Replacer
-- Remove Quicksave button
-- Wider MCM Menu
-- Favourite Things - Extended Favourites menu
-- Immersive Bookreading
-- Immersive Lockpicking
 - Smaller Cursors
-- Recleaned Menu
-- loading screen smoke removed
-- Immersive Patrols
-
+- Splendor Dragon Variants
+- The Decayed Dragon
+- Whistling Mine
+- Wider MCM Menu
 
 **Updated**
 - Arena
-- Mysticism
-- Net Script Framework
-- SSE Display Tweaks
-- Dwemer Gates don't reset
-- Skyrim Landscape and water fixes
 - CBBE
-- Lanterns of Skyrim II
+- Cathedral Weathers
+- Dwemer Gates don't reset
 - Growl
 - Guard Dialogue Overhaul
-- JContainers
-- Nether's Follower Framework
-- Trua
 - Improved College Enterance
-- Relighting Skyrim
-- Cathedral Weathers
+- JContainers
+- Lanterns of Skyrim II
 - Majestic Mountains
+- Mysticism
+- Net Script Framework
+- Nether's Follower Framework
+- Relighting Skyrim
+- SSE Display Tweaks
+- Skyrim Landscape and water fixes
+- Trua
 - Veydosebrom
 
 **Fixes**
-- Resolved some issues that new additions caused.
-- Updated a few mods and resolved any new conflicts.
 - Regenerated AllGUD.
 - Regenerated DynDOLOD and TexGEN (way too many times)
 - Renamed Seperators and moved mods around to better fit areas.
+- Resolved some issues that new additions caused.
+- Updated a few mods and resolved any new conflicts.
 - Worked through load order making sure it made sense/was logical.
