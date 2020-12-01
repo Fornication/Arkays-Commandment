@@ -61,7 +61,6 @@
 - Pandorable's NPC's Dragonborn - Salt and Wind
 - Pandorable's Shield Sisters
 - Paper UI Sounds
-- Reyliik do Skyrim
 - Rodryks Dragonbridge
 - Simple Sleeved Armor
 - SkyRem AVA
@@ -140,6 +139,7 @@
 - Veydosebrom
 
 **Fixes**
+- Created NPC Merge.
 - Regenerated AllGUD.
 - Regenerated DynDOLOD and TexGEN (way too many times)
 - Renamed Seperators and moved mods around to better fit areas.
