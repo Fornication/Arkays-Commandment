@@ -1,6 +1,6 @@
 # 0.0.1 - The initial build
 
-**Notes** : Previous list scrapped and a new base of TPF used. Most of what's in it is going to be changed and rewroked whilst still retaining the good performance that it has.
+**Notes** : The first build of AKL based off TPF. As a result, expect some major changes. TLDR: Making da list.
 
 **Added**
 - An Easter Egg
@@ -8,6 +8,10 @@
 - Beards of Power
 - Better Dynamic Snow Patcher
 - Better Wyrmstooth Map
+- Bijin Family - Salt and Wind
+- Bijin NPCS
+- Bijin Warmaidens
+- Bijin Wives
 - Bodyslide
 - CBBE Bodyslide Presets Compendium (using only the mage one)
 - COTN Dawnstar
@@ -19,11 +23,13 @@
 - Cloaks of Skyrim HD
 - Cuyima Interesting NPC's
 - Dark Face Issue Reporter
+- Darling Eye Replacer
 - Dear Diary
 - Dragonstone - A Skyrim Overhaul
 - Experience
 - Extended UI
 - Feminine Khajiit Textures [Grey Cat] (CBBE)
+- Followers, Hirelings and Housecarls
 - Fort Takeovers Framework
 - Glorious Doors of Skyrim
 - Halgari's RPG Loot
@@ -33,14 +39,27 @@
 - Interesting NPC's Kynesgrove Patch
 - Interesting NPC's Legacy of The Dragonborn
 - Interesting NPC's Zora Customiser
+- KS Hairdos
+- KS Hairdos - Salt and Wind
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn Patches
+- Male NPC Overhaul SE
 - MXPF
 - Markarth Enterance Overhaul Fixed
 - Masculine Khajiit Textures [Grey Cat]
 - Nemesis
 - Northern Marsh Bridges
 - Oblivion Like Loading Menu
+- Pandorable's Black Briar Ladies - Maven Ingun
+- Pandorable's Initiates
+- Pandorable's Lethal Ladies
+- Pandorable's NPC's
+- Pandorable's NPC's Dawnguard
+- Pandorable's NPC's Dragonborn
+- Pandorable's NPC's Salt and Wind
+- Pandorable's NPC's Dawnguard - Salt and Wind
+- Pandorable's NPC's Dragonborn - Salt and Wind
+- Pandorable's Shield Sisters
 - Paper UI Sounds
 - Reyliik do Skyrim
 - Rodryks Dragonbridge
@@ -53,10 +72,13 @@
 - Skyrim Realistic Conquering - Swindlers Den
 - Skyrim Realistic Conquering - Traitors Post
 - Sovngarde Light Font
+- Superior Lore Friendly Hair
 - Synthesis
 - TES Arena Cities
 - Tempered Skins for Males
 - The Frozen North
+- The Ordinary Women
+- The Ordinary Women Salt and Wind
 - The Ultimate Dodge Mod
 - Ultimate Combat
 - Varied Guard Armor
@@ -69,6 +91,7 @@
 - Zim's Dragon Improvements
 
 **Removed**
+- Bed Head
 - Book Covers Skyrim (Not needed with LotD)
 - Diverse Dragons Collection
 - Dragon Animation Replacer
