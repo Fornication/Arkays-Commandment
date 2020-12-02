@@ -31,6 +31,7 @@
 - Feminine Khajiit Textures [Grey Cat] (CBBE)
 - Followers, Hirelings and Housecarls
 - Fort Takeovers Framework
+- Fresh Faces [Custom patched for Astrid Only]
 - Glorious Doors of Skyrim
 - Halgari's RPG Loot
 - Hammets Dungeon Pack
@@ -70,6 +71,7 @@
 - Skyrim Realistic Conquering - Shors Watchtower
 - Skyrim Realistic Conquering - Swindlers Den
 - Skyrim Realistic Conquering - Traitors Post
+- Stenvar Revamped
 - Sovngarde Light Font
 - Superior Lore Friendly Hair
 - Synthesis
@@ -139,7 +141,7 @@
 - Veydosebrom
 
 **Fixes**
-- Created NPC Merge.
+- Created NPC Merge [This took way longer than it should have]
 - Regenerated AllGUD.
 - Regenerated DynDOLOD and TexGEN (way too many times)
 - Renamed Seperators and moved mods around to better fit areas.
