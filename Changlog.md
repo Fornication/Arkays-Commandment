@@ -12,7 +12,11 @@
 - Bijin NPCS
 - Bijin Warmaidens
 - Bijin Wives
+- Blended Roads Redone
 - Bodyslide
+- Campfire
+- Campfire Better Dynamic Snow patch
+- Cathedral 3D Grass
 - CBBE Bodyslide Presets Compendium (using only the mage one)
 - COTN Dawnstar
 - COTN Morthal
@@ -43,6 +47,7 @@
 - KS Hairdos
 - KS Hairdos - Salt and Wind
 - Legacy of the Dragonborn
+- Legacy of the Dragonborn - Cleaned Textures
 - Legacy of the Dragonborn Patches
 - Male NPC Overhaul SE
 - MXPF
@@ -73,15 +78,19 @@
 - Skyrim Realistic Conquering - Traitors Post
 - Stenvar Revamped
 - Sovngarde Light Font
+- Sunhelm Survival and Needs
+- Sunhelm Survival compatability patches
 - Superior Lore Friendly Hair
 - Synthesis
 - TES Arena Cities
 - Tempered Skins for Males
+- The Brotherhood of Old
 - The Frozen North
 - The Ordinary Women
 - The Ordinary Women Salt and Wind
 - The Ultimate Dodge Mod
 - Ultimate Combat
+- Unofficial Campire and Frostfall Fixes
 - Varied Guard Armor
 - Vivid Landscapes
 - Vominheim
@@ -94,6 +103,7 @@
 **Removed**
 - Bed Head
 - Book Covers Skyrim (Not needed with LotD)
+- Dawnguard Map Markers
 - Diverse Dragons Collection
 - Dragon Animation Replacer
 - Dragon Remains Updated
@@ -111,6 +121,8 @@
 - Morroloot Miscellania Hybrid Loot
 - Morrowloot Miscellania Item Distribution
 - Recleaned Menu
+- Relighting Skyrim
+- Relighting Skyrim - No Player Homes
 - Remove Quicksave button
 - Roboto Font
 - Rustic Dragons
