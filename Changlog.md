@@ -6,6 +6,7 @@
 - An Easter Egg
 - Armor Variants Expansion
 - Beards of Power
+- Beast Hair Horn Beard and Brow
 - Better Dynamic Snow Patcher
 - Better Wyrmstooth Map
 - Bijin Family - Salt and Wind
@@ -26,6 +27,7 @@
 - Cloaks of Skyrim
 - Cloaks of Skyrim HD
 - Cuyima Interesting NPC's
+- Cuyima Interesting NPC's - Salt and Wind
 - Dark Face Issue Reporter
 - Darling Eye Replacer
 - Dear Diary
@@ -35,7 +37,7 @@
 - Feminine Khajiit Textures [Grey Cat] (CBBE)
 - Followers, Hirelings and Housecarls
 - Fort Takeovers Framework
-- Fresh Faces [Custom patched for Astrid Only]
+- Gentle Muiri
 - Glorious Doors of Skyrim
 - Halgari's RPG Loot
 - Hammets Dungeon Pack
@@ -43,31 +45,44 @@
 - Interesting NPC's Karthwasten Patch
 - Interesting NPC's Kynesgrove Patch
 - Interesting NPC's Legacy of The Dragonborn
+- Interesting NPC's Visual Overhaul
 - Interesting NPC's Zora Customiser
+- Kalilies NPCs
 - KS Hairdos
 - KS Hairdos - Salt and Wind
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn - Cleaned Textures
+- Legacy of the Dragonborn NPC Overhaul
 - Legacy of the Dragonborn Patches
-- Male NPC Overhaul SE
 - MXPF
 - Markarth Enterance Overhaul Fixed
 - Masculine Khajiit Textures [Grey Cat]
+- Metalsabers Beautiful Orcs of Skyrim
 - Nemesis
 - Northern Marsh Bridges
 - Oblivion Like Loading Menu
-- Pandorable's Black Briar Ladies - Maven Ingun
 - Pandorable's Initiates
 - Pandorable's Lethal Ladies
 - Pandorable's NPC's
-- Pandorable's NPC's Dawnguard
-- Pandorable's NPC's Dragonborn
+- Pandorable's NPC's - Dawnguard
+- Pandorable's NPC's - Dragonborn
+- Pandorable's NPC's - Males
 - Pandorable's NPC's Salt and Wind
 - Pandorable's NPC's Dawnguard - Salt and Wind
 - Pandorable's NPC's Dragonborn - Salt and Wind
 - Pandorable's Shield Sisters
 - Paper UI Sounds
+- Pride of Skyrim 2 - Men of the Thieves Guild NPC Overhaul
+- Pride of Skyrim 3 - Men of the Companions NPC Overhaul
+- Pride of Skyrim 4 - Men of Riften NPC Overhaul
+- Pride of Skyrim 5 - Men of The Reach NPC Overhaul
+- Pride of Skyrim 6 - Men of Winterhold NPC Overhaul
+- Pride of Skyrim 7 - Men of Windhelm NPC Overhaul
+- Pride of Skyrim 8 - Men of Solitude NPC Overhaul
+- Pride of Skyrim 9 - Small Town Men NPC Overhaul
+- Pride of Skyrim 10 - Falkreath Riverwood Whiterun Male NPC Overhaul
 - Rodryks Dragonbridge
+- Seranaholic
 - Simple Sleeved Armor
 - SkyRem AVA
 - SkyRem CORI
@@ -76,7 +91,6 @@
 - Skyrim Realistic Conquering - Shors Watchtower
 - Skyrim Realistic Conquering - Swindlers Den
 - Skyrim Realistic Conquering - Traitors Post
-- Stenvar Revamped
 - Sovngarde Light Font
 - Sunhelm Survival and Needs
 - Sunhelm Survival compatability patches
@@ -86,11 +100,10 @@
 - Tempered Skins for Males
 - The Brotherhood of Old
 - The Frozen North
-- The Ordinary Women
-- The Ordinary Women Salt and Wind
 - The Ultimate Dodge Mod
 - Ultimate Combat
 - Unofficial Campire and Frostfall Fixes
+- Valerica
 - Varied Guard Armor
 - Vivid Landscapes
 - Vominheim
@@ -131,6 +144,9 @@
 - The Decayed Dragon
 - Whistling Mine
 - Wider MCM Menu
+- Vanilla NPC's Ruhmastered
+- Windsongs Immersive Character Overhaul
+- Ethereal Elven Overhaul
 
 **Updated**
 - Arena
@@ -157,6 +173,6 @@
 - Regenerated AllGUD.
 - Regenerated DynDOLOD and TexGEN (way too many times)
 - Renamed Seperators and moved mods around to better fit areas.
-- Resolved some issues that new additions caused.
+- Reworked, Created and Updated Conflict Resolution patches [Most new additions have been method patched in]
 - Updated a few mods and resolved any new conflicts.
 - Worked through load order making sure it made sense/was logical.
