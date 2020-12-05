@@ -15,14 +15,14 @@
 - Bijin Wives
 - Blended Roads Redone
 - Bodyslide
-- Campfire
-- Campfire Better Dynamic Snow patch
-- Cathedral 3D Grass
 - CBBE Bodyslide Presets Compendium (using only the mage one)
 - COTN Dawnstar
 - COTN Morthal
 - COTN Patch (Many many patches)
 - COTN Winterhold
+- Campfire
+- Campfire Better Dynamic Snow patch
+- Cathedral 3D Grass
 - City Enterance Overhaul - Windhelm
 - Cloaks of Skyrim
 - Cloaks of Skyrim HD
@@ -37,8 +37,10 @@
 - Feminine Khajiit Textures [Grey Cat] (CBBE)
 - Followers, Hirelings and Housecarls
 - Fort Takeovers Framework
+- Fossil Mining - with Legacy support
 - Gentle Muiri
 - Glorious Doors of Skyrim
+- Grey Cowl of Nocturnal Alikr Flora Overhual SE
 - Halgari's RPG Loot
 - Hammets Dungeon Pack
 - Interesting NPC's
@@ -47,11 +49,17 @@
 - Interesting NPC's Legacy of The Dragonborn
 - Interesting NPC's Visual Overhaul
 - Interesting NPC's Zora Customiser
-- Kalilies NPCs
 - KS Hairdos
 - KS Hairdos - Salt and Wind
+- Kala's Eyes
+- Kala's Eyes - Beast Races
+- Kala's Eyes - Elf Eyes
+- Kalilies NPCs
+- Khajiit hearthfires
+- Legacy Safehouse Plus
 - Legacy of the Dragonborn
 - Legacy of the Dragonborn - Cleaned Textures
+- Legacy of the Dragonborn - Fate Cards Re-texture
 - Legacy of the Dragonborn NPC Overhaul
 - Legacy of the Dragonborn Patches
 - MXPF
@@ -67,11 +75,12 @@
 - Pandorable's NPC's - Dawnguard
 - Pandorable's NPC's - Dragonborn
 - Pandorable's NPC's - Males
-- Pandorable's NPC's Salt and Wind
 - Pandorable's NPC's Dawnguard - Salt and Wind
 - Pandorable's NPC's Dragonborn - Salt and Wind
+- Pandorable's NPC's Salt and Wind
 - Pandorable's Shield Sisters
 - Paper UI Sounds
+- Pride of Skyrim 10 - Falkreath Riverwood Whiterun Male NPC Overhaul
 - Pride of Skyrim 2 - Men of the Thieves Guild NPC Overhaul
 - Pride of Skyrim 3 - Men of the Companions NPC Overhaul
 - Pride of Skyrim 4 - Men of Riften NPC Overhaul
@@ -80,17 +89,13 @@
 - Pride of Skyrim 7 - Men of Windhelm NPC Overhaul
 - Pride of Skyrim 8 - Men of Solitude NPC Overhaul
 - Pride of Skyrim 9 - Small Town Men NPC Overhaul
-- Pride of Skyrim 10 - Falkreath Riverwood Whiterun Male NPC Overhaul
+- Relic Hunter - Guildmaster Start (Legacy and ASLAL addon)
 - Rodryks Dragonbridge
 - Seranaholic
 - Simple Sleeved Armor
 - SkyRem AVA
 - SkyRem CORI
 - Skyrim Realistic Conquering - All In One
-- Skyrim Realistic Conquering - Riverside Shack
-- Skyrim Realistic Conquering - Shors Watchtower
-- Skyrim Realistic Conquering - Swindlers Den
-- Skyrim Realistic Conquering - Traitors Post
 - Sovngarde Light Font
 - Sunhelm Survival and Needs
 - Sunhelm Survival compatability patches
@@ -99,7 +104,13 @@
 - TES Arena Cities
 - Tempered Skins for Males
 - The Brotherhood of Old
+- The Curators Companion
+- The Eyes Of Beauty SSE
 - The Frozen North
+- The Grey Cowl of Nocturnal - Alternative Start
+- The Grey Cowl of Nocturnal SE
+- The Grey Cowl of Nocturnal SE - Addons and Patches
+- The Grey Cowl of Nocturnal SSE - HD Pack
 - The Ultimate Dodge Mod
 - Ultimate Combat
 - Unofficial Campire and Frostfall Fixes
@@ -115,24 +126,33 @@
 
 **Removed**
 - Bed Head
+- Better MessageBox Controls
 - Book Covers Skyrim (Not needed with LotD)
 - Dawnguard Map Markers
 - Diverse Dragons Collection
+- Double Sided Vertex Human Mouth Fix SSE
 - Dragon Animation Replacer
 - Dragon Remains Updated
 - Dragonbridge
+- ElSopa HD - Briar Heart
+- Ethereal Elven Overhaul
+- Eye Normal Map Fix SSE
 - FNIS
 - Favourite Things - Extended Favourites menu
 - HD Serpentine Dragon
 - Immersive Bookreading
 - Immersive Dragons
 - Immersive Lockpicking
+- Immersive Mouth and teeth
 - Immersive Patrols
+- Just Fangs from BVFE
+- Khajiit Wild Eyes
 - Loading screen smoke removed
 - Majestic Mountains DynDOLOD (swapped to xLODGen version)
 - Marvelous Windhelm Gate (Replaced with Glorious doors of Skyrim)
 - Morroloot Miscellania Hybrid Loot
 - Morrowloot Miscellania Item Distribution
+- No More Laser-Printed Book
 - Recleaned Menu
 - Relighting Skyrim
 - Relighting Skyrim - No Player Homes
@@ -142,17 +162,17 @@
 - Smaller Cursors
 - Splendor Dragon Variants
 - The Decayed Dragon
+- Vanilla NPC's Ruhmastered
 - Whistling Mine
 - Wider MCM Menu
-- Vanilla NPC's Ruhmastered
 - Windsongs Immersive Character Overhaul
-- Ethereal Elven Overhaul
 
 **Updated**
 - Arena
 - CBBE
 - Cathedral Weathers
 - Dwemer Gates don't reset
+- Falkreath Hauntings
 - Growl
 - Guard Dialogue Overhaul
 - Improved College Enterance
