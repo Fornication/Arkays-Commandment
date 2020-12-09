@@ -1,6 +1,6 @@
 # 0.0.1 HF 1 - Small Hotfix
 
-*Released to dev team** : `soon`
+*Released to dev team** : `09/12/2020`
 
 **Notes** : Tiny hotfix to fix an issue with 3DNPC and update USSEP.
 
