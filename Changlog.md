@@ -1,4 +1,18 @@
+# 0.0.1 HF 1 - Small Hotfix
+
+*Released to dev team** : `soon`
+
+**Notes** : Tiny hotfix to fix an issue with 3DNPC and update USSEP.
+
+**Updated**
+- Unoffical Skyrim Special Edition Patch
+
+**Fixes**
+- Swapped 3DNPC version to loose files to avoid issues with crashing.
+
 # 0.0.1 - The initial build
+
+**Released to dev team** : `08/12/2020`
 
 **Notes** : The first build of AKL based off TPF. As a result, expect some major changes. TLDR: Making da list.
 
