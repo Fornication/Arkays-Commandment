@@ -1,6 +1,22 @@
+# 0.0.2 - Fixes, Updates and CR
+
+*Released to dev team* : `N/A`
+
+**Notes** : Mainly bugfixes and removals of things which were surplus to requirements/not fitting.
+
+**Removed**
+
+- No NPC Greeting (Not needed with Dragonstone)
+- True Homecooked meals
+- Unique Uniques (Inlcuded in LotD)
+- Unique Zephyr (Included in LotD)
+- Unique Barbas
+- No Road Predators redone
+
+
 # 0.0.1 HF 1 - Small Hotfix
 
-*Released to dev team** : `09/12/2020`
+*Released to dev team* : `09/12/2020`
 
 **Notes** : Tiny hotfix to fix an issue with 3DNPC and update USSEP.
 
