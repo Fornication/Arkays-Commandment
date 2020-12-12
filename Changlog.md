@@ -1,11 +1,24 @@
-# 0.0.1.1 - Fixes, Updates and CR
+# 0.0.1 HF 3 - More fixes
+
+**Notes**: Another small hotfix for some items that came up in testing.
+
+**Removed**
+- The Easter Egg
+- Blade and Blunt (Redundant with Dragonstone)
+- Simply Smaller Wolves (Redundant with Dragonstone)
+
+**Fixes**
+- Added NFF Preset.
+- Created a few more custom patches to help gain some consistency.
+- Redid Synthesis patch
+
+# 0.0.1 HF 2 - Fixes, Updates and CR
 
 *Released to dev team* : `12/12/2020`
 
 **Notes** : Mainly bugfixes and removals of things which were surplus to requirements/not fitting.
 
 **Removed**
-
 - No NPC Greeting (Not needed with Dragonstone)
 - True Homecooked meals
 - Unique Uniques (Inlcuded in LotD)
