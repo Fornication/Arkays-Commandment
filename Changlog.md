@@ -1,5 +1,7 @@
 # 0.0.1 HF 3 - More fixes
 
+*Released to dev team* : `12/12/2020`
+
 **Notes**: Another small hotfix for some items that came up in testing.
 
 **Removed**
