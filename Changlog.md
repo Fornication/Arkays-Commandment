@@ -1,6 +1,6 @@
-# 0.0.2 - Fixes, Updates and CR
+# 0.0.1.1 - Fixes, Updates and CR
 
-*Released to dev team* : `N/A`
+*Released to dev team* : `12/12/2020`
 
 **Notes** : Mainly bugfixes and removals of things which were surplus to requirements/not fitting.
 
@@ -13,6 +13,9 @@
 - Unique Barbas
 - No Road Predators redone
 
+**Fixes**
+- Updated NPC merge to inlcude USSEP changes.
+- Adjusted Load order to help with more subtle changes to the list.
 
 # 0.0.1 HF 1 - Small Hotfix
 
