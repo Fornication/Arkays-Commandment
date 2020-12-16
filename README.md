@@ -18,7 +18,6 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Getting an ENB](#getting-an-enb)
-    - [Switching Weather Mods (or Profiles)](#Switching-Weather-Mods)
 - [Updating](#updating)
 - [In Game MCM Options](#in-game-mcm-options)
 - [Creating your Character](#creating-your-character)
@@ -34,14 +33,14 @@
 
 A Khat’s Life is a fork of The Phoneix Flavour that expands the already amazing guide with a focus on the Khajiiti race and creating a Skyrim that feels alive, whilst also remaining true to lore and having a realistic feel. This is achieved through the addition of mods such as Dragonstone, The Frozen North, Moonpath to Elysweyr, Legacy of the Dragonborn and a variety of other content. The gameplay will be harder but feel more rewarding, with many new enchantments and items that do not stray too far from lore. 
 
-The list also aims to be accessible to those that might not have the highest end systems, with most textures being at most 2k with the majotity being 2k-1k to enable better performance on lower end systems without any noticable visual quallity deterioration. AKL has been patched fully [currently in progress] to achieve consistency and compatibility. In the case where patches didn't already exist or were found to be inadequate/ill fitting, they have been created.
+The list also aims to be accessible to those that might not have the highest end systems, with most textures being at most 2k with the majority being 2k-1k to enable better performance on lower end systems without any noticable visual quallity deterioration. AKL has been patched fully to achieve consistency and compatibility. In the case where patches didn't already exist or were found to be inadequate/ill fitting, they have been created.
 
 **This list is currently not available for public usage.**
 If you have any queries about the list, please come and join the discord server which I created for it:  https://discord.gg/cZ4UXMjZrr
 
   ## Thought process behind creation
 
-With this list, I wanted to create a Skyrim which feels different from the other lists out there. I aim to have a land that feels gritty, lived in and realistic. You won't be finding ordinator, VIGILANT, SkySouls or any mods which feel unrealistic in here. 
+With this list, I wanted to create a Skyrim which feels different from the other lists out there. I aim to have a land that feels gritty, lived in and realistic. You won't be finding any mods which feel unrealistic or don't fit in with the lore. 
 
 Instead you'll find one's such as Adamant, Dragonstone, Skyrim Realistic Conquering, Sunhelm, The Frozen North, Zim's Dragon Improvements and many others. These mods were chosen, primarily for their fitting in with the theme of realism and how they integrate with the world.
 
@@ -140,14 +139,6 @@ This can happen when I update the modlist. Check if a new update is available an
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
 ### Post-Installation
-
-#### Download Lod Files
-
-Currently, the list has it's lod file seperate from the main installer. You grab these from the same place you got the list and then want to place them as follows on the left pane:
-
-https://cdn.discordapp.com/attachments/779138936916148296/780209749572190238/Left_Pane.jpg
-
-On the right pane, make sure DynDOLOD.esm is the last ESM loaded, DynDOLOD.esp is the 2nd last and Occlusion.esp is the last.
 
 #### Copy Game Folder Files
 
@@ -259,20 +250,6 @@ Once the game has loaded. Wait until there are no more messages on the top left 
     - Show Magicka Meter: Disabled
     - Show Stamina Meter: Disabled
 
-#### Lock Overhaul
-- General : 
-  - Activate Lock Overhaul: Enabled (This will require you to exit and reload the MCM)
-- General → General Settings : 
-  - Allow increasing skill : Enabled
-  - Enable the sound effect : Enabled
-  - Enable Crime: Enabled
-- Smash Locks → Smash Locks : 
-  - Activate Smash Locks: Enabled
-  - Allow Weapons : Two + One Handed
-- Unlock with Magic → Unlock Spell :
-  - Enable Unlock Spell : Enabled
-  - Frost effect Required Skill malus: -0
-
 #### Quick Light
 - Quick Light → Brightness :
   - Brightness - Bright
@@ -382,7 +359,7 @@ That's because I'm still working on the finer details of things. If you think so
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the AKL Discord. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 ## Changelog
 
