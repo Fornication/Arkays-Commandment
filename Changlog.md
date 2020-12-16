@@ -1,8 +1,46 @@
+# 0.0.2 - Updates and upgrades
+
+*Released to dev team* : `tbc`
+
+**Notes** : Next major list update. Includes some major changes and updates to quite a few mods.
+
+**Added**
+- 3DNPC Navmesh and Improvement Fixes
+- Beards of Power - Sons of Skyrim
+- FranklinZunge Collection Bodyslide Meshes
+- FranklinZunge's Brigandage
+- FranklinZunge's Common Clothes
+- Water For ENB (Custom patched to work with RW2)
+- Yggdrasil Music and Sound FX
+
+**Removed**
+- Armor Variants Expansion (Swapped to Brigandage)
+
+**Updated**
+- Adamant
+- Beards of Power
+- Enhanced Vanilla Trees
+- Enhanced Vanilla Trees Alternate Branch Textures
+- Misc Tweaks - Shrines Don't Cure Diseases
+- Morrowloot Miscellania No Crafting bonuses
+- Sacrosanct
+- Skyrim Landscape and Water Fixes
+
+**Fixes**
+- Fixed some Levelled List issues
+- Fixed the music lists
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis
+- Regenerated TexGEN
+- Regenertaed xLODGEN
+- Updated NPC Merge with new mods
+
 # 0.0.1 HF 3 - More fixes
 
 *Released to dev team* : `12/12/2020`
 
-**Notes**: Another small hotfix for some items that came up in testing.
+**Notes** : Another small hotfix for some items that came up in testing.
 
 **Removed**
 - The Easter Egg
