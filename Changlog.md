@@ -8,13 +8,15 @@
 - 3DNPC Navmesh and Improvement Fixes
 - Beards of Power - Sons of Skyrim
 - FranklinZunge Collection Bodyslide Meshes
-- FranklinZunge's Brigandage
-- FranklinZunge's Common Clothes
+- Project NordwarUA
+- Serana Reimagined SSE
+- Tale of Two Mers
 - Water For ENB (Custom patched to work with RW2)
 - Yggdrasil Music and Sound FX
 
 **Removed**
 - Armor Variants Expansion (Swapped to Brigandage)
+- Seranaholic
 
 **Updated**
 - Adamant
