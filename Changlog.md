@@ -1,16 +1,20 @@
 # 0.0.2 - Updates and upgrades
 
-*Released to dev team* : `tbc`
+*Released to dev team* : `19/12/2020`
 
-**Notes** : Next major list update. Includes some major changes and updates to quite a few mods.
+**Notes** : Next major list update. Mainly smaller additions but bigger fixes to stuff.
 
 **Added**
 - 3DNPC Navmesh and Improvement Fixes
 - Beards of Power - Sons of Skyrim
 - FranklinZunge Collection Bodyslide Meshes
+- Leviathan Animations - Female Idle, Walk and Run
+- Leviathan Animations - Male Idle, Walk and Run
+- Leviathan Animations - Sprint
 - Project NordwarUA
 - Serana Reimagined SSE
 - Tale of Two Mers
+- Thieves Night on the Town
 - Water For ENB (Custom patched to work with RW2)
 - Yggdrasil Music and Sound FX
 
@@ -21,16 +25,20 @@
 **Updated**
 - Adamant
 - Beards of Power
+- Dwemer Gates Don't Reset
 - Enhanced Vanilla Trees
 - Enhanced Vanilla Trees Alternate Branch Textures
 - Misc Tweaks - Shrines Don't Cure Diseases
 - Morrowloot Miscellania No Crafting bonuses
 - Sacrosanct
 - Skyrim Landscape and Water Fixes
+- Shors Stone
+- Unofficial Skyrim Special Edition Patch
 
 **Fixes**
 - Fixed some Levelled List issues
 - Fixed the music lists
+- Regnerated Better Dynamic Snow Patch
 - Regenerated DynDOLOD
 - Regenerated Occlusion
 - Regenerated Synthesis
