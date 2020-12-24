@@ -1,4 +1,9 @@
 # A-Khats-Life
+
+![akl-banner](AKLLargeImage.png)
+
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/AKL/badge.json)
+
  **Contents**
 - [Preamble](#preamble)
   - [Thought Process](#thought-process-behind-creation)
@@ -53,7 +58,7 @@ The specs the list were developed on are linked here: https://uk.pcpartpicker.co
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
-This modlist is approximately **164GB** in total size, with the downloads being **53.5GB**.
+This modlist is approximately **169GB** in total size, with the downloads being **55GB**.
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
@@ -114,8 +119,8 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Load _A Khat's Life.wabbajack file_ from Disk
-3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "A Khat's Life".
+2. Load _A Khats Life.wabbajack file_ from Disk
+3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "A Khats Life".
 4. Select the created folder in 3. as your installation folder.
 5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
 6. Select the created folder in 5. as your downloads folder.
@@ -285,8 +290,8 @@ Once the game has loaded. Wait until there are no more messages on the top left 
 #### The Ultimate Dodge Mod  
  - Configure your dodge key and your sneak key! As written, it is your vanilla sneak key. This step is very important
  A Keybinding example would be:
- - Vanilla Sneak key within Options: C
- - Sneak key within TUDM's MCM: Left Control
+  - Vanilla Sneak key within Options: C
+  - Sneak key within TUDM's MCM: Left Control
 Now your character will roll/sidestep with C and Sneak with Left Control
 I also would recommend to use sidestep (personal preference)
 
