@@ -41,7 +41,6 @@ A Khat’s Life is a fork of The Phoneix Flavour that expands the already amazin
 The list also aims to be accessible to those that might not have the highest end systems, with most textures being at most 2k with the majority being 2k-1k to enable better performance on lower end systems without any noticable visual quallity deterioration. AKL has been patched fully to achieve consistency and compatibility. In the case where patches didn't already exist or were found to be inadequate/ill fitting, they have been created.
 
 **This list is currently not available for public usage.**
-If you have any queries about the list, please come and join the discord server which I created for it:  https://discord.gg/cZ4UXMjZrr
 
   ## Thought process behind creation
 
