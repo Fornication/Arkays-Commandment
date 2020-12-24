@@ -1,3 +1,25 @@
+# 0.0.3 - All the Cats!
+
+*Released to dev team* : `soontm`
+
+**Notes** : Slowly getting closer to release candidate version. This release finally adds in the Khajiit related mods. The decision to swap to SkyRe is still being considered. It is possible that a test build featuring it and a few other mods may be created for testing. This remains to be seen.
+
+**Added**
+- A Cat's Life
+- BA Khajiit Speak Redux
+- Even More Khajiit Speak patches
+- EZ2C Dialogue Menu
+- House Cats SSE
+- Khajiit Speak Extended
+- Khajiit Speak Extended Extended
+- Lock Overhaul
+- Missives
+- Missives Worldspace Additions
+- Your Own Thoughts
+
+**Fixes**
+- Khajiit Speak Consistency fixes to ensure whole game coverage [in progress]
+
 # 0.0.2 - Updates and upgrades
 
 *Released to dev team* : `19/12/2020`
