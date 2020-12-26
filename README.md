@@ -121,11 +121,9 @@ The download and installation process can take a very long time depending on you
 1. Open Wabbajack
 2. Load _A Khats Life.wabbajack file_ from Disk
 3. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "A Khats Life".
-4. Select the created folder in 3. as your installation folder.
-5. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish.
-6. Select the created folder in 5. as your downloads folder.
-7. Click the Go/Begin button.
-8. Wait for Wabbajack to finish.
+4. Select the created folder in 3. as your installation folder. Wabbajack will then auto-create the downloads folder inside that folder.
+5. Click the Go/Begin button.
+6. Wait for Wabbajack to finish.
 
 ##### Problems with Wabbajack
 
