@@ -1,6 +1,6 @@
 # Rovaan
 
-![Rovaan-banner](Splash.png)
+![Rovaan-banner](splash.png)
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/AKL/badge.json)
 
