@@ -5,34 +5,24 @@
 **Notes** : Spent some time testing a few things out and decided to continue working on this version as a lot of work had already been done. TLDR: Some big changes, some small changes. Lot of CR fixes and reworking of things. Should be prettier and not cost as many frames. **This is seriously not save compatible. Don't even think of trying.**
 
 **Added**
-- A Cat's Life
-- BA Khajiit Speak Redux
-- Even More Khajiit Speak patches
-- EZ2C Dialogue Menu
-- House Cats SSE
-- Khajiit Speak Extended
-- Khajiit Speak Extended Extended
-- Lock Overhaul
-- Missives
-- Missives Worldspace Additions
-- Project Clarity - Clutter Textures Redone
-- Project Clarity - Creature Textures Redone
-- Project Clarity - Effects Textures Redone
-- Project Clarity - Vanilla Armor Texture Redone
-- Project Clarity - Vanilla Clother And Jewelry Textures Redone
-- Project Clarity - Vanilla Weapon Texture Redone
 - SSE Parallax Shader Fix (BETA)
 - Skyrim 2018 by Pfuscher
 - Skyrim 2019
 - Skyrim 2020 Parallax by Pfuscher
-- Skyrim Wayshrines - Immersive Fast Travel - 
-- Your Own Thoughts
 
 **Removed**
-
+- Noble Skyrim
+- Noble Skyrim SMIM Patch
+- True Nordic Farmhouses - Standard
+- The Streets of Whiterun in HD
+- Riften in High Definition
+- HQ Solitude
+- Skyland - Winterhold
+- CC's Castle Volkihar Reborn
 
 **Fixes**
-- Khajiit Speak Consistency fixes to ensure whole game coverage [in progress]
+- Updated the MO2 Left pane sorting to make more logical sense.
+- Reprocessed a lot of Textures using Octagon to deliver better FPS for negligable quality decrease.
 
 # 0.0.2 - Updates and upgrades
 
