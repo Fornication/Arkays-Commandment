@@ -1,4 +1,4 @@
-# 0.0.3 - All the Cats!
+# 0.0.3 - Make Althro Happy again
 
 *Released to dev team* : `tbc`
 
