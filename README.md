@@ -1,6 +1,6 @@
-# A-Khats-Life
+# Rovaan
 
-![akl-banner](AKLLargeImage.png)
+![Rovaan-banner](Splash.png)
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/AKL/badge.json)
 
