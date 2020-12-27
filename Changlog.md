@@ -1,8 +1,157 @@
+# 0.1 - Faal Rovaan Dovahkien
+
+*Released to dev team* : `tbc`
+
+**Notes** : New major dev milestone. Completely reworked everything from textures and gameplay to expansions, NPC's and more. This version should be more stable and is more inline with the new vision for the modlist. TLDR: New name, new direction, big changes. **This is seriously not save compatible. Don't even think of trying.**
+
+**Added**
+- AI Overhaul - OCS Patch
+- Artic - Frost Effects Redux
+- ELE SE - Helgen Reborn Patch
+- ELFX Fixes
+- Enhanced Lighting and FX
+- Enhanced Lighting for ENB (ELE)
+- Guard Armor Replacer
+- Heavy Legion
+- Helgen Reborn - NordWarUA Armor Replacer
+- High Poly Head v1.4
+- High Poly Inigo
+- High Poly NPC Overhaul
+- High Poly NPC Overhaul - 3DNPC
+- High Poly NPC Overhaul - AI Overhaul Patch
+- High Poly NPC Overhaul - Alternate Start Live Another Life
+- High Poly NPC Overhaul - Dragonstone
+- High Poly NPC Overhaul - Heritage
+- High Poly NPC Overhaul - Immersive Fort Dawnguard
+- High Poly NPC Overhaul - JK's Skyrim
+- High Poly NPC Overhaul - Mrissi
+- High Poly NPC Overhaul - Obscure's College of Winterhold
+- High Poly NPC Overhaul - TES Arena (Split into 6)
+- High Poly NPC Overhaul - Wyrmstooth
+- Inigo
+- JK's Skyrim
+- JK's Skyrim - AI Overhaul Patch
+- JK's Skyrim - Open Cities Patch
+- Obsidian Mountain Fogs
+- Obsidian Weathers and Seasons
+- Obsidian Weathers and Seasons MCM Patch
+- Open Cities Skyrim - SSE
+- Open Wayshrines Add-on for SWIFT
+- Project Clarity - Clutter Textures Redone
+- Project Clarity - Creature Textures Redone
+- Project Clarity - Effects Textures Redone
+- Project Clarity - Vanilla Armor Texture Redone
+- Project Clarity - Vanilla Clother And Jewelry Textures Redone
+- Project Clarity - Vanilla Weapon Texture Redone
+- QRVAE - Qwinns Refined Visual Animated Enchants
+- RRSC - AI Overhaul Patch
+- RRSC - Helgen Reborn Patch
+- RS Children Overhaul
+- RS Children Overhaul Patch Compendium
+- Realistic RS Children Overhaul
+- SSE Parallax Shader Fix (BETA)
+- SWIFT SE
+- Skyrim 2018 by Pfuscher
+- Skyrim 2019
+- Skyrim 2020 Parallax by Pfuscher
+- Skyrim Wayshrines - Immersive Fast Travel -
+- Soulmancer Music Merge
+- Visual Animated Enchants - VAE
+- WOODFIRES - Redux
+- Your Own Thoughts
+
+**Removed**
+*More than I can type out but here's the main ones*
+- Adamant
+- Arena
+- Beards of Power - Sons of Skyrim
+- Bijin Family - Salt and Wind
+- Bijin NPCS
+- Bijin Warmaidens
+- Bijin Wives
+- CC's Castle Volkihar Reborn
+- Cathedral Weathers
+- Cuyima Interesting NPC's
+- Cuyima Interesting NPC's - Salt and Wind
+- Dark Face Issue Reporter
+- Darling Eye Replacer
+- Dragonstone - A Skyrim Overhaul
+- Falkreath Hauntings
+- Followers, Hirelings and Housecarls
+- Fort Takeovers Framework
+- Fossil Mining - with Legacy support
+- FranklinZunge Collection Bodyslide Meshes
+- Gentle Muiri
+- HQ Solitude
+- Halgari's RPG Loot
+- Improved College Enterance
+- Interesting NPC's
+- Interesting NPC's Karthwasten Patch
+- Interesting NPC's Kynesgrove Patch
+- Interesting NPC's Legacy of The Dragonborn
+- Interesting NPC's Visual Overhaul
+- Interesting NPC's Zora Customiser
+- KS Hairdos
+- KS Hairdos - Salt and Wind
+- Khajiit hearthfires
+- Legacy Safehouse Plus
+- Legacy of the Dragonborn
+- Legacy of the Dragonborn - Cleaned Textures
+- Legacy of the Dragonborn - Fate Cards Re-texture
+- Legacy of the Dragonborn NPC Overhaul
+- Legacy of the Dragonborn Patches
+- Leviathan Animations - Female Idle, Walk and Run
+- Leviathan Animations - Male Idle, Walk and Run
+- Leviathan Animations - Sprint
+- Markarth Enterance Overhaul Fixed
+- Metalsabers Beautiful Orcs of Skyrim
+- Mysticism
+- Noble Skyrim
+- Noble Skyrim SMIM Patch
+- Oblivion Like Loading Menu
+- Pandorable's Initiates
+- Pandorable's Lethal Ladies
+- Pandorable's NPC's
+- Pandorable's NPC's - Dawnguard
+- Pandorable's NPC's - Dragonborn
+- Pandorable's NPC's - Males
+- Pandorable's NPC's Dawnguard - Salt and Wind
+- Pandorable's NPC's Dragonborn - Salt and Wind
+- Pandorable's NPC's Salt and Wind
+- Pandorable's Shield Sisters
+- Pride of Skyrim 10 - Falkreath Riverwood Whiterun Male NPC Overhaul
+- Pride of Skyrim 2 - Men of the Thieves Guild NPC Overhaul
+- Pride of Skyrim 3 - Men of the Companions NPC Overhaul
+- Pride of Skyrim 4 - Men of Riften NPC Overhaul
+- Pride of Skyrim 5 - Men of The Reach NPC Overhaul
+- Pride of Skyrim 6 - Men of Winterhold NPC Overhaul
+- Pride of Skyrim 7 - Men of Windhelm NPC Overhaul
+- Pride of Skyrim 8 - Men of Solitude NPC Overhaul
+- Pride of Skyrim 9 - Small Town Men NPC Overhaul
+- Relic Hunter - Guildmaster Start (Legacy and ASLAL addon)
+- Relighting Skyrim
+- Riften in High Definition
+- Rodryks Dragonbridge
+- Seranaholic
+- Simple Sleeved Armor
+- SkyRem AVA
+- SkyRem CORI
+- Skyland - Winterhold
+- Tempered Skins for Males
+- The Curators Companion
+- The Streets of Whiterun in HD
+- Trua
+- True Nordic Farmhouses - Standard
+- Valerica
+- Varied Guard Armor
+- Veydosebrom
+- Vivid Landscapes
+
 # 0.0.3 - Make Althro Happy again
 
 *Released to dev team* : `tbc`
 
-**Notes** : Spent some time testing a few things out and decided to continue working on this version as a lot of work had already been done. TLDR: Some big changes, some small changes. Lot of CR fixes and reworking of things. Should be prettier and not cost as many frames. **This is seriously not save compatible. Don't even think of trying.**
+**Notes** : Spent some time testing a few things out and decided to continue working on this version as a lot of work had already been done. TLDR: Some big changes, some small changes. Lot of CR fixes and reworking of things. Should be prettier and not cost as many frames. 
 
 **Added**
 - SSE Parallax Shader Fix (BETA)
