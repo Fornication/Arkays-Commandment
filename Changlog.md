@@ -5,8 +5,12 @@
 **Notes** : New major dev milestone. Completely reworked everything from textures and gameplay to expansions, NPC's and more. This version should be more stable and is more inline with the new vision for the modlist. TLDR: New name, new direction, big changes. **This is seriously not save compatible. Don't even think of trying.**
 
 **Added**
+- A Quality World Map
 - AI Overhaul - OCS Patch
 - Artic - Frost Effects Redux
+- Better Falskaar and Wyrmstooth Map with Roads
+- Beyond Reach
+- Book Covers Skyrim
 - ELE SE - Helgen Reborn Patch
 - ELFX Fixes
 - Enhanced Lighting and FX
@@ -17,21 +21,25 @@
 - High Poly Head v1.4
 - High Poly Inigo
 - High Poly NPC Overhaul
-- High Poly NPC Overhaul - 3DNPC
 - High Poly NPC Overhaul - AI Overhaul Patch
 - High Poly NPC Overhaul - Alternate Start Live Another Life
 - High Poly NPC Overhaul - Dragonstone
 - High Poly NPC Overhaul - Heritage
 - High Poly NPC Overhaul - Immersive Fort Dawnguard
 - High Poly NPC Overhaul - JK's Skyrim
-- High Poly NPC Overhaul - Mrissi
 - High Poly NPC Overhaul - Obscure's College of Winterhold
 - High Poly NPC Overhaul - TES Arena (Split into 6)
 - High Poly NPC Overhaul - Wyrmstooth
+- Immersive Fort Dawnguard
 - Inigo
 - JK's Skyrim
 - JK's Skyrim - AI Overhaul Patch
 - JK's Skyrim - Open Cities Patch
+- Medieval Candlehorns and Sconces
+- Medieval Silverworks
+- Medieval Silverworks STAC Patch
+- Medieval Spirits
+- Medieval Torch
 - Obsidian Mountain Fogs
 - Obsidian Weathers and Seasons
 - Obsidian Weathers and Seasons MCM Patch
@@ -49,16 +57,26 @@
 - RS Children Overhaul
 - RS Children Overhaul Patch Compendium
 - Realistic RS Children Overhaul
+- Reproccer Reborn
 - SSE Parallax Shader Fix (BETA)
 - SWIFT SE
 - Skyrim 2018 by Pfuscher
 - Skyrim 2019
 - Skyrim 2020 Parallax by Pfuscher
+- Skyrim Redone SE Unofficial Patches
+- Skyrim Skill Uncapper
 - Skyrim Wayshrines - Immersive Fast Travel -
+- Smoking Torches and Candles SSE
 - Soulmancer Music Merge
+- T3NDO's Skyrim SE Redone
+- Torch Particle System Renewal And Lighting Refinement
 - Visual Animated Enchants - VAE
 - WOODFIRES - Redux
+- WiZkiD Tree Selection
+- Window Shadows
+- Window Shadows Patch Hub
 - Your Own Thoughts
+- zEdit
 
 **Removed**
 *More than I can type out but here's the main ones*
@@ -147,3 +165,11 @@
 - Varied Guard Armor
 - Veydosebrom
 - Vivid Landscapes
+
+**Fixes**
+- Method patched the entire load order to ensure maximum compatability and consistency.
+- Regenerated Bodyslide
+- Regenerated DynDOLOD
+- Regenerated Synthesis
+- Regenerated TexGEN
+- Regenerated xLodGEN
