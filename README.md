@@ -311,6 +311,7 @@ That's because I'm still working on the finer details of things. If you think so
 - Halgari and everyone in the WJ Team - Wabbajack is awesome and so are you
 - Sovn for teaching me a lot of the stuff I didn't know, guiding me through compilation and being very patient with my questions.
 - ShadesofDawn for helping in the dev phase with some of the tougher questions and some of the patching.
+- GalaxySynth/Shelb for helping with development and being a very resourceful person.
 - Jen, Stronmaus, Destwin, Sabrenation and Mantis for helping with the play-testing and input in the development phase.
 
 ## Contact
