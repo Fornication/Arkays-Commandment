@@ -40,6 +40,8 @@
 - Medieval Silverworks STAC Patch
 - Medieval Spirits
 - Medieval Torch
+- No Grass In Objects
+- No Grassias - A Universal Grass Fix for Grass mods
 - Obsidian Mountain Fogs
 - Obsidian Weathers and Seasons
 - Obsidian Weathers and Seasons MCM Patch
@@ -70,6 +72,7 @@
 - Soulmancer Music Merge
 - T3NDO's Skyrim SE Redone
 - Torch Particle System Renewal And Lighting Refinement
+- Verdant - A Grass Plugin
 - Visual Animated Enchants - VAE
 - WOODFIRES - Redux
 - WiZkiD Tree Selection
@@ -167,6 +170,7 @@
 - Vivid Landscapes
 
 **Fixes**
+- Generated Grass Lods
 - Method patched the entire load order to ensure maximum compatability and consistency.
 - Regenerated Bodyslide
 - Regenerated DynDOLOD
