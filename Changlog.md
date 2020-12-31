@@ -8,15 +8,20 @@
 - A Quality World Map
 - AI Overhaul - OCS Patch
 - Artic - Frost Effects Redux
+- Belnded Roads Redone Bridges
 - Better Falskaar and Wyrmstooth Map with Roads
 - Beyond Reach
+- Blended Roads Redone
 - Book Covers Skyrim
+- ClefJ's Dragon Bridge Enhanced SSE
+- Darkwater Crossing
 - ELE SE - Helgen Reborn Patch
 - ELFX Fixes
 - Enhanced Lighting and FX
 - Enhanced Lighting for ENB (ELE)
 - Guard Armor Replacer
 - Heavy Legion
+- Helarchen Creek
 - Helgen Reborn - NordWarUA Armor Replacer
 - High Poly Head v1.4
 - High Poly Inigo
@@ -24,17 +29,22 @@
 - High Poly NPC Overhaul - AI Overhaul Patch
 - High Poly NPC Overhaul - Alternate Start Live Another Life
 - High Poly NPC Overhaul - Dragonstone
+- High Poly NPC Overhaul - Helarchen Creek
 - High Poly NPC Overhaul - Heritage
 - High Poly NPC Overhaul - Immersive Fort Dawnguard
 - High Poly NPC Overhaul - JK's Skyrim
+- High Poly NPC Overhaul - Oakwood
 - High Poly NPC Overhaul - Obscure's College of Winterhold
+- High Poly NPC Overhaul - Rorikstead
 - High Poly NPC Overhaul - TES Arena (Split into 6)
+- High Poly NPC Overhaul - Telengard
+- High Poly NPC Overhaul - The Great Town of Ivarstead
+- High Poly NPC Overhaul - The Great Town of Karthwasten
+- High Poly NPC Overhaul - The Great Town of Shors Stone
 - High Poly NPC Overhaul - Wyrmstooth
 - Immersive Fort Dawnguard
 - Inigo
-- JK's Skyrim
-- JK's Skyrim - AI Overhaul Patch
-- JK's Skyrim - Open Cities Patch
+- Loki's Wade In Water
 - Medieval Candlehorns and Sconces
 - Medieval Silverworks
 - Medieval Silverworks STAC Patch
@@ -42,9 +52,10 @@
 - Medieval Torch
 - No Grass In Objects
 - No Grassias - A Universal Grass Fix for Grass mods
-- Obsidian Mountain Fogs
+- Oakwood
 - Obsidian Weathers and Seasons
 - Obsidian Weathers and Seasons MCM Patch
+- Octagon Batch Texture Converter (More of a tool than a mod)
 - Open Cities Skyrim - SSE
 - Open Wayshrines Add-on for SWIFT
 - Project Clarity - Clutter Textures Redone
@@ -60,6 +71,7 @@
 - RS Children Overhaul Patch Compendium
 - Realistic RS Children Overhaul
 - Reproccer Reborn
+- Rorikstead
 - SSE Parallax Shader Fix (BETA)
 - SWIFT SE
 - Skyrim 2018 by Pfuscher
@@ -71,15 +83,28 @@
 - Smoking Torches and Candles SSE
 - Soulmancer Music Merge
 - T3NDO's Skyrim SE Redone
+- Telengard
+- The Great Cities - Resources
+- The Great Town of Ivarstead
+- The Great Town of Ivarstead Patch Collection
+- The Great Town of Shor's Stone
+- The Great Town of Shor's Stone Patch Collection
+- The Great Village of Karthwasten
+- The Great Village of Karthwasten Patch Collection
+- The Great Village of Kynesgrove
+- The Great Village of Kynesgrove Patch Collection
+- The Great Village of Mixwater Mill
 - Torch Particle System Renewal And Lighting Refinement
 - Verdant - A Grass Plugin
 - Visual Animated Enchants - VAE
 - WOODFIRES - Redux
+- WiZkiD Signs
 - WiZkiD Tree Selection
 - Window Shadows
 - Window Shadows Patch Hub
 - Your Own Thoughts
 - zEdit
+- zEdit UPF Loader
 
 **Removed**
 *More than I can type out but here's the main ones*
@@ -169,7 +194,15 @@
 - Veydosebrom
 - Vivid Landscapes
 
+**Updated**
+- DynDOLOD
+- DynDOLOD Resources
+- Papyrus Extender
+- NPC AI Process Position Fix
+- BodySlide and Outfit Studio
+
 **Fixes**
+- Custom Patched JK's Lite for Open Cities Skyrim
 - Generated Grass Lods
 - Method patched the entire load order to ensure maximum compatability and consistency.
 - Regenerated Bodyslide
