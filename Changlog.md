@@ -7,41 +7,36 @@
 **Added**
 - A Quality World Map
 - AI Overhaul - OCS Patch
+- Andrealphus' Gameplay Tweaks - Stones of Barenziah (Dawnguard, Solstheim, Falskaar, Wyrmstooth, Gray Fox)
 - Artic - Frost Effects Redux
 - Belnded Roads Redone Bridges
 - Better Falskaar and Wyrmstooth Map with Roads
 - Beyond Reach
 - Blended Roads Redone
 - Book Covers Skyrim
+- Butterflies Land True
+- Butterflies Unchained
+- CLefJ's Half Moon Mill
+- Cathedral Player and NPC Overhaul - HMB II
+- Charge Dialogue Fix
 - ClefJ's Dragon Bridge Enhanced SSE
-- Darkwater Crossing
+- ClefJ's Winterhold
+- ClefJ's Winterhold Patch Collection
+- Dawnguard don't hunt cured vampires
+- Don't Talk With Your Mouth Full
+- DweFarm01 and DweFarm02 Mesh Fix Replacer
 - ELE SE - Helgen Reborn Patch
 - ELFX Fixes
 - Enhanced Lighting and FX
 - Enhanced Lighting for ENB (ELE)
-- Guard Armor Replacer
-- Heavy Legion
+- Enhanced Texture Details
+- Expanded Towns And Cities
+- Fugitive Piss Off
+- Good Dog
+- Hamlets Of The Pale
 - Helarchen Creek
 - Helgen Reborn - NordWarUA Armor Replacer
-- High Poly Head v1.4
-- High Poly Inigo
-- High Poly NPC Overhaul
-- High Poly NPC Overhaul - AI Overhaul Patch
-- High Poly NPC Overhaul - Alternate Start Live Another Life
-- High Poly NPC Overhaul - Dragonstone
-- High Poly NPC Overhaul - Helarchen Creek
-- High Poly NPC Overhaul - Heritage
-- High Poly NPC Overhaul - Immersive Fort Dawnguard
-- High Poly NPC Overhaul - JK's Skyrim
-- High Poly NPC Overhaul - Oakwood
-- High Poly NPC Overhaul - Obscure's College of Winterhold
-- High Poly NPC Overhaul - Rorikstead
-- High Poly NPC Overhaul - TES Arena (Split into 6)
-- High Poly NPC Overhaul - Telengard
-- High Poly NPC Overhaul - The Great Town of Ivarstead
-- High Poly NPC Overhaul - The Great Town of Karthwasten
-- High Poly NPC Overhaul - The Great Town of Shors Stone
-- High Poly NPC Overhaul - Wyrmstooth
+- Here We Go Again
 - Immersive Fort Dawnguard
 - Inigo
 - Loki's Wade In Water
@@ -50,6 +45,9 @@
 - Medieval Silverworks STAC Patch
 - Medieval Spirits
 - Medieval Torch
+- Mount Anthor Dragon Fix
+- Niyya's New Clothes
+- No Crime Teleport
 - No Grass In Objects
 - No Grassias - A Universal Grass Fix for Grass mods
 - Oakwood
@@ -65,15 +63,14 @@
 - Project Clarity - Vanilla Clother And Jewelry Textures Redone
 - Project Clarity - Vanilla Weapon Texture Redone
 - QRVAE - Qwinns Refined Visual Animated Enchants
-- RRSC - AI Overhaul Patch
-- RRSC - Helgen Reborn Patch
-- RS Children Overhaul
-- RS Children Overhaul Patch Compendium
-- Realistic RS Children Overhaul
+- Random Encounter Tweaks
+- Realistic Conversations
 - Reproccer Reborn
 - Rorikstead
 - SSE Parallax Shader Fix (BETA)
 - SWIFT SE
+- Sales Overflow solved
+- Simple Children USSEP Updated Patch
 - Skyrim 2018 by Pfuscher
 - Skyrim 2019
 - Skyrim 2020 Parallax by Pfuscher
@@ -81,10 +78,18 @@
 - Skyrim Skill Uncapper
 - Skyrim Wayshrines - Immersive Fast Travel -
 - Smoking Torches and Candles SSE
+- Smooth Windhelm Ground Meshes
 - Soulmancer Music Merge
+- Sound Hammering Sounds
+- Source of Stalhrim Quest Fix
+- Swift Services
 - T3NDO's Skyrim SE Redone
 - Telengard
+- Thanedom Of Heljarchen
+- Thanedom Of Nightgate 2.0
 - The Great Cities - Resources
+- The Great City of Falkreath
+- The Great City of Ivarstead
 - The Great Town of Ivarstead
 - The Great Town of Ivarstead Patch Collection
 - The Great Town of Shor's Stone
@@ -94,7 +99,9 @@
 - The Great Village of Kynesgrove
 - The Great Village of Kynesgrove Patch Collection
 - The Great Village of Mixwater Mill
+- The Karthspire Giant
 - Torch Particle System Renewal And Lighting Refinement
+- Unoffical Material Fix
 - Verdant - A Grass Plugin
 - Visual Animated Enchants - VAE
 - WOODFIRES - Redux
@@ -102,6 +109,7 @@
 - WiZkiD Tree Selection
 - Window Shadows
 - Window Shadows Patch Hub
+- World Wall Transparency Fix for ENB
 - Your Own Thoughts
 - zEdit
 - zEdit UPF Loader
@@ -116,13 +124,21 @@
 - Bijin NPCS
 - Bijin Warmaidens
 - Bijin Wives
+- Bodyslide and Outfit Studio
+- CBBE
 - CC's Castle Volkihar Reborn
+- COTN Winterhold Patches
 - Cathedral Weathers
+- Cities Of The North Winterhold
 - Cuyima Interesting NPC's
 - Cuyima Interesting NPC's - Salt and Wind
 - Dark Face Issue Reporter
+- Darkwater Crossing
 - Darling Eye Replacer
+- Dawnstar
+- Dawnstar
 - Dragonstone - A Skyrim Overhaul
+- Expressive Facial Animations
 - Falkreath Hauntings
 - Followers, Hirelings and Housecarls
 - Fort Takeovers Framework
@@ -175,15 +191,18 @@
 - Pride of Skyrim 7 - Men of Windhelm NPC Overhaul
 - Pride of Skyrim 8 - Men of Solitude NPC Overhaul
 - Pride of Skyrim 9 - Small Town Men NPC Overhaul
+- Project NordwarUA
 - Relic Hunter - Guildmaster Start (Legacy and ASLAL addon)
 - Relighting Skyrim
 - Riften in High Definition
 - Rodryks Dragonbridge
+- Rorikstead
 - Seranaholic
 - Simple Sleeved Armor
 - SkyRem AVA
 - SkyRem CORI
 - Skyland - Winterhold
+- Tempered Skins for CBBE
 - Tempered Skins for Males
 - The Curators Companion
 - The Streets of Whiterun in HD
@@ -203,6 +222,7 @@
 
 **Fixes**
 - Custom Patched JK's Lite for Open Cities Skyrim
+- Generated FaceGen for all NPC's.
 - Generated Grass Lods
 - Method patched the entire load order to ensure maximum compatability and consistency.
 - Regenerated Bodyslide
