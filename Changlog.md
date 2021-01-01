@@ -16,10 +16,10 @@
 - Book Covers Skyrim
 - Butterflies Land True
 - Butterflies Unchained
-- CLefJ's Half Moon Mill
 - Cathedral Player and NPC Overhaul - HMB II
 - Charge Dialogue Fix
 - ClefJ's Dragon Bridge Enhanced SSE
+- ClefJ's Half Moon Mill
 - ClefJ's Winterhold
 - ClefJ's Winterhold Patch Collection
 - Dawnguard don't hunt cured vampires
@@ -67,8 +67,6 @@
 - Realistic Conversations
 - Reproccer Reborn
 - Rorikstead
-- SSE Parallax Shader Fix (BETA)
-- SWIFT SE
 - Sales Overflow solved
 - Simple Children USSEP Updated Patch
 - Skyrim 2018 by Pfuscher
@@ -82,7 +80,9 @@
 - Soulmancer Music Merge
 - Sound Hammering Sounds
 - Source of Stalhrim Quest Fix
+- SSE Parallax Shader Fix (BETA)
 - Swift Services
+- SWIFT SE
 - T3NDO's Skyrim SE Redone
 - Telengard
 - Thanedom Of Heljarchen
@@ -104,11 +104,11 @@
 - Unoffical Material Fix
 - Verdant - A Grass Plugin
 - Visual Animated Enchants - VAE
-- WOODFIRES - Redux
-- WiZkiD Signs
-- WiZkiD Tree Selection
 - Window Shadows
 - Window Shadows Patch Hub
+- WiZkiD Signs
+- WiZkiD Tree Selection
+- WOODFIRES - Redux
 - World Wall Transparency Fix for ENB
 - Your Own Thoughts
 - zEdit
