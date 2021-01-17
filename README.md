@@ -1,5 +1,5 @@
 # Tinvaak
 
-![Tinvaak-banner](Tinvaak temp splace.png)
+! [Tinvaak-banner](Tinvaak temp splace.png)
 
 ## COMING SOON.
