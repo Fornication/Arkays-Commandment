@@ -2,4 +2,3 @@
 
 ![Tinvaak-banner](splash.png)
 
-## COMING SOON.
