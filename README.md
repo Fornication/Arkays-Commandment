@@ -50,7 +50,7 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
 
 ## Preamble
 
-Tinvaak is a modlist for Skyrim Special Edition that is focused on making the world of Skyrim feel alive and keeping a consistent level of polish across all areas. Featuring a range of new lands, expanded vanilla quests, a vault to store your treasures and a revitalised Skyrim, Tinvaak aims to make the world of Skyrim feel alive without becoming too busy. Skyrim Redone is the perk overhaul of choice.
+Tinvaak is a modlist for Skyrim Special Edition that is focused on making the world of Skyrim feel alive and keeping a consistent level of polish across all areas. Featuring a range of new lands, expanded vanilla quests, a vault to store your treasures and a revitalised Skyrim, Tinvaak aims to make the world of Skyrim feel alive without becoming too busy. Skyrim Redone is the perk overhaul of choice. Tinvaak includes a secondary profile for Khajiit Speak.
 
 ## Installation
 
@@ -136,11 +136,13 @@ Copy the all of the files from the MO2/Game Folder Files directory into your gam
 
 ### ENB
 
-Tinvaak comes configured with [The Truth ENB]
+Tinvaak comes configured with [The Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162).
 
 ## How to start up Tinvaak
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'Play Tinvaak' by selecting it in the dropdown box and then hitting the run button. 
+
+There are two profiles for Tinvaak, one for regular dialogue, and one for Khajiit Speak dialogue.
 
 ## Updating
 
@@ -168,7 +170,7 @@ Various other gameplay mods:
 4. [Skyrim Alchemy and Food Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/12343) A comprehensive change to food inspired by Requiem Overhaul and BRG The Gourmet from Legendary Edition 
  - We're only using the food portion of this mod, SkyRe handles alchemy.
 5. [Trua - Minimalistic Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/32549) adds a lite roleplaying flavor religion aspect to the game
-6. 
+6. [Dragonstone - The Life of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/39341) There are ~2,400 new regular and random NPCs added to the world of Skyrim, in a thoughtful way as to not affect performance or make places too crowded.
 7. [Renounce the Daedra: Epic Restoration Lite](https://www.nexusmods.com/skyrimspecialedition/mods/36100)  this mod adds a Restoration spell called Renounce. If you cast it during a Daedric quest, it'll fail it automatically. Beware, cultists nearby may turn against you. 
 
 You can find a tome in the following locations:
@@ -178,21 +180,22 @@ You can find a tome in the following locations:
 - Riften, Temple of Mara, on the main desk
 - Solitude, Temple of the Divines, near Stendarr's shrine
 
-8.
+8. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
 9. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters.
-10. 
+10. [MisterB's Crafting Matters](https://www.nexusmods.com/skyrimspecialedition/mods/34462) A mod that adds much more to your Skyrim crafting experience. Breakdown Recipes, Tailoring Recipes, the ability to get firewood from miscellaneous items. New crafting materials. 
 11. [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693) The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter. 
-12.
+12. [Grace - SkyRem Character Series AIO](https://www.nexusmods.com/skyrimspecialedition/mods/26207) Compilation of all the SkyRem mods for character creation and development: Gabi, Rae, Ava, Cori, and Elsa. All together, these completely overhaul your character through Gender and Race enhancements, utilization of an Attribute system, a Class system, and a simple skill boost based on your background. 
 13. [The Frozen North](https://www.nexusmods.com/skyrimspecialedition/mods/33068) Factors such as weather and time of day will now influence the local temperature, which in turn can make you feel cold. To mitigate the effects of the cold, you will have to find ways to stay warm. 
 - Only includes cold survival, no food and rest changes. Sleep to level up is still enabled.
-14. [Campsite]
+14. [Campsite](https://www.nexusmods.com/skyrimspecialedition/mods/22353) is a simple camping mod that allows the player to build a campfire and pitch a tent. Campsite is built in the vanilla style using only existing items. It is designed to feel like an unintrusive, optional extra feature of the game that isn't noticed when not used. While camping mods with extra features already exist, the author wanted to create something simple without a perk tree, new items, spells or powers added to the magic menu.
 15. [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544?tab=description) Implement armor durability loss when you get hit or weapon durability loss when you hit something. As the weapon and armor quality worsens they have less value and offer less damage or armor rating. You can temper the weapons and armor to bring them back up to high quality, think of this as the repair mechanic. It uses the temper quality system. Normal quality is 100%, if your temper skill raises quality by 10% then that will be the amount you repair each time. For example if your item is at 37% quality (quite broken) then it will only offer 37% of normal damage or armor rating and cost 37% of normal value when selling to vendor. You can raise the quality by 10% each time you temper it so if you want to bring it back to 100% (or 107%) then you need to temper it 7 times. Temper amount can not exceed your normal maximum temper amount. For example if you temper up 10% each time it can not exceed 110%. If your blacksmithing skill is weak and the equipment piece is very broken then it may be cheaper to even craft a new armor than repair it up again.
-16. 
-17. [Sacrilege]
-18. [Sunhelm]
+16. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards.
+17. [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat. 
+18. [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) is a survival and needs mod. Many other survival options are either too large in scope, or too lightweight and do not have full survival features. The author wanted SunHelm to bridge the gap where a full feature mod was needed, but in a somewhat lightweight and performance friendly manner. 
 19. [Extended Encounters SSE](https://archive.org/details/extendedencounters1.5sse) is a simple mod that adds to the pool of random roadside, wilderness and location encounters in a way that makes the world seem a bit more dynamic and alive without negatively affecting game performance or bloating your save file. For example, you'll see mercenaries out in the world doing their job, faction raids on specific locations, adventurers traveling into dungeons, guards clearing bandit camps, and so on. You will also see new visitors at settlements, towns and cities from time to time. NPCs may also deviate from their regular routine to visit different locations. Sleeping and waiting in or fast traveling to a dangerome location such as a bandit camp or vampire lair may also lead to an encounter with denizens that call those places home. An MCM is included that allows you to toggle all features added by this mod.
-20.
+20. [iHarvest](https://www.nexusmods.com/skyrimspecialedition/mods/27789)This mod adds a single spell, "Harvest". To use the spell, just cast it. Note that, as a concentration spell, it will continue to operate as long as you cast it. It will scan your surroundings, learn what in the area can be harvested, and finally send out little, magical Getter Critters to fetch stuff for you. To get the spell, you'll have to find a spellbook.
 21. [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090) is the most popular Skyrim spell pack, adding 155 new spells that are unique, balanced, lore friendly, use high quality custom visuals and blend seamlessly into the vanilla magic system. Also includes scrolls and staves for the new spells. 
+22. [Simple Weapon Swing Parry](https://www.nexusmods.com/skyrimspecialedition/mods/44726) This is a SKSE Plugin that brings a parry effect when character swinging its weapon in combat, based on the similar feature from "Action Combat" or "Weapon Parry Standalone", also with some advantages and new features. Once a character swinging it weapons to attack, it will enter a blocking state in the split second between weapon swinging animation to the hit frame. This blocking state is the same as you holding your shield by pressing the block button. Once your enemy hit you when you are in this weapon swinging blocking state, a weapon clash effect will occur and this attack will be blocked by you.
 
 ### Quest and Encounter Mods
 
@@ -210,13 +213,13 @@ Tinvaak comes with a wide variety of new quest and encounters. A few are listed 
 
 ### Expanded Cities Towns and Villages
 
-[JK's Skyrim]
+[JK's Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/6289)
 
 [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074)
 
 ### NPC Retextures
 
-[HMB II]
+[Cathedral Player and NPC Overhaul - HMB II](https://www.nexusmods.com/skyrimspecialedition/mods/24174) Humans, Mer, and Beastfolk is a lore-friendly overhaul of the various races of Skyrim. It seeks to preserve the vanilla aesthetic while improving model and texture quality. The mod was inspired by Total Character Makeover and is composed of similar mods. 
 
 [Beast Hair Horn and Beard](https://www.nexusmods.com/skyrimspecialedition/mods/38480) Replaces 64 npcs with new assets including all the beast npcs in the leveled lists. All 33 Argonians in the game. 31 Khajiits (caravans, J´zargo,solitude Lighthouse keeper and all Khajiit in leveled lists (18). Excluded hooded Khajiits - a visual trait reference - Hircine Hunters, one-timers, dead npcs, visions and ghosts. Changes the character landscape by bringing variety and uniqueness. The beast race npcs will look more dashing than any npc. (Argonian npcs in Riften are lush, in Solitude, crooks, in Windhelm, weirds - all in the image section)
 
@@ -232,9 +235,9 @@ Tinvaak comes with a wide variety of new quest and encounters. A few are listed 
 
 [Northener Diaries](https://www.nexusmods.com/skyrimspecialedition/mods/28108)
 
-[Vivid Weathers]
+[Vivid Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/2187)
 
-[Audio Overhaul Skyrim]
+[Audio Overhaul Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
 
 [True Storms](https://www.nexusmods.com/skyrimspecialedition/mods/2472)
 
@@ -250,7 +253,7 @@ Most of the required MCM options have been automated for you.
 
 ### Real Names
  - Enable Strangers Mode in Basic Options
- - Disable Rename Corpses and dragon Priests
+ - Disable Rename Corpses and Dragon Priests
  - Set naming convention to Title/Surname>Epithet
  
 ### Violens
