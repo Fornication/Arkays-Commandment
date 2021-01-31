@@ -270,7 +270,7 @@ For Widescreen users:
 - Extended UI: Aspect Ratio
 
 ### Skyrim Unbound
-Configure this MCM last. Select your loadout, dragons, and dragonborn status. When you're ready to creatue your character, select `Let's go!`
+Configure this MCM last. Select your loadout, dragons, and dragonborn status. When you're ready to create your character, select `Let's go!`
 
 ## Creating your Character
 
