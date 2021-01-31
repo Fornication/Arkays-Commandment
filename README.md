@@ -47,7 +47,6 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
   - [Contact](#contact)
   - [Contributing](#contributing)
   - [Changelog](#changelog)
-  - [Discussions](#discussions)
 
 ## Preamble
 
@@ -368,7 +367,3 @@ See [Contributing](CONTRIBUTING.md).
 ## Changelog
 
 See [Changelog](CHANGELOG.md).
-
-## Discussions
-
-See [Discussions](https://github.com/Althro/Tinvaak/discussions)
