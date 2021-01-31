@@ -269,6 +269,9 @@ Tweak the following to your liking:
 For Widescreen users: 
 - Extended UI: Aspect Ratio
 
+### Skyrim Unbound
+Configure this MCM last. Select your loadout, dragons, and dragonborn status. When you're ready to creatue your character, select `Let's go!`
+
 ## Creating your Character
 
 #### After you configure the Skyrim Unbound MCM and you're finished customizing your character, select `Stay Here` and wait for AVA to prompt you to assign stats with a message box. When you're done, hit `Enter` to begin the game.
