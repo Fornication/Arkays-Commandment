@@ -16,7 +16,7 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
       - [Set the Game language and Windows Region to English](#set-the-game-language-and-windows-region-to-english)
       - [Clean Skyrim](#clean-skyrim)
       - [Start Skyrim](#start-skyrim)
-    - [using Wabbajack](#using-wabbajack)
+    - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
