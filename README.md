@@ -265,6 +265,7 @@ Tweak the following to your liking:
 - Extended Encounters
 - Dirt and Blood
 - Advanced Mining
+- Vivid Weathers
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
@@ -317,7 +318,7 @@ If you're really struggling with FPS but want the color correction and realism, 
   
  #### Darkness Settings
  
- - If you want the game to be brighter or darker, you can use quick adjustors under `ENBEFFECT.FX`, --Nights & Interior Adjustors--
+ - If you want the game to be brighter or darker, you can use the Vivid Weathers MCM.
 
 ##### If you cannot handle the ENB: Disable `useEffect` in enbseries.ini
 
