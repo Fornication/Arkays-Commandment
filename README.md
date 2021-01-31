@@ -103,7 +103,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Download the modlist from [here]() and install from drive option in Wabbajack
+2. Download the modlist from [here](https://drive.google.com/file/d/13MqV0XRKV5IaWqTn8MJ0hwrEavxA_XNW/view?usp=sharing) and install from drive option in Wabbajack
 3. Once the download is done installing, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tinvaak`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
@@ -220,8 +220,6 @@ Tinvaak comes with a wide variety of new quest and encounters. A few are listed 
 [HMB II]
 
 [Beast Hair Horn and Beard](https://www.nexusmods.com/skyrimspecialedition/mods/38480) Replaces 64 npcs with new assets including all the beast npcs in the leveled lists. All 33 Argonians in the game. 31 Khajiits (caravans, J´zargo,solitude Lighthouse keeper and all Khajiit in leveled lists (18). Excluded hooded Khajiits - a visual trait reference - Hircine Hunters, one-timers, dead npcs, visions and ghosts. Changes the character landscape by bringing variety and uniqueness. The beast race npcs will look more dashing than any npc. (Argonian npcs in Riften are lush, in Solitude, crooks, in Windhelm, weirds - all in the image section)
-
-
 
 ### Followers
 
