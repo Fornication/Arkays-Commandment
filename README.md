@@ -5,6 +5,8 @@
 # Tinvaak
 Wabbajack Modlist Installer by Althro and Galaxy Synth
 
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/Tinvaak/badge.json)
+
 - [Tinvaak](#Tinvaak)
   - [Preamble](#preamble)
   - [Installation](#installation)
