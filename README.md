@@ -102,7 +102,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Download the modlist from [here](https://drive.google.com/file/d/13MqV0XRKV5IaWqTn8MJ0hwrEavxA_XNW/view?usp=sharing) and install from drive option in Wabbajack
+2. Download the modlist from [here](https://drive.google.com/file/d/1_SIZnr22qF2Sla1u5fI6hh1ohA_wQH43/view?usp=sharing) and install from drive option in Wabbajack
 3. Once the download is done installing, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tinvaak`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
