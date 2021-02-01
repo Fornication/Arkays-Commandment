@@ -275,6 +275,7 @@ Tweak the following to your liking:
 - Dirt and Blood
 - Advanced Mining
 - Vivid Weathers
+- Thieves Guild Requirements
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
