@@ -254,9 +254,13 @@ Most of the required MCM options have been automated for you.
  - Load Profile
 
 ### Real Names
- - Enable Strangers Mode in Basic Options
- - Disable Rename Corpses and Dragon Priests
- - Set naming convention to Title/Surname>Epithet
+- Basic Options:
+	- Settings
+		- Strangers Mode: Enabled
+		- Title Preference:Title/Surname>Epithet
+	- Special Exclusions:
+		- Exclude Dragon Priests?: Enabled
+		- Excluse Corpses?: Enabled
  
 ### Violens
  - Import Tinvaak Profile
