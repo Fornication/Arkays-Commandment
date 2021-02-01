@@ -284,7 +284,7 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. Wh
 
 ## Creating your Character
 
-#### After you configure the Skyrim Unbound MCM and you're finished customizing your character, select `Stay Here` and wait for AVA to prompt you to assign stats with a message box. When you're done, hit `Enter` to begin the game.
+#### After you configure the Skyrim Unbound MCM and you're finished customizing your character, select `Stay Here`. If you chose to use survival mods, enable Sunhelm in its MCM Menu. Configure Sunhelm to your liking. Exit the MCM menu. wait for AVA to prompt you to assign stats with a message box. When you're done, hit `Enter` to begin the game.
 
 ## Other Post Installation FAQ
 
