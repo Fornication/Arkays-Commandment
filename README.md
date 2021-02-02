@@ -67,7 +67,7 @@ PC 1:
 
 PC 2:
 
-- Ryzen 3600
+- Ryzen 5 3600
 - AMD 5600XT
 - 32GB RAM
 
