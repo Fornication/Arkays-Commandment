@@ -9,6 +9,7 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
 
 - [Tinvaak](#Tinvaak)
   - [Preamble](#preamble)
+  - [System Requirements](#system-requirements)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -53,6 +54,22 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
 ## Preamble
 
 Tinvaak is a modlist for Skyrim Special Edition that is focused on making the world of Skyrim feel alive and keeping a consistent level of polish across all areas. Featuring a range of new lands, expanded vanilla quests, a vault to store your treasures and a revitalised Skyrim, Tinvaak aims to make the world of Skyrim feel alive without becoming too busy. Skyrim Redone is the perk overhaul of choice. Tinvaak includes a secondary profile for Khajiit Speak.
+
+## System Requirements
+
+This list was built with two systems:
+
+Ryzen 7 3900x
+RTX 2080s
+32GB RAM
+
+Ryzen 3600
+AMD 5600XT
+32GB RAM
+
+This list runs at a solid 60 fps on both machines with ENB enabled.
+
+Space required: Approx 140GB
 
 ## Installation
 
