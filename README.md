@@ -59,9 +59,13 @@ Tinvaak is a modlist for Skyrim Special Edition that is focused on making the wo
 
 This list was built with two systems:
 
+PC 1:
+
 - Ryzen 7 3800x
 - RTX 2080s
 - 32GB RAM
+
+PC 2:
 
 - Ryzen 3600
 - AMD 5600XT
