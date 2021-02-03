@@ -53,7 +53,7 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
 
 ## Preamble
 
-Tinvaak is a modlist for Skyrim Special Edition that is focused on making the world of Skyrim feel alive and keeping a consistent level of polish across all areas. Featuring a range of new lands, expanded vanilla quests, a vault to store your treasures and a revitalised Skyrim, Tinvaak aims to make the world of Skyrim feel alive without becoming too busy. Skyrim Redone is the perk overhaul of choice. Tinvaak includes a secondary profile for Khajiit Speak.
+Tinvaak is a modlist that focuses on fleshing out Skyrim into a roleplaying overhaul. Featuring many new NPCs, Skyrim Redone, Skyrim Unbound, and survival mods, you can be anyone, dragonborn or not. Survive your way through the harsh lands of Skyrim. Tinvaak includes a secondary profile for Khajiit Speak.
 
 ## System Requirements
 
