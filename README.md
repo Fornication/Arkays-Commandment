@@ -53,7 +53,7 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
 
 ## Preamble
 
-Tinvaak is a modlist that focuses on fleshing out Skyrim into a roleplaying overhaul. Featuring many new NPCs, Skyrim Redone, Skyrim Unbound, and survival mods, you can be anyone, dragonborn or not. Survive your way through the harsh lands of Skyrim. Tinvaak includes a secondary profile for Khajiit Speak.
+Tinvaak is a modlist that focuses on fleshing out Skyrim into a roleplaying overhaul. Featuring many new NPCs, Skyrim Redone, Skyrim Unbound, and survival mods, you can be anyone, dragonborn or not. Survive your way through the harsh lands of Skyrim. A secondary profile for Khajiit Speak is included as well.
 
 ## System Requirements
 
