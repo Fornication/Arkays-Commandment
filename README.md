@@ -317,8 +317,8 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. Wh
 #### After you configure the Skyrim Unbound MCM and you're finished customizing your character, select `Stay Here`. 
 
 #### If you chose to use survival mods
-- Enable Sunhelm in its MCM Menu. 
-- Also enable `Survival Mode` in Skyrim's game settings. Configure Sunhelm's MCM to your liking. 
+- Enable Sunhelm in its MCM Menu. Configure Sunhelm's MCM to your liking.
+- Also enable `Survival Mode` in Skyrim's game settings.  
 - You can now also configure Survival Control Panel to your liking. 
 
 Exit the MCM menu. Wait for AVA to prompt you to assign stats with a message box, and assign your attributes. Use the power called "Reflect" in your magic menu to choose a background and starting skill bonus. When you're done, hit `Enter` to begin the game.
