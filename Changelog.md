@@ -1,5 +1,7 @@
 # 0.0.6 - Tinvaak
 
+Not save game safe.
+
 **Build at:** `2/4/2021 3:15:26 PM`
 
 **Info**:
