@@ -269,22 +269,30 @@ Tinvaak comes with a wide variety of new quest and encounters. A few are listed 
 
 ## In-Game MCM Options
 
-Most of the required MCM options have been automated for you. 
+Most of the *required* MCM options have been automated for you. 
+
+### Cold Region Behavior
+- General Settings
+	- Main Settings
+		- Enable Mod Features
 
 ### Dragonstone
- - Load Profile
+- Presets
+	- Load User Preset
 
 ### Real Names
 - Basic Options:
 	- Settings
 		- Strangers Mode: Enabled
-		- Title Preference:Title/Surname>Epithet
+		- Title Preference:Title and/or Surname>Epithet
 	- Special Exclusions:
 		- Exclude Dragon Priests?: Enabled
 		- Excluse Corpses?: Enabled
  
 ### Violens
- - Import Tinvaak Profile
+- Profile System
+	- Menu Settings
+		- Load: Tinvaak.vlms
  
 Tweak the following to your liking:
 
@@ -306,7 +314,7 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. Wh
 
 ## Creating your Character
 
-#### After you configure the Skyrim Unbound MCM and you're finished customizing your character, select `Stay Here`. If you chose to use survival mods, enable Sunhelm in its MCM Menu. Configure Sunhelm to your liking. Exit the MCM menu. wait for AVA to prompt you to assign stats with a message box. When you're done, hit `Enter` to begin the game.
+#### After you configure the Skyrim Unbound MCM and you're finished customizing your character, select `Stay Here`. If you chose to use survival mods, enable Sunhelm in its MCM Menu. Configure Sunhelm to your liking. Exit the MCM menu. Wait for AVA to prompt you to assign stats with a message box, and assign your attributes. Use the power called "Reflect" in your magic menu to choose a background and starting skill bonus. When you're done, hit `Enter` to begin the game.
 
 ## Other Post Installation FAQ
 
