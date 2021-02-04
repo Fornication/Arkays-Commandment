@@ -73,7 +73,7 @@ PC 2:
 
 This list runs at a solid 60 fps on both machines with ENB enabled.
 
-Space required: Approx 140GB
+Space required: Approx 120GB
 
 ## Installation
 
