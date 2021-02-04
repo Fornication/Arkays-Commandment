@@ -34,6 +34,7 @@
 - Added a CFTO carriage to Winterhold
 - Redid LOD again, this time with Shelb style 😎
 - Tweaked inis for view distance
+- Removed overwritten and redundant textures to lower install size of modlist
 
 
 # 0.0.5 - Tinvaak
