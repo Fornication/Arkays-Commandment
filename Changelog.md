@@ -1,3 +1,14 @@
+# 0.07 HotFix 1 - Tinvaak 
+
+Not save compatible with 0.07 due mod changes.
+
+**Updated**: 
+- Conditional Expressions
+
+**Fixes**: 
+- Removed old versions of mods
+- removed SkyUI mcm automation [broken atm]
+
 # 0.07 - Tinvaak 
 
 Should be save compatible.
