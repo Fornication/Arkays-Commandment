@@ -1,3 +1,27 @@
+# 0.07 - Tinvaak 
+
+Should be save compatible.
+
+**Build at:** 05/02/2021 23:53:23
+
+**Info**:
+
+ - Download Size change: 825.1MB (Total: 55.6GB)
+ - Install Size change: 606.5MB (Total: 67.2GB)
+ 
+ **Download Changes**:
+
+- Updated Cathedral Player and NPC Overhaul - HMB II
+- Updated Conditional Expressions - Subtle Face Animations
+- Updated Ruins Large Urn ANCIENT POTTERY retexture
+- Removed Carriage and Ferry Travel Overhaul - Fixes and Winterhold [This should fix the carriage issues]
+- Added aMidianBorn Book of Silence SE [Armors only for now]
+- Added grass lod noise green tint [Should fix the lod issues]
+
+**Fixes and Tweaks**
+- Resized aMidianBorn textures to improve performance
+- Added grass lod mod to hopefully fix the lod transition issues
+
 # 0.0.6 - Tinvaak
 
 Not save game safe.
