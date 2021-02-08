@@ -45,7 +45,6 @@ Wabbajack Modlist Installer by Althro and Galaxy Synth
     - [Zoomed in Display](#zoomed-in-display)
     - [Removing the Modlist](#removing-the-modlist)
     - [360 Behavior Overhaul](#360-behavior-overhaul)
-    - [Filter by Category in MO2](#filter-by-category-in-mo2)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
   - [Contributing](#contributing)
@@ -385,10 +384,6 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
 ## 360 Behavior Overhaul
 
 If you save in first person and load that save 360 behavior will fail. Save and load in 3rd person to have correct 3rd person facing behavior.
-
-## Filter by Category in MO2
-
-Every single mod in Tinvaak has been given correct categories for easy searching, if you want a deeper dive by visiting a mod on the nexus (right click mod - 'Visit on nexus', if you're unsure about what it is, or what it does.
 
 ### Removing the Modlist
 
