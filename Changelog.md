@@ -16,7 +16,6 @@
 - Updated [Cathedral - 3D Pine Grass - Full 3D Coverage](http://nexusmods.com/skyrimspecialedition/mods/42032)
 - Updated [OnHit Animations Framework - SSE](http://nexusmods.com/skyrimspecialedition/mods/42574)
 - Updated [LeanWolf's Better-Shaped Weapons SE - Greatsword Sheath Fix](http://nexusmods.com/skyrimspecialedition/mods/2017)
-- Updated [Armor Variants Expansion](http://nexusmods.com/skyrimspecialedition/mods/34100)
 - Removed old download: [Cathedral - 3D Pine Grass](http://nexusmods.com/skyrimspecialedition/mods/42032)
 - Removed [Protect your People - PyP - Better NPC Protection SE](http://nexusmods.com/skyrimspecialedition/mods/10297)
 - Removed [SunHelm Survival and needs Universal Water Patch Beta](http://nexusmods.com/skyrimspecialedition/mods/39414)
@@ -24,6 +23,7 @@
 - Added [Hallgarth's Additional (Vanilla) Hair SE](http://nexusmods.com/skyrimspecialedition/mods/7992)
 - Added [Rudy HQ - More Lights for ENB SE - Arrows](http://nexusmods.com/skyrimspecialedition/mods/22706)
 - Added [LeanWolf's Better-Shaped Weapons SE - More Lights for ENB: Arrows Patch](http://nexusmods.com/skyrimspecialedition/mods/2017)
+- Added [Armor Variants Expansion Hide Normal Fix](http://nexusmods.com/skyrimspecialedition/mods/34100)
 
 **Fixes**
 
