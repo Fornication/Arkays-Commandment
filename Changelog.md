@@ -11,7 +11,8 @@
  - Fixed Tree LOD being too dark
  - Added Water does damage and PyP to Synthesis
 
-- [0.1.0](#010)
+
+[0.1.0](#010)
 
 ## 0.1.0
 
