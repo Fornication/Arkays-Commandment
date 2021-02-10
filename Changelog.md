@@ -13,7 +13,7 @@
 
 **Download Changes**:
 
-- Updated [Cathedral - 3D Pine Grass](http://nexusmods.com/skyrimspecialedition/mods/42032)
+- Updated [Cathedral - 3D Pine Grass - Full 3D Coverage](http://nexusmods.com/skyrimspecialedition/mods/42032)
 - Updated [OnHit Animations Framework - SSE](http://nexusmods.com/skyrimspecialedition/mods/42574)
 - Updated [LeanWolf's Better-Shaped Weapons SE - Greatsword Sheath Fix](http://nexusmods.com/skyrimspecialedition/mods/2017)
 - Updated [Armor Variants Expansion](http://nexusmods.com/skyrimspecialedition/mods/34100)
