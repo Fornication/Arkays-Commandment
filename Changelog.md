@@ -12,8 +12,6 @@
  - Added Water does damage and PyP to Synthesis
 
 
-[0.1.0](#010)
-
 ## 0.1.0
 
 Temporarily closed off to testing pending Althro's approval
