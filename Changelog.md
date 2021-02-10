@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.1.1 Hotfixes
+
+
+
+**Fixes**
+
+ - Fixed missing aspen leaf pile texture
+ - Fixed Dawn of skyrim in wrong position in MO2, resulting in the full mod and not the lite version
+ - Fixed Tree LOD being too dark
+ - Added Water does damage and PyP to Synthesis
+
 - [0.1.0](#010)
 
 ## 0.1.0
