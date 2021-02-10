@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.1 Another Hotfix
+
+- Fixed an issue with me forgetting to sync the fucking profiles
+
 ## 0.2.0 Hotfixes
 
 ## 0.2.0
