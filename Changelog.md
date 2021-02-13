@@ -1,5 +1,33 @@
 # Changelog
 
+## 0.2.2 Updates and small fixes
+
+**Build at:** `12/02/2021 23:51:57`
+
+**Info**:
+
+- Download Size change: -212.6MB (Total: 57.8GB)
+- Install Size change: -496.8MB (Total: 67.6GB)
+
+**Download Changes**:
+
+- Updated [Project Clarity - Effects Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/42756)
+- Updated [Wyrmstooth](http://nexusmods.com/skyrimspecialedition/mods/45565)
+- Added [Mod.Organizer-2.3.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.3.2/Mod.Organizer-2.3.2.7z)
+- Added [Bosmer NPCs have antlers](http://nexusmods.com/skyrimspecialedition/mods/33349)
+- Added [Cuyi's Bosmeri Antlers - SSE](http://nexusmods.com/skyrimspecialedition/mods/26173)
+- Added [Relighting Skyrim SSE - No Player Homes](http://nexusmods.com/skyrimspecialedition/mods/26538)
+- Added [SkyPal - Your Friendly Papyrus Library](http://nexusmods.com/skyrimspecialedition/mods/43925)
+- Added [Better Falskaar and Wyrmstooth Map With Roads](http://nexusmods.com/skyrim/mods/51339)
+- Added [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](http://nexusmods.com/skyrimspecialedition/mods/38845)
+
+**Fixes**
+
+- Player and NPC in Riften will no longer have cold breath.
+- Profiles synced up and records checked over.
+- Changed Wyrmstooth donwload location and repatched for new changes.
+- Removed redundant downloads.
+
 ## 0.2.1 Another Hotfix
 
 - Fixed an issue with me (Shelb) forgetting to sync the fucking profiles
