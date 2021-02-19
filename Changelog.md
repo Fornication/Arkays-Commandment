@@ -1,5 +1,60 @@
 # Changelog
 
+## 0.3 Updates and tidying
+
+**Not Save Compatible**
+
+**Build at:** `19/02/2021 00:51:43`
+
+**Info**:
+
+- Download Size change: -216.3MB (Total: 57.8GB)
+- Install Size change: 754.9MB (Total: 66.4GB)
+
+**Download Changes**:
+
+- Updated [Better Dynamic Ash SE](http://nexusmods.com/skyrimspecialedition/mods/14644)
+- Updated [Chapter II - Jeremy Soule Inspired Music (by Dreyma Music)](http://nexusmods.com/skyrimspecialedition/mods/37792)
+- Updated [Extended Encounters](http://nexusmods.com/skyrimspecialedition/mods/44810)
+- Updated [Faction - Pit Fighter - Revamped](http://nexusmods.com/skyrimspecialedition/mods/42340)
+- Updated [Grass FPS Booster](http://nexusmods.com/skyrimspecialedition/mods/20082)
+- Updated [Guard Dialogue Overhaul SE](http://nexusmods.com/skyrimspecialedition/mods/22075)
+- Updated [Improved College Entry - Questline Tweaks](http://nexusmods.com/skyrimspecialedition/mods/22184)
+- Updated [Landscape Fixes For Grass Mods](http://nexusmods.com/skyrimspecialedition/mods/9005)
+- Updated [Missives - Worldspace Additions](http://nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [Pick up books simple - With weightless books option](http://nexusmods.com/skyrimspecialedition/mods/2453)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Crosshair-aligned Crossbow](http://nexusmods.com/skyrimspecialedition/mods/42267)
+- Updated [Enhanced Blood Textures SE](http://nexusmods.com/skyrimspecialedition/mods/2357)
+- Updated [Enhanced Reanimation](http://nexusmods.com/skyrimspecialedition/mods/43500)
+- Updated [Equip Enchantment Fix](http://nexusmods.com/skyrimspecialedition/mods/42839)
+- Updated [NPC AI Process Position  Fix - SSE](http://nexusmods.com/skyrimspecialedition/mods/40261)
+- Updated [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
+- Updated [Flinching - Script Free Edition](http://nexusmods.com/skyrimspecialedition/mods/42550)
+- Removed [Project Clarity - Effects Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/42756)
+- Removed [Superior Lore-Friendly Hair - HD textures](http://nexusmods.com/skyrim/mods/36510)
+- Removed [Project Clarity - Clutter Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/43401)
+- Removed [Project Clarity - Creature Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/41998)
+- Removed [Project Clarity - Dungeon Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/45135)
+- Removed [Project Clarity - Statue Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/36120)
+- Removed [Rally's Smithy](http://nexusmods.com/skyrim/mods/106471)
+- Removed [Project Clarity - Vanilla Armor Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/35593)
+- Removed [Project Clarity - Vanilla Clothing And Jewelry Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/42859)
+- Removed [Project Clarity - Vanilla Weapon Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/36222)
+- Added [Bosmer NPCs have antlers](http://nexusmods.com/skyrimspecialedition/mods/33349)
+- Added [Cuyi's Bosmeri Antlers - SSE](http://nexusmods.com/skyrimspecialedition/mods/26173)
+- Added [Dragonborn Presence - Discord Rich Presence](http://nexusmods.com/skyrimspecialedition/mods/25287)
+- Added [Relighting Skyrim SSE - No Player Homes](http://nexusmods.com/skyrimspecialedition/mods/26538)
+- Added [SkyPal - Your Friendly Papyrus Library](http://nexusmods.com/skyrimspecialedition/mods/43925)
+- Added [Superior Lore-Friendly Hair - HD textures](http://nexusmods.com/skyrim/mods/36510)
+- Added [Project Clarity AIO - Skyrim Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/45306)
+- Added [Mr. Dragonfly ENB Particle Light](http://nexusmods.com/skyrimspecialedition/mods/45664)
+- Added [Rally's Smithy](http://nexusmods.com/skyrimspecialedition/mods/45099)
+- Added [Fuzzy Felines](http://nexusmods.com/skyrimspecialedition/mods/15976)
+
+**Fixes**
+- Removed a lot of older mods and unnescessary files.
+
 ## 0.2.2 Updates and small fixes
 
 **Build at:** `12/02/2021 23:51:57`
