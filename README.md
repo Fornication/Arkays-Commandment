@@ -376,7 +376,7 @@ You can just delete the MO2 folder and be done with it.
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Galaxy Synth for without whom this list would not exist. Thank you so much for the work you put into this list, for your continued help and being a great person.
+- Galaxy Synth for help in the creation, configuration and setup.
 - Pierre Despereaux for Keizaal, from which a few mods are derived
 - Noggog for Mutagen
 - Special thanks to the Synthesis patcher devs
