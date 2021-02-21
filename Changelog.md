@@ -1,5 +1,41 @@
 # Changelog
 
+## 0.4 New stuff and a few fixes
+
+**Not Save Compatible**
+
+**Build at:** `21/02/2021 02:41:00`
+
+**Info**:
+
+- Download Size change: 1.6GB (Total: 59.3GB)
+- Install Size change: 3.3GB (Total: 69.7GB)
+
+**Download Changes**:
+
+- Updated [Spell Perk Item Distributor](http://nexusmods.com/skyrimspecialedition/mods/36869)
+- Updated [Meridia's Luxon Beacon Replacer](http://nexusmods.com/skyrimspecialedition/mods/34782)
+- Updated [Cathedral Player and NPC Overhaul - HMB II](http://nexusmods.com/skyrimspecialedition/mods/24174)
+- Removed [Ruvaak Dahmaan ENB SE](http://nexusmods.com/skyrimspecialedition/mods/6009)
+- Removed [Bugfix Compilation](http://nexusmods.com/skyrimspecialedition/mods/33449)
+- Removed [Synthesis_872ea0aa0115a95b4b3bbaec409cc171a1f6b93837e10dd332bd0b037de38219_.exe](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.13.2/Synthesis.exe)
+- Removed [Spell Perk Item Distributor](http://nexusmods.com/skyrimspecialedition/mods/36869)
+- Removed [Meridia's Luxon Beacon Replacer](http://nexusmods.com/skyrimspecialedition/mods/34782)
+- Added [OrganicENB SE - Climate of Tamriel Vivid Obsidian and Dolomite Editions](http://nexusmods.com/skyrimspecialedition/mods/2876)
+- Added [No Disarm (Unequip Instead)](http://nexusmods.com/skyrimspecialedition/mods/27188)
+- Added [The Eloquent Reader - True Scholar SE Edition - Increase speech by reading book.](http://nexusmods.com/skyrimspecialedition/mods/16338)
+- Added [Synthesis.zip](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.14.1/Synthesis.zip)
+- Added Tinvaak FaceGen
+- Added [8K Night Skies - Stars and Galaxies - Cathedral Concept](http://nexusmods.com/skyrimspecialedition/mods/20301)
+- Added [Rally's Solstheim Shrines](http://nexusmods.com/skyrimspecialedition/mods/45867)
+- Added [Ultimate Combat and Creatures Behaviour compatibility for Nemesis](http://nexusmods.com/skyrimspecialedition/mods/45966)
+
+**Fixes**
+- Regenerated FaceGen for all newly added NPC's to achieve greater consistency.
+- Regenerated Synthesis
+- Tweaked Organic ENB to fit better across nights and interiors.
+- Patched follower dialogue in Khajiit speak profile.
+
 ## 0.3 Updates and tidying
 
 **Not Save Compatible**
