@@ -388,20 +388,20 @@ You can just delete the MO2 folder and be done with it.
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Galaxy Synth for help in the creation, configuration and setup.
+- Galaxy Synth (Shelb) for help in the creation, configuration and setup.
 - Sovn for teaching me the CK and consistency.
 - Pierre Despereaux for Keizaal, from which a few mods are derived.
 - Noggog for Mutagen.
 - Special thanks to the Synthesis patcher devs.
 - erri120 & jdsmith2816 - Repository template.
 - jdsmith2816 - Reviving SkyRe, the Reproccer, and having a magnificent beard.
-- iXanza for recompiled MCM scripts for automation, and helping me figure out how to automate my own.
+- iXanza for recompiled MCM scripts for automation, and helping Shelb figure out how to automate the MCMs for Tinvaak.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - Mantis for Ultrawide installation instructions and the logo.
 
 ## Contact
 
-Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) I would advise checking the [Issues](https://github.com/GalaxySynth/Tinvaak/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) I would advise checking the [Issues](https://github.com/Althro/Tinvaak/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Contributing
 
