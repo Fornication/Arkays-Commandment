@@ -1,6 +1,6 @@
 # Tinvaak
 
-![Tinvaak-banner](https://github.com/Althro/Tinvaak/blob/gh-pages/An%20Idea.png)
+![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak/gh-pages/An%20Idea.png)
 
 Wabbajack Modlist Installer by Althro.
 
