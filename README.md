@@ -147,7 +147,19 @@ Copy the all of the files from the MO2/Game Folder Files directory into your gam
 
 ### ENB
 
-Tinvaak comes configured with [Ruvaak Dahmaan ENB SE](https://www.nexusmods.com/skyrimspecialedition/mods/6009). You can use a different one or turn it off if you wish, but please note that no support will be provided if you decide to change it and run into issues.
+Tinvaak comes with two custom tweaked ENB's and [Tolls ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) is included to help facilitate the easy changing of ENB profiles. To setup the ENB manager:
+
+1. Open up the folder called Tools where you have the modlist installed.
+2. Navigate to the folder called Tolls ENB Manager and open it.
+3. Double click on ENBManager.exe
+4. Set the path to where your Skyrim Special is installed (In my case, it's C:/Games/steam/steamapps/common/Skyrim Special Edition)
+5. Click on presets and press the "Add New Preset" button
+6. Press the browse button underneath files.
+7. Navigate to where you were before in the Tools Folder. You will see a folder called "ENB Profiles". Select the one you wish to use and press open.
+8. The name should auto-populate. If it does not, give it a suitable name such as "Ruvaak"
+9. Press the Save button.
+10. To enable the profile, click on the white circle slider.
+11. Your chosen ENB Profile is now installed.
 
 ## How to start up Tinvaak
 
@@ -332,7 +344,7 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 ### Tweaking the ENB
 
-The ENB that comes with Tinvaak has been tweaked to balance performance with visuals. However, if you wish to make changes follow the information below.
+By default, Tinvaak ships with two ENB profiles that have been custom tweaked to match the modlist. These are [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) and [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009). If you wish to make changes to them to better suit your visual preferences, follow the information below.
 
 Open the console with `~` before doing edits, so you're not randomly swinging weapons around while editing the ENB.
 
@@ -377,13 +389,14 @@ You can just delete the MO2 folder and be done with it.
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Galaxy Synth for help in the creation, configuration and setup.
-- Pierre Despereaux for Keizaal, from which a few mods are derived
-- Noggog for Mutagen
-- Special thanks to the Synthesis patcher devs
-- erri120 & jdsmith2816 - Repository template
-- jdsmith2816 - Reviving SkyRe, the Reproccer, and having a magnificent beard
-- iXanza for recompiled MCM scripts for automation, and helping me figure out how to automate our own
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- Sovn for teaching me the CK and consistency.
+- Pierre Despereaux for Keizaal, from which a few mods are derived.
+- Noggog for Mutagen.
+- Special thanks to the Synthesis patcher devs.
+- erri120 & jdsmith2816 - Repository template.
+- jdsmith2816 - Reviving SkyRe, the Reproccer, and having a magnificent beard.
+- iXanza for recompiled MCM scripts for automation, and helping me figure out how to automate my own.
+- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - Mantis for Ultrawide installation instructions and the logo.
 
 ## Contact
