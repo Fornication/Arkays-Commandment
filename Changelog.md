@@ -1,5 +1,55 @@
 # Changelog
 
+## 1.0 Major updates and further tweaks
+
+**Not Save Compatible**
+
+**Build at:** `28/02/2021 21:43:43`
+
+**Info**:
+
+- Download Size change: -1.3GB (Total: 59.1GB)
+- Install Size change: -3.9GB (Total: 70.3GB)
+
+**Download Changes**:
+
+- Updated [4K Tendril Vines](http://nexusmods.com/skyrimspecialedition/mods/40196)
+- Updated [Cathedral Player and NPC Overhaul - HMB II](http://nexusmods.com/skyrimspecialedition/mods/24174)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Flinching - Script Free Edition](http://nexusmods.com/skyrimspecialedition/mods/42550)
+- Updated [IHarvest](http://nexusmods.com/skyrimspecialedition/mods/27789)
+- Updated [Improved Dwemer Glass](http://nexusmods.com/skyrimspecialedition/mods/44553)
+- Updated [Meridia's Luxon Beacon Replacer](http://nexusmods.com/skyrimspecialedition/mods/34782)
+- Updated Mod Organizer
+- Updated [Spell Perk Item Distributor](http://nexusmods.com/skyrimspecialedition/mods/36869)
+- Updated [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.16.1/Synthesis.zip)
+- Added [8K Night Skies - Stars and Galaxies - Cathedral Concept](http://nexusmods.com/skyrimspecialedition/mods/20301)
+- Added [Faster Reanimation](http://nexusmods.com/skyrimspecialedition/mods/46357)
+- Added [Galaxy's Riverwood](http://nexusmods.com/skyrimspecialedition/mods/46360)
+- Added [Lakeview. Manor - As It Should Be](http://nexusmods.com/skyrimspecialedition/mods/17007)
+- Added [Meeko Reborn SE](http://nexusmods.com/skyrimspecialedition/mods/17572)
+- Added [Mourning Restored](http://nexusmods.com/skyrimspecialedition/mods/46305)
+- Added [No Disarm (Unequip Instead)](http://nexusmods.com/skyrimspecialedition/mods/27188)
+- Added [Odin - Skyrim Magic Overhaul](http://nexusmods.com/skyrimspecialedition/mods/46000)
+- Added [Rally's Solstheim Shrines](http://nexusmods.com/skyrimspecialedition/mods/45867)
+- Added [Simple Hearthfire Attics SSE](http://nexusmods.com/skyrimspecialedition/mods/37173)
+- Added [TB's Improved Dust Particles](http://nexusmods.com/skyrimspecialedition/mods/39003)
+- Added [The Eloquent Reader - True Scholar SE Edition - Increase speech by reading book.](http://nexusmods.com/skyrimspecialedition/mods/16338)
+- Added [Toll's ENB Manager (BETA)](http://nexusmods.com/skyrimspecialedition/mods/37469)
+- Added [Tranquil Windstad](http://nexusmods.com/skyrimspecialedition/mods/12933)
+- Added [Ultimate Combat and Creatures Behaviour compatibility for Nemesis](http://nexusmods.com/skyrimspecialedition/mods/45966)
+- Added [Vigilance Reborn SE](http://nexusmods.com/skyrimspecialedition/mods/17571)
+- Added [Windhelm Bridge Tweaks](http://nexusmods.com/skyrimspecialedition/mods/38433)
+
+**Fixes**:
+- Further tweaked Organic ENB to improve interior brightness and remove flickering lens flare.
+- Re-added custom tweaked Ruvaak Dahmaan ENB to offer the option of an alternate ENB.
+- Regnerated DynDOLOD
+- Regenerated FaceGen to fix issues with Children and also catch some mods that were missed in the first pass.
+- Regenerated xLodGEN
+- Regenerated Synthesis
+- Regenerated TexGen
+
 ## 0.4 New stuff and a few fixes
 
 **Not Save Compatible**
