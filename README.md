@@ -216,11 +216,13 @@ Tinvaak comes with a few of the popular magic and religion mods which have been 
 
 2. [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090) is the most popular Skyrim spell pack, adding 155 new spells that are unique, balanced, lore friendly, use high quality custom visuals and blend seamlessly into the vanilla magic system. Also includes scrolls and staves for the new spells.
 
-3. [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls vanilla spells and also adds in some lore friendly ones which slot into the world rather nicely.
+3. [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) complements Apocalypse by adding a lot of new staves and scrolls to the game which are lore friendly and slot into the world nicely.
 
-4. [Trua - Minimalistic Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/32549) adds a lite roleplaying flavor religion aspect to the game.
+4. [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls vanilla spells and also adds in some lore friendly ones which slot into the world rather nicely.
 
-5. [Renounce the Daedra: Epic Restoration Lite](https://www.nexusmods.com/skyrimspecialedition/mods/36100)  this mod adds a Restoration spell called Renounce. If you cast it during a Daedric quest, it'll fail it automatically. Beware, cultists nearby may turn against you. 
+5. [Trua - Minimalistic Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/32549) adds a lite roleplaying flavor religion aspect to the game.
+
+6. [Renounce the Daedra: Epic Restoration Lite](https://www.nexusmods.com/skyrimspecialedition/mods/36100)  this mod adds a Restoration spell called Renounce. If you cast it during a Daedric quest, it'll fail it automatically. Beware, cultists nearby may turn against you. 
     - You can find a tome in the following locations:
         - Whiterun, the Temple of Kynareth, on the bench next to the altar
         - Hall of the Vigilants, on one of the benches.
@@ -254,6 +256,16 @@ Tinvaak uses a carefully selected range of city, town and village mods that bala
 2. [Cities of the North Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Cities of the North Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168), [The Great City of Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/19709) and [Capital of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/34222) are used to breathe new life into the minor holds and create an experience that feels both fresh and memorable.
 
 3. [Thanedom of Series](https://www.nexusmods.com/skyrimspecialedition/users/42928635?tab=user+files) is a series of mods created by Axis1211 that make small and tasteful changes to the minor settlements. These individual mods have been merged together to create a master small location overhaul.
+
+### Hearthfire Home Overhauls
+
+Whilst Tinvaak may not have any new player homes, it does overhaul all the base homes in the game through the use of some minimal but tasteful mods.
+
+1. [Lakeview Manor - As It Should be](https://www.nexusmods.com/skyrimspecialedition/mods/17007) changes everyone's favourite Hearthfire house into the manor it was meant to be. With oodles of storage and displays, it makes for a picturesque getaway from your adventures. **NOTE**: If you use this house, please read the mod-page as it has specific instructions on what to build.
+
+2. [Tranquil Windstad](https://www.nexusmods.com/skyrimspecialedition/mods/12933) makes a few small changes to my personal favourite hearthfire house and makes it feel a bit more cosy. It even moves the horkers that can often be a bit too close for comfort.
+
+3. [Simple Hearthfire Attics](https://www.nexusmods.com/skyrimspecialedition/mods/37173) adds in an attic area to the hearthfire homes to provide a bit more storage where needed. Only the Heljarchan one is used due to the other mods affecting the other houses.
 
 ### NPC Retextures
 
