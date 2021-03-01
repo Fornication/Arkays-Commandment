@@ -31,9 +31,11 @@ Wabbajack Modlist Installer by Althro.
     - [Gameplay](#gameplay)
     - [Quest and Encounter Mods](#quest-and-encounter-mods)
     - [Expanded Cities Towns and Villages](#expanded-cities-towns-and-villages)
+    - [Hearthfire Home Overhauls](#hearthfire-home-overhauls)
     - [NPC Retextures](#npc-retextures)
     - [Followers](#followers)
     - [Music and Weather](#music-and-weather)
+    - [Survival](#survival)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Creating your Character](#creating-your-character)
   - [Other Post Installation FAQ](#other-post-installation-faq)
@@ -61,7 +63,7 @@ I run the list at around 45 to 50fps at 1080p on the following specs:
 - AMD 5600XT
 - 32GB RAM
 
-Space required: Approx 120GB
+Space required: Approx 126GB
 
 ## Installation
 
