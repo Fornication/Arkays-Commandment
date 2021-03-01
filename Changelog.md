@@ -1,5 +1,38 @@
 # Changelog
 
+## 1.0.1 Tweaks and updates
+
+**Build at:** `01/03/2021 20:39:47`
+
+**Info**:
+
+- Download Size change: -382.1MB (Total: 59.5GB)
+- Install Size change: -362.7MB (Total: 70.6GB)
+
+**Download Changes**:
+
+- Updated [Faster Reanimation](http://nexusmods.com/skyrimspecialedition/mods/46357)
+- Updated [Galaxy's Riverwood](http://nexusmods.com/skyrimspecialedition/mods/46360)
+- Updated [Skyrim Unbound Reborn - Alternate Start](http://nexusmods.com/skyrimspecialedition/mods/27962)
+- Updated [Stagger Direction Fix - SSE](http://nexusmods.com/skyrimspecialedition/mods/43339)
+- Updated Synthesis
+- Removed [Project Clarity AIO - Skyrim Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/45306)
+- Added [Breezehome Basement (Crafting and Storage)](http://nexusmods.com/skyrimspecialedition/mods/18958)
+- Added [Project Clarity - Architecture Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/44283)
+- Added [Project Clarity - Clutter Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/43401)
+- Added [Project Clarity - Creature Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/41998)
+- Added [Project Clarity - Dungeon Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/45135)
+- Added [Project Clarity - Effects Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/42756)
+- Added [Project Clarity - Landscape Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/45286)
+- Added [Project Clarity - Statue Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/36120)
+- Added [Project Clarity - Vanilla Armor Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/35593)
+- Added [Project Clarity - Vanilla Clothing And Jewelry Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/42859)
+- Added [Project Clarity - Vanilla Weapon Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/36222)
+
+**Fixes**
+- Few minor fixes here and there to tidy things up.
+- Swapped to individual Project Clarity files as they are easier to manage.
+
 ## 1.0 Major updates and further tweaks
 
 **Not Save Compatible**
