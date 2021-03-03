@@ -1,5 +1,37 @@
 # Changelog
 
+## 1.0.3 Fixes and tweaks
+
+**Build at:** `03/03/2021 00:34:58`
+
+**Info**:
+
+- Download Size change: 1.4MB (Total: 59.5GB)
+- Install Size change: 103.8MB (Total: 70.5GB)
+
+**Download Changes**:
+
+- Updated [Thanedom Of Heljarchen](http://nexusmods.com/skyrimspecialedition/mods/36779)
+- Removed [Luminosity - A Quality Worldmap Compatibility Patch](http://nexusmods.com/skyrimspecialedition/mods/30162)
+- Removed [Luminosity Lighting Overhaul - The Cathedral Concept](http://nexusmods.com/skyrimspecialedition/mods/16830)
+- Removed [Relighting Skyrim - SSE](http://nexusmods.com/skyrimspecialedition/mods/8586)
+- Removed [Relighting Skyrim SSE - No Player Homes](http://nexusmods.com/skyrimspecialedition/mods/26538)
+- Removed [Thanedom Of Nightgate](http://nexusmods.com/skyrimspecialedition/mods/35631)
+- Removed [All Geared Up Derivative SE - AllGUD](http://nexusmods.com/skyrimspecialedition/mods/28833)
+- Added [Enhanced Lighting for ENB (ELE) - Special Edition](http://nexusmods.com/skyrimspecialedition/mods/1377)
+
+**Fixes**
+- Fixed issues with Distinct Interiors affecting interiors.
+- Fixed dialogue issues on Khajiit Speak profile.
+- Fixed a few rogue lanterns in cities.
+- Fixed a few weapons so they now sound correct.
+- Fixed Windhelm Bridge CTD (issue with Better Dynamic Snow)
+- Some other small consistency fixes.
+- Regnerated DynDOLOD
+- Regenerated xLodGEN
+- Regenerated Synthesis
+- Regenerated TexGen
+
 ## 1.0.1 Tweaks and updates
 
 **Build at:** `01/03/2021 20:39:47`
