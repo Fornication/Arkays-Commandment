@@ -1,5 +1,46 @@
 # Changelog
 
+## 1.0.6 Fixes, Updates and new lods
+
+**Not Save Compatible**
+
+**Build at:** `07/03/2021 17:44:08`
+
+**Info**:
+
+- Download Size change: -1.5GB (Total: 61GB)
+- Install Size change: -4.2GB (Total: 75.3GB)
+
+**Download Changes**:
+
+- Updated [Land of Vominheim](http://nexusmods.com/skyrimspecialedition/mods/31472)
+- Updated [Missives - Worldspace Additions](http://nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [Odin - Skyrim Magic Overhaul](http://nexusmods.com/skyrimspecialedition/mods/46000)
+- Updated [Reading Is Good (SKSE)](http://nexusmods.com/skyrimspecialedition/mods/42026)
+- Updated [Storm Lightning for SSE and VR (Minty Lightning 2019)](http://nexusmods.com/skyrimspecialedition/mods/29243)
+- Updated [Wyrmstooth](http://nexusmods.com/skyrimspecialedition/mods/45565)
+- Updated [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+- Updated [Hamlets Of The Pale](http://nexusmods.com/skyrimspecialedition/mods/36650)
+- Updated [SunHelm Survival and needs](http://nexusmods.com/skyrimspecialedition/mods/39414)
+- Updated [Blended Roads Redone SE](http://nexusmods.com/skyrimspecialedition/mods/26270)
+- Updated [Rally's Smithy](http://nexusmods.com/skyrimspecialedition/mods/45099)
+- Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [Better Skyrim Statues](http://nexusmods.com/skyrimspecialedition/mods/36601)
+- Added [No Grass In Objects](http://nexusmods.com/skyrimspecialedition/mods/42161)
+- Added [Rodryk's Dragon Bridge](http://nexusmods.com/skyrimspecialedition/mods/42510)
+- Added [No Grass In Objects](http://nexusmods.com/skyrimspecialedition/mods/42161)
+- Added [The Truth ENB](http://nexusmods.com/skyrimspecialedition/mods/9162)
+
+**Fixes**:
+- Swapped to new DynDOLOD to acheive more consistency in distant lod objects.
+- Generated Grass Cache.
+- Regenerated DynDOLOD
+- Regenerated xLodGEN
+- Regenerated Occlusion
+- Regenerated Synthesis
+- Regenerated FaceGen
+- Regenerated Reproccer. 
+
 ## 1.0.3 Fixes and tweaks
 
 **Build at:** `03/03/2021 00:34:58`
