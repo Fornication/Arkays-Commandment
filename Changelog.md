@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.0.7 Small changes, fixes and tweaks
+
+**Potentially save game compatible**
+
+**Note**: Starting from this build, the list is now using the Stock Game method. You no longer need to copy game folder files, just open MO2 and press "Launch Tinvaak".
+
+**Build at:** `08/03/2021 21:12:44`
+
+**Info**:
+
+- Download Size change: -3.9GB (Total: 64.9GB)
+- Install Size change: -5.4GB (Total: 80.7GB)
+
+**Download Changes**:
+
+- Updated [Constellations - A Standing Stones Improvement (SkyRem - Cassi)](http://nexusmods.com/skyrimspecialedition/mods/43763)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](http://nexusmods.com/skyrimspecialedition/mods/38845)
+
+**Fixes**
+
+- Adjusted AttackSpeedMult on some races and powers to fix weapons swinging to quickly.
+
 ## 1.0.6 Fixes, Updates and new lods
 
 **Not Save Compatible**
