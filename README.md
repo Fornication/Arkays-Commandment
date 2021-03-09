@@ -23,7 +23,7 @@ Wabbajack Modlist Installer by Althro.
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Game Folder](#game-folder)
     - [ENB](#enb)
   - [How to start up Tinvaak](#how-to-start-up-Tinvaak)
   - [Updating](#updating)
@@ -143,25 +143,15 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
-### Copy Game Folder Files
+### Game folder
 
-Copy the all of the files from the MO2/Game Folder Files directory into your game folder.
+The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Stock Games. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
 
 ### ENB
 
-Tinvaak comes with two custom tweaked ENB's and [Tolls ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) is included to help facilitate the easy changing of ENB profiles. To setup the ENB manager:
+Tinvaak comes with [The Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which has been custom tweaked for Vivid Weathers and slightly brighter nights.
 
-1. Open up the folder called Tools where you have the modlist installed.
-2. Navigate to the folder called Tolls ENB Manager and open it.
-3. Double click on ENBManager.exe
-4. Set the path to where your Skyrim Special is installed (In my case, it's C:/Games/steam/steamapps/common/Skyrim Special Edition)
-5. Click on presets and press the "Add New Preset" button
-6. Press the browse button underneath files.
-7. Navigate to where you were before in the Tools Folder. You will see a folder called "ENB Profiles". Select the one you wish to use and press open.
-8. The name should auto-populate. If it does not, give it a suitable name such as "Ruvaak"
-9. Press the Save button.
-10. To enable the profile, click on the white circle slider.
-11. Your chosen ENB Profile is now installed.
+If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Vivid Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 ## How to start up Tinvaak
 
@@ -388,7 +378,7 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 ### Tweaking the ENB
 
-By default, Tinvaak ships with two ENB profiles that have been custom tweaked to match the modlist. These are [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) and [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009). If you wish to make changes to them to better suit your visual preferences, follow the information below.
+If you wish to make changes to them to better suit your visual preferences, follow the information below.
 
 Open the console with `~` before doing edits, so you're not randomly swinging weapons around while editing the ENB.
 
