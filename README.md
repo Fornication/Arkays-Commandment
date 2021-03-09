@@ -151,7 +151,14 @@ The installation will create a copy of your Skyrim Special Edition game in Insta
 
 Tinvaak comes with [The Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which has been custom tweaked for Vivid Weathers and slightly brighter nights.
 
-If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Vivid Weathers. To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Vivid Weathers. To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+
+Some ENB's which are known to work with the list include:
+
+- [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
+- [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876)**Has working Night Eye**
+- [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
+- [Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089) **Has working Night Eye**
 
 ## How to start up Tinvaak
 
