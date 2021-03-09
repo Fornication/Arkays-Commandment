@@ -63,7 +63,7 @@ I run the list at around 45 to 50fps at 1080p on the following specs:
 - AMD 5600XT
 - 32GB RAM
 
-Space required: Approx 126GB
+Space required: Approx 138GB
 
 ## Installation
 
