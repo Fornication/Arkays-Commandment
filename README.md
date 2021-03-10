@@ -23,7 +23,7 @@ Wabbajack Modlist Installer by Althro.
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Game Folder](#game-folder)
+    - [Copy Game Folder Files](#game-folder-files)
     - [ENB](#enb)
   - [How to start up Tinvaak](#how-to-start-up-Tinvaak)
   - [Updating](#updating)
@@ -145,13 +145,13 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ### Game folder
 
-The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Stock Games. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
+Copy the all of the files from the `Tinvaak/Game Folder Files` directory into your Skyrim Special Edition game folder.
 
 ### ENB
 
 Tinvaak comes with [The Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which has been custom tweaked for Vivid Weathers and slightly brighter nights.
 
-If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Vivid Weathers. To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Vivid Weathers. To replace the ENB installed, I advise using [Toll's ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469).
 
 Some ENB's which are known to work with the list include:
 
