@@ -1,5 +1,36 @@
 # Changelog
 
+## 1.1.1 - Hotfix
+
+**Notes**: Small hotfix to get the list back online.
+
+**Build at:** `14/03/2021 21:28:58`
+
+- Removed [Falmer Hut HD](http://nexusmods.com/skyrimspecialedition/mods/19206)
+
+## 1.1 - Official Release
+
+**Not save compatible**
+
+**Notes**: Swapped back to Game folder files due to errors in stock game. This may be revisited in the future
+
+**Info**:
+
+- Download Size change: 4MB (Total: 61GB)
+- Install Size change: -343.4MB (Total: 75.6GB)
+
+**Download Changes**:
+
+- Updated [Constellations - A Standing Stones Improvement (SkyRem - Cassi)](http://nexusmods.com/skyrimspecialedition/mods/43763)
+- Updated [Lucien - Immersive Fully Voiced Male Follower](http://nexusmods.com/skyrimspecialedition/mods/20035)
+- Updated [Reading Is Good (SKSE)](http://nexusmods.com/skyrimspecialedition/mods/42026)
+- Updated [SunHelm Survival and needs](http://nexusmods.com/skyrimspecialedition/mods/39414)
+- Updated [Copy and Paste in Console](http://nexusmods.com/skyrimspecialedition/mods/30928)
+- Updated [Favorite Misc Items](http://nexusmods.com/skyrimspecialedition/mods/42750)
+- Updated [Project Clarity - Effects Textures Redone](http://nexusmods.com/skyrimspecialedition/mods/42756)
+- Updated [Ancient Dwemer Metal - My patches for SMIM Dawnguard Dragonborn](http://nexusmods.com/skyrimspecialedition/mods/38845)
+- Updated [Skyrim Unbound Reborn (Alternate Start)](http://nexusmods.com/skyrimspecialedition/mods/27962)
+
 ## 1.0.7 Small changes, fixes and tweaks
 
 **Potentially save game compatible**
