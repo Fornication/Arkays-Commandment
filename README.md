@@ -57,7 +57,7 @@ Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist that focuses on revital
 
 ## System Requirements
 
-I run the list at around 45 to 50fps at 1080p on the following specs:
+I run the list at around 55 to 60fps at 1080p using the included ENB on the following specs:
 
 - Ryzen 5 3600
 - AMD 5600XT
@@ -330,7 +330,12 @@ Most of the *required* MCM options have been automated for you.
 	- Special Exclusions:
 		- Exclude Dragon Priests?: Enabled
 		- Excluse Corpses?: Enabled
- 
+
+### Sunhelm (If Using)
+- General Settings
+	- Gameplay Options
+		- Toggle Raw Meat Damage [unchecked]
+
 ### Violens
 - Profile System
 	- Menu Settings
