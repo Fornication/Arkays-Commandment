@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.2 - Bug Fixes and Tweaks
+
+**Not save compatible**
+
+Build at: `15/03/2021 23:06:33`
+
+- Download Size change: 97.1KB (Total: 61GB)
+- Install Size change: -1.8MB (Total: 75.6GB)
+
+Info:
+
+- Fixed speedmultbug on some races.
+- Fixed spells not being applied after being selected in Unbound Reborn MCM.
+- Fixed certain races showing up as Nord in Skyrim Reputation.
+- Regenerated NPC Health Rescaler
+
+Download Changes:
+
+- Removed [Grace - SkyRem Character Series AIO](http://nexusmods.com/skyrimspecialedition/mods/26207)
+- Removed [Weapon Speed Mult Fix](http://nexusmods.com/skyrimspecialedition/mods/45502)
+- Added [Aetherius - A Race Overhaul](http://nexusmods.com/skyrimspecialedition/mods/26686)
+- Added [Attribute Value Application (SkyRem - Ava)](http://nexusmods.com/skyrimspecialedition/mods/23329)
+- Added [Class Overhaul Re-Imagined (SkyRem - Cori)](http://nexusmods.com/skyrimspecialedition/mods/24808)
+- Added [Early Life Skill Adjustment (SkyRem - Elsa)](http://nexusmods.com/skyrimspecialedition/mods/23126)
+
+
 ## 1.1.1 - Hotfix
 
 **Notes**: Small hotfix to get the list back online.
