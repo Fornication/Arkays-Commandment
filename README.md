@@ -318,6 +318,10 @@ Most of the *required* MCM options have been automated for you.
 	- Main Settings
 		- Enable Mod Features
 
+### Immersive Hud
+- Options
+	- Enable fast fade of health	
+
 ### Real Names
 - Basic Options:
 	- Settings
@@ -331,10 +335,14 @@ Most of the *required* MCM options have been automated for you.
 - Profile System
 	- Menu Settings
 		- Load: Tinvaak.vlms
+
+### Weapon Speed Mult Fix (THIS MUST BE DONE)
+Unwield all weapons, this includes fists and the unarmed weapons. **This will not work if you are wielding any weapons.**
+- Status
+	- Activate Weapon Speed Mult Fix 
  
 Tweak the following to your liking:
 
-- Immersive HUD
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - MoreHUD
