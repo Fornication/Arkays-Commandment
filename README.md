@@ -186,26 +186,28 @@ Various other gameplay mods used include:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters.
 
-2. [Grace - SkyRem Character Series AIO](https://www.nexusmods.com/skyrimspecialedition/mods/26207) Compilation of all the SkyRem mods for character creation and development: Gabi, Rae, Ava, Cori, and Elsa. All together, these completely overhaul your character through Gender and Race enhancements, utilization of an Attribute system, a Class system, and a simple skill boost based on your background. 
+2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/24808), [Early Life Skill Adjustment(ELSA)](https://www.nexusmods.com/skyrimspecialedition/mods/23126) and [Attribute Value Application(AVA)](https://www.nexusmods.com/skyrimspecialedition/mods/23329) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
 
-3. [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for overhauling Lycanthrophy and adding the option to play as a werebear.
+3. [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a streamlined race overhaul designed to make races more meaningful without making them more restrictive. Greater powers have been removed in favor of modest but desirable passives. Although each race has been designed to fill a specific role, the nature of these bonuses allow for a broad range of builds to benefit from them. 
 
-4. [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat. 
+4. [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for overhauling Lycanthrophy and adding the option to play as a werebear.
 
-5. [Skyrim Alchemy and Food Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/12343) A comprehensive change to food inspired by Requiem Overhaul and BRG The Gourmet from Legendary Edition 
+5. [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat. 
+
+6. [Skyrim Alchemy and Food Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/12343) A comprehensive change to food inspired by Requiem Overhaul and BRG The Gourmet from Legendary Edition 
  	- We're only using the food portion of this mod, SkyRe handles alchemy.
 
-6. [iHarvest](https://www.nexusmods.com/skyrimspecialedition/mods/27789) This mod adds a single spell, "Harvest". To use the spell, just cast it. Note that, as a concentration spell, it will continue to operate as long as you cast it. It will scan your surroundings, learn what in the area can be harvested, and finally send out little, magical Getter Critters to fetch stuff for you. To get the spell, you'll have to find a spellbook.
+7. [iHarvest](https://www.nexusmods.com/skyrimspecialedition/mods/27789) This mod adds a single spell, "Harvest". To use the spell, just cast it. Note that, as a concentration spell, it will continue to operate as long as you cast it. It will scan your surroundings, learn what in the area can be harvested, and finally send out little, magical Getter Critters to fetch stuff for you. To get the spell, you'll have to find a spellbook.
 
-7. [MisterB's Crafting Matters](https://www.nexusmods.com/skyrimspecialedition/mods/34462) A mod that adds much more to your Skyrim crafting experience. Breakdown Recipes, Tailoring Recipes, the ability to get firewood from miscellaneous items and new crafting materials. 
+8. [MisterB's Crafting Matters](https://www.nexusmods.com/skyrimspecialedition/mods/34462) A mod that adds much more to your Skyrim crafting experience. Breakdown Recipes, Tailoring Recipes, the ability to get firewood from miscellaneous items and new crafting materials. 
 
-8. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
+9. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
 
-9. [Lethal Traps](https://www.nexusmods.com/skyrimspecialedition/mods/3860) traps dispersed around the world of Skyrim will now deal much more damage, alert nearby enemies and can also stagger you! In addition to all of this, traps are unleveled, carefully balanced and are much more effective against enemies. 
+10. [Lethal Traps](https://www.nexusmods.com/skyrimspecialedition/mods/3860) traps dispersed around the world of Skyrim will now deal much more damage, alert nearby enemies and can also stagger you! In addition to all of this, traps are unleveled, carefully balanced and are much more effective against enemies. 
 
-10. [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693) The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter. 
+11. [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693) The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter. 
 
-11. [Simple Weapon Swing Parry](https://www.nexusmods.com/skyrimspecialedition/mods/44726) This is a SKSE Plugin that brings a parry effect when character swinging its weapon in combat, based on the similar feature from "Action Combat" or "Weapon Parry Standalone", also with some advantages and new features. Once a character swinging it weapons to attack, it will enter a blocking state in the split second between weapon swinging animation to the hit frame. This blocking state is the same as you holding your shield by pressing the block button. Once your enemy hit you when you are in this weapon swinging blocking state, a weapon clash effect will occur and this attack will be blocked by you.
+12. [Simple Weapon Swing Parry](https://www.nexusmods.com/skyrimspecialedition/mods/44726) This is a SKSE Plugin that brings a parry effect when character swinging its weapon in combat, based on the similar feature from "Action Combat" or "Weapon Parry Standalone", also with some advantages and new features. Once a character swinging it weapons to attack, it will enter a blocking state in the split second between weapon swinging animation to the hit frame. This blocking state is the same as you holding your shield by pressing the block button. Once your enemy hit you when you are in this weapon swinging blocking state, a weapon clash effect will occur and this attack will be blocked by you.
 
 ### Magic and Religion Mods
 
@@ -311,7 +313,11 @@ Tinvaak comes with the option of having Survival mods should you wish to play wi
 
 ## In-Game MCM Options
 
-Most of the *required* MCM options have been automated for you. 
+Most of the *required* MCM options have been automated for you.
+
+### A Matter of Time (Optional)
+- Presets
+	- Load User Settings
 
 ### Cold Region Behavior
 - General Settings
@@ -340,11 +346,6 @@ Most of the *required* MCM options have been automated for you.
 - Profile System
 	- Menu Settings
 		- Load: Tinvaak.vlms
-
-### Weapon Speed Mult Fix (THIS MUST BE DONE)
-Unwield all weapons, this includes fists and the unarmed weapons. **This will not work if you are wielding any weapons.**
-- Status
-	- Activate Weapon Speed Mult Fix 
  
 Tweak the following to your liking:
 
