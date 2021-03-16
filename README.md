@@ -156,7 +156,7 @@ If you want a different ENB, you can choose from a wide variety of ENBs on the N
 Some ENB's which are known to work with the list include:
 
 - [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
-- [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876)**Has working Night Eye**
+- [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) **Has working Night Eye**
 - [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
 - [Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089) **Has working Night Eye**
 
@@ -337,7 +337,7 @@ Most of the *required* MCM options have been automated for you.
 		- Exclude Dragon Priests?: Enabled
 		- Excluse Corpses?: Enabled
 
-### Sunhelm (If Using)
+### Sunhelm (Do This after character creation and you have spawned into the world.)
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
