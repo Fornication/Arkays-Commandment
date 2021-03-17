@@ -44,7 +44,6 @@ Wabbajack Modlist Installer by Althro.
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
 	- [Tweaking the ENB](#tweaking-the-enb)
     - [Zoomed in Display](#zoomed-in-display)
-    - [Removing the Modlist](#removing-the-modlist)
     - [360 Behavior Overhaul](#360-behavior-overhaul)
     - [Dialogue](#dialogue)
     - [Removing the modlist](#removing-the-modlist)
