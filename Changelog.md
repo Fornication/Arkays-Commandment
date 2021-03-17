@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.2.1 - Small fixes
+
+**Should be save compatible from 1.2**
+
+**Info**:
+
+- Download Size change: 10.4MB (Total: 61GB)
+- Install Size change: 4.8MB (Total: 75.6GB)
+- Fixed issue where certain races had more starting stats than others. This has now been rectified across all races to give them a focus skill, 2 major skills and one minor skill.
+
+**Download Changes**:
+
+- Removed [SSE-Terrain-Tamriel-Extend.esm]
+
+
 ## 1.2 - Bug Fixes and Tweaks
 
 **Not save compatible**
