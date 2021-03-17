@@ -369,6 +369,7 @@ Wait for AVA to prompt you to assign stats with a message box, and assign your a
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
+		- Toggle Carry Weight Penalty [unchecked]
 
 - Also enable `Survival Mode` in Skyrim's game settings.  
 - You can now also configure Survival Control Panel to your liking. 
@@ -400,6 +401,13 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 ### Tweaking the ENB
 
 If you wish to make changes to them to better suit your visual preferences, follow the information below.
+
+To remove the letterbox effect:
+- Press [Shift+Enter] to open the ENB menu
+- In the right tab called Shader parameters, there is a section called `ENBPOSTPASS.FX`. Select it to open it.
+- Scroll down to letterbox and disable it.
+- Press the save configuration button.
+- You have now disabled letterbox and can press [shift+enter] to return to game.
 
 Open the console with `~` before doing edits, so you're not randomly swinging weapons around while editing the ENB.
 
