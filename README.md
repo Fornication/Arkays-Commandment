@@ -46,6 +46,8 @@ Wabbajack Modlist Installer by Althro.
     - [Zoomed in Display](#zoomed-in-display)
     - [Removing the Modlist](#removing-the-modlist)
     - [360 Behavior Overhaul](#360-behavior-overhaul)
+    - [Dialogue](#dialogue)
+    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
   - [Contributing](#contributing)
@@ -444,7 +446,18 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
 
 If you save in first person and load that save 360 behavior will fail. Save and load in 3rd person to have correct 3rd person facing behavior.
 
-### Removing the Modlist
+## Dialogue
+
+If you are experiencing dialogue saying that you are Thane of Whiterun or Dragonborn when you wish to not be, follow these steps. **You will need to re-enable these if you decide to become Dragonborn/Become Thane of Whiterun**.
+
+- Make sure you are in world and not in the starting area.
+- Open MCM menu
+- Scroll down to Skyrim Reputation and click on it
+- Select Debug
+- Uncheck Thane of Whiterun and Dragonborn comments.
+- Close MCM.
+
+## Removing the Modlist
 
 You can just delete the MO2 folder and be done with it.
 
