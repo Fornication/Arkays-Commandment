@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.2.3 - Small fix
+
+**Save compatible from the last update**
+
+**Build at:** `20/03/2021 15:19:56`
+
+**Info**:
+
+- Removed unnescessary overwritten files which were causing the installer and installation size to be much larger than needed.
+- Fixed issue with ENB profiles not being preset, they are now located in the tools folder.
+- Fixed an issue with Cold Region Behaviour being applied in areas where there is no snow.
+- Download Size change: -46.7MB (Total: 63.7GB)
+- Install Size change: 18.1GB (Total: 75.5GB)
+
+**Download Changes**:
+
+- Added [Toll's ENB Manager (BETA)](http://nexusmods.com/skyrimspecialedition/mods/37469)
+
 ## 1.2.2 - Textured Enemies
 
 **Should be save compat but new save recommended to experience most changes.**
