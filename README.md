@@ -64,7 +64,7 @@ I run the list at around 55 to 60fps at 1080p using the included ENB on the foll
 - AMD 5600XT
 - 32GB RAM
 
-Space required: Approx 138GB
+Space required: Approx 135GB
 
 ## Installation
 
