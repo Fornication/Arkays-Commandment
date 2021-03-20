@@ -150,14 +150,11 @@ Copy the all of the files from the `Tinvaak/Game Folder Files` directory into yo
 
 ### ENB
 
-Tinvaak comes with [The Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162) which has been custom tweaked for Vivid Weathers and slightly brighter nights.
+Tinvaak comes with both [The Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162) and [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) which have been custom tweaked for Vivid Weathers and slightly brighter nights. They are located in the folder called ENB, and to use them simply copy the contents of the folder of the one you choose to your Skyrim Special Edition Folder. Or, use an ENB manager such as [Toll's ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469).
 
-If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Vivid Weathers. To replace the ENB installed, I advise using [Toll's ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469).
-
-Some ENB's which are known to work with the list include:
+Should you wish to use a different ENB, hare are some other ENB's which are known to work with the list:
 
 - [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
-- [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) **Has working Night Eye**
 - [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
 - [Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089) **Has working Night Eye**
 
