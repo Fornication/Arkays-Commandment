@@ -1,5 +1,38 @@
 # Changelog
 
+## 1.2.2 - Textured Enemies
+
+**Should be save compat but new save recommended to experience most changes.**
+
+**Build at:** `20/03/2021 02:23:22`
+
+**Info**:
+
+- Download Size change: -2.7GB (Total: 63.7GB)
+- Install Size change: -18.1GB (Total: 93.7GB)
+- Regenerated NPC Health Rescaler
+- Regenerated Synthesis
+- Regenerated DynDOLOD
+- Regenerated Grass Cache
+- Regenerated xLodGEN
+- Regenerated Occlusion
+- Regenerated TexGen
+
+**Download Changes**:
+
+- Removed [Improved College Entry - Questline Tweaks](http://nexusmods.com/skyrimspecialedition/mods/22184)
+- Removed [Noble Skyrim Mod HD-2K](http://nexusmods.com/skyrimspecialedition/mods/21423)
+- Removed [Rally's Smithy](http://nexusmods.com/skyrimspecialedition/mods/45099)
+- Removed [Meridia's Luxon Beacon Replacer](http://nexusmods.com/skyrimspecialedition/mods/34782)
+- Removed [Noble Skyrim Mod HD-2K](http://nexusmods.com/skyrimspecialedition/mods/21423)
+- Removed [Cathedral Player and NPC Overhaul - Facegen Patches](http://nexusmods.com/skyrimspecialedition/mods/43514)
+- Added [DVA Dynamic Vampire Appearance](http://nexusmods.com/skyrim/mods/41634)
+- Added [Heritage - Reflexive Enemies](http://nexusmods.com/skyrimspecialedition/mods/30017)
+- Added [OrganicENB SE - Climate of Tamriel Vivid Obsidian and Dolomite Editions](http://nexusmods.com/skyrimspecialedition/mods/2876)
+- Added [Skyrim 2020 Parallax by Pfuscher](http://nexusmods.com/skyrimspecialedition/mods/2347)
+- Added [Vivid Landscapes - Orc and Farmhouses - With or Without Parallax](http://nexusmods.com/skyrimspecialedition/mods/33587)
+
+
 ## 1.2.1 - Small fixes
 
 **Should be save compatible from 1.2**
