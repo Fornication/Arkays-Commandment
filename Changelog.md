@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.4 - Hotfix
+
+**Should be Save compatible**
+
+**Info**:
+
+- Fixed issue with Facegen that would cause certain areas to crash.
+- Fixed issue with Four Shields Tavern in Dragonbridge.
+
 ## 1.2.3 - Small fix
 
 **Save compatible from the last update**
