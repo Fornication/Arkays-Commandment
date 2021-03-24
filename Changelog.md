@@ -1,5 +1,40 @@
 # Changelog
 
+## 1.2.5 - Hotfix and updates
+
+**Should be save compatible**
+
+**Build at:** `24/03/2021 18:31:45`
+
+**Info**:
+
+- Updated Mod Organizer 2 to latest version.
+- Removed weapon parry mod due to unpredictable crashprone nature.
+- Synced profiles so that the fixes from the last update now apply on both profiles.
+- Download Size change: 4.4MB (Total: 63.6GB)
+- Install Size change: 145.2MB (Total: 75.1GB)
+
+**Download Changes**:
+
+- Updated [Capital of Winterhold](http://nexusmods.com/skyrimspecialedition/mods/34222)
+- Updated [Cities of the North - Dawnstar Patch Collection](http://nexusmods.com/skyrimspecialedition/mods/30885)
+- Updated [Cities of the North - Morthal Patch Collection](http://nexusmods.com/skyrimspecialedition/mods/34228)
+- Updated [Grass FPS Booster](http://nexusmods.com/skyrimspecialedition/mods/20082)
+- Updated [IHarvest](http://nexusmods.com/skyrimspecialedition/mods/27789)
+- Updated [Lucien - Immersive Fully Voiced Male Follower](http://nexusmods.com/skyrimspecialedition/mods/20035)
+- Updated [Missives - Worldspace Additions](http://nexusmods.com/skyrimspecialedition/mods/26788)
+- Updated [Storm Lightning for SSE and VR (Minty Lightning 2019)](http://nexusmods.com/skyrimspecialedition/mods/29243)
+- Updated [PrivateProfileRedirector SE - Faster game start (INI file cacher)](http://nexusmods.com/skyrimspecialedition/mods/18860)
+- Updated [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
+- Updated [Stagger Direction Fix - SSE](http://nexusmods.com/skyrimspecialedition/mods/43339)
+- Updated [MM - REAL ELKS](http://nexusmods.com/skyrimspecialedition/mods/41929)
+- Updated [Leviathan Animations - Female Idle Walk And Run](http://nexusmods.com/skyrimspecialedition/mods/42204)
+- Updated [Leviathan Animations - Male Idle Walk And Run](http://nexusmods.com/skyrimspecialedition/mods/42590)
+- Removed [Minimalist Dialogue Interface](http://nexusmods.com/skyrimspecialedition/mods/45832)
+- Removed [Simple Weapon Swing Parry - Scripts Free - SSE](http://nexusmods.com/skyrimspecialedition/mods/44726)
+- Added [Dialogue Interface ReShaped](http://nexusmods.com/skyrimspecialedition/mods/46546)
+
+
 ## 1.2.4 - Hotfix
 
 **Should be Save compatible**
