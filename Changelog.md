@@ -8,6 +8,7 @@
 
 - Fixed issue with Facegen that would cause certain areas to crash.
 - Fixed issue with Four Shields Tavern in Dragonbridge.
+- Dragonborn Presence is now an optional mod. If you wish to enable it, simply click on it in the left pane of Mod Organizer.
 
 ## 1.2.3 - Small fix
 
