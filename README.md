@@ -217,8 +217,6 @@ Various other gameplay mods used include:
 
 11. [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693) The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter. 
 
-12. [Simple Weapon Swing Parry](https://www.nexusmods.com/skyrimspecialedition/mods/44726) This is a SKSE Plugin that brings a parry effect when character swinging its weapon in combat, based on the similar feature from "Action Combat" or "Weapon Parry Standalone", also with some advantages and new features. Once a character swinging it weapons to attack, it will enter a blocking state in the split second between weapon swinging animation to the hit frame. This blocking state is the same as you holding your shield by pressing the block button. Once your enemy hit you when you are in this weapon swinging blocking state, a weapon clash effect will occur and this attack will be blocked by you.
-
 ### Magic and Religion Mods
 
 Tinvaak comes with a few of the popular magic and religion mods which have been fully patched to fit in with both SkyRe and the world that Tinvaak creates.
