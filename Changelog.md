@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.3 - Beary good sounds
+
+**Should be save compatible**
+
+**Build at:** `25/03/2021 23:13:33`
+
+**Info**:
+
+- Regenned Synthesis
+- Regenned Reproccer
+- Regenned NPC Health Override
+- Download Size change: -204MB (Total: 63.8GB)
+- Install Size change: -196.2MB (Total: 75.3GB)
+
+**Download Changes**:
+
+- Updated [Skyrim Redone SE Patch Hub](http://nexusmods.com/skyrimspecialedition/mods/32701)
+- Removed [Go to bed](http://nexusmods.com/skyrimspecialedition/mods/4224)
+- Removed [HD Reworked Bears 4K](http://nexusmods.com/skyrimspecialedition/mods/41028)
+- Removed [Go To Bed - DAR patch](http://nexusmods.com/skyrimspecialedition/mods/43714)
+- Added [Audio Overhaul - Immersive Sounds Integration (AOS - ISC Compatibility Patch)](http://nexusmods.com/skyrimspecialedition/mods/36761)
+- Added [Bears of the North](http://nexusmods.com/skyrimspecialedition/mods/47541)
+- Added [Immersive Sounds - Compendium](http://nexusmods.com/skyrimspecialedition/mods/523)
+
+
 ## 1.2.5 - Hotfix and updates
 
 **Should be save compatible**
