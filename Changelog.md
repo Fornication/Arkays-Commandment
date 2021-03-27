@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.3.2 - Hotfix
+
+**Should be save compatible, however new save advised due to lod changes.**
+
+**Build at:** `27/03/2021 18:54:39`
+
+**Info**:
+
+- Seperated out generated files to help ease downloads and also make it easier to update/replace items.
+- Regenerated DynDOLOD
+- Regenerated xLodGEN
+- Regenerated Occlusion
+- Regenerated TexGen
+- Download Size change: -37.4MB (Total: 63.8GB)
+- Install Size change: -80.8MB (Total: 75.3GB)
+
+**Download Changes**:
+
+- Removed Tinvaak Resources.7z
+- Added Tinvaak Facegen.7z
+- Added Tinvaak DynDOLOD Output.7z
+- Added Tinvaak Grass Cache.7z
+- Added Tinvaak TexGen Output.7z
+- Added Tinvaak xLODGEN Output.7z
+
 ## 1.3 - Beary good sounds
 
 **Should be save compatible**
