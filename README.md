@@ -58,13 +58,15 @@ Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist that focuses on revital
 
 ## System Requirements
 
-I run the list at around 55 to 60fps at 1080p using the included ENB on the following specs:
+I run the list at locked 60fps at 1440p using the inlcuded Organic ENB on the following specs:
 
 - Ryzen 5 3600
-- AMD 5600XT
+- AMD RX 6800
 - 32GB RAM
 
-Space required: Approx 135GB
+I recommend that you have 6GB vram to run the list comfortably at 1080p with an ENB, however if you have 4GB you should still be able to run the list with a reshade instead of an ENB. For 1440p, you will need at least 8GB of vram if you use the heavier of the two ENB presets included.
+
+Space required: Approx 136GB
 
 ## Installation
 
