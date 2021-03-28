@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.3.3 - Lod hotfix
+
+My thanks to St. Jiub for helping to debug this issue. The lods have now finally been fixed and overall the game should look nicer.
+
+**Build at:** `28/03/2021 19:31:47`
+
+**Info**:
+
+- Regenerated DynDOLOD
+- Regenerated xLodGEN
+- Regenerated Occlusion
+- Regenerated TexGen
+- Download Size change: 627.7MB (Total: 63.1GB)
+- Install Size change: 2.2GB (Total: 73.1GB)
+
 ## 1.3.2 - Hotfix
 
 **Should be save compatible, however new save advised due to lod changes.**
