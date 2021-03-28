@@ -398,6 +398,18 @@ If you have an ultrawide monitor (21:9), the UI will be off. You will want to en
 
 You will also want to install the SkyUI, Better Dialogue Controls, Better messagebox Controls, Campfire, Experience, Racemenu, Flashing Savegame Fix, and Extended UI - High Resolution Widescreen fixes from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
 
+Furthermore, you may choose to alter the ingame HUD to fit 21:9. For this, I recommend switching to Less Intrusive HUD found [here](https://www.nexusmods.com/skyrimspecialedition/mods/17974). Make sure to grab the Fisses patch as well.
+
+In Mod Organizer, in the left pane, find and disable (uncheck) SkyHUD and Customizable UI Replacer - SkyHUD.
+
+Head over [here](https://www.nexusmods.com/skyrimspecialedition/mods/18398/?tab=files) and grab the download for the Less Intrusive HUD version.
+
+When installing Customizable UI, rename it to indicate that is the LIH version, be sure NOT to Merge or Overwrite the existing mod in MO2.
+
+Once you get in game, head over to the Less Intrusive HUD modpage and see how to alter the postion/size/color/and much more of any HUD aspect, all ingame!
+
+If you have further questions regarding 21:9 or these instructions, feel free to ping St. Jiub in #list-modifications in the Jorrvaskr server.
+
 ### Tweaking the Game Settings
 
 I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
@@ -480,6 +492,7 @@ You can just delete the MO2 folder and be done with it.
 - iXanza for recompiled MCM scripts for automation, and helping Shelb figure out how to automate the MCMs for Tinvaak.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - Mantis for Ultrawide installation instructions and the logo.
+- St Jiub for additional Ultrawide instructions and help around the server.
 
 ## Contact
 
