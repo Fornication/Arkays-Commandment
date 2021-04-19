@@ -408,6 +408,8 @@ Head over [here](https://www.nexusmods.com/skyrimspecialedition/mods/18398/?tab=
 
 When installing Customizable UI, rename it to indicate that is the LIH version, be sure NOT to Merge or Overwrite the existing mod in MO2.
 
+You will also need to reinstall the mod *Dialogue Interface Reshaped* and select your resolution in there.
+
 Once you get in game, head over to the Less Intrusive HUD modpage and see how to alter the postion/size/color/and much more of any HUD aspect, all ingame!
 
 If you have further questions regarding 21:9 or these instructions, feel free to ping St. Jiub in #list-modifications in the Jorrvaskr server.
