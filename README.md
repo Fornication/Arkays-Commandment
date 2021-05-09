@@ -54,17 +54,20 @@ Wabbajack Modlist Installer by Althro.
 
 ## Preamble
 
-Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist that focuses on revitalising and reworking Skyrim into an actual roleplaying game. Featuring Skyrim Redone, Skyrim Unbound, SkyRem and a suite of survival mods, you can be anyone you want, be it the dragonborn of legend, or a simple woodcutter. A second fully patched profile for Khajiit speak is included as well.
+Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist for SkyrimSE that focuses on revitalising and reworking Skyrim into an actual roleplaying game. Featuring T3NDO's Skyrim Redone, Skyrim Unbound, Oblivion influenced classes and birthsigns and an optional suite of survival mods, you can be anyone you wish.
+
+**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
 ## System Requirements
 
-I run the list at locked 60fps at 1440p using the inlcuded Organic ENB on the following specs:
+I run the list at locked 72fps with a few dips here and there at 1440p on the following specs:
 
 - Ryzen 5 3600
 - AMD RX 6800
 - 32GB RAM
+- PCIe Based SSD
 
-I recommend that you have 6GB vram to run the list comfortably at 1080p with an ENB, however if you have 4GB you should still be able to run the list with a reshade instead of an ENB. For 1440p, you will need at least 8GB of vram if you use the heavier of the two ENB presets included.
+I recommend that you have at least 6GB vram to run the list comfortably at 1080p with an ENB. You may be able to run the list with 4GB, but expect performance to be sub-optimal. For 1440p, you will need at least 8GB or more of vram to achieve a steady framerate. The list will not work optimily if installed on a HDD, I advise you to install it onto an SSD.
 
 Space required: Approx 136GB
 
@@ -142,7 +145,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Windows is reporting that a virus has been detected**:
 
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
 
@@ -158,7 +161,7 @@ Tinvaak comes with two custom tweaked ENB's and [Tolls ENB Manager](https://www.
 2. Navigate to the folder called Tolls ENB Manager and open it.
 3. Double click on ENBManager.exe
 4. Set the path to where your Skyrim Special is installed (In my case, it's C:/Games/steam/steamapps/common/Skyrim Special Edition)
-5. Click on presets and press the "Add New Preset" button
+5. Click on presets in the top row and press the "Add New Preset" button
 6. Press the browse button underneath files.
 7. Navigate to where you were before in the Tools Folder. You will see a folder called "ENB Profiles". Select the one you wish to use and press open.
 8. The name should auto-populate. If it does not, give it a suitable name such as "Ruvaak"
@@ -191,6 +194,8 @@ Updating is like installing. You only have to make sure that you select the same
 ## Noteworthy Mods
 
 ### Gameplay
+
+A video showcase on what is in Tinvaak can be viewed here: https://www.youtube.com/watch?v=p8CtRdu0-e0
 
 Tinvaak uses [T3nd0s Skyrim Redone for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/17915). The guide can be found in MO2 called "Skyre Guide" as a mod.
 
@@ -407,6 +412,8 @@ In Mod Organizer, in the left pane, find and disable (uncheck) SkyHUD and Custom
 Head over [here](https://www.nexusmods.com/skyrimspecialedition/mods/18398/?tab=files) and grab the download for the Less Intrusive HUD version.
 
 When installing Customizable UI, rename it to indicate that is the LIH version, be sure NOT to Merge or Overwrite the existing mod in MO2.
+
+You will also need to reinstall the mod *Dialogue Interface Reshaped* and select your resolution in there.
 
 Once you get in game, head over to the Less Intrusive HUD modpage and see how to alter the postion/size/color/and much more of any HUD aspect, all ingame!
 
