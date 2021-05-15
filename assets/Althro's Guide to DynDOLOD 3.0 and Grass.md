@@ -21,7 +21,7 @@ The latest [xLodGen and SSE Tamriel Extended.esm](https://stepmodifications.org/
 xLodGen and DynDOLOD should be installed to the tools folder of wherever your Mod Organizer is. In my case it’s Tinvaak/Tools. Once they are there, open your Mod Organizer. Create new mods named “xLodGen Output”, “Grass Cache”, “TexGen Output”, “DynDOLOD Output” and “Occlusion Output”.  Add the x64 versions of xLodGen, TexGen and DynDOLOD as executables. We use the x64 as we are modding Skyrim SE and it is a 64 bit game. Note: You must add “-sse” to the arguments section for xLodGenx64, TexGenx64 and DynDOLODx64 otherwise they will fail to run. 
 
 In the section where it says “create files in mod instead of overwrite” for xLodgen and Occlusion, set them to the mods of the names you just created (xLodgen Output and Occlusion Output respectively). I highly recommend having both 2 xLodGen’s, one named xLodgen and the other named occlusion. It just makes the process much quicker as you don’t have to change where the data goes. The arguments should look something like this:
-![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/2ed192a11d4b167e260a5616161418297fe13b7e/images/)
+![alt text](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/images/DynDOLODAndGrass1.jpg)
 
 For the No Grass in Objects pre-cacher, place the plugin in the “plugins” folder of where your mod organizer 2 is installed. Relaunch MO2 and it will appear in the tools area (Shown as a spanner and screwdriver).
 
