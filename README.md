@@ -187,7 +187,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 A video showcase on what is in Tinvaak can be viewed here: https://www.youtube.com/watch?v=p8CtRdu0-e0
 
-Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see [Changes to Gameplay](https://github.com/Althro/Tinvaak/blob/main/Changes-to-Gameplay.md). for a non-exhaustive list of changes in Tinvaak.
+Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see [Changes to Gameplay](https://github.com/Althro/Tinvaak/blob/main/Changes-to-Gameplay.md) for a non-exhaustive list of changes in Tinvaak.
 
 ## In-Game MCM Options
 
