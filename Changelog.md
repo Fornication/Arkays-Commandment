@@ -10,6 +10,19 @@ Note: This is not Tinvaak 2. This update was done to get the list back online an
 
 `full changelog to come soon`
 
+**Info**:
+
+- Fixed floating items around bleakwind basin.
+- Fixed issue with concentration based spells not working when perks are applied.
+- Resolved many smaller bugs through mod removal and swapping.
+- Regenerated DynDOLOD
+- Regenerated FaceGen
+- Regenerated Nemesis
+- Regenerated Occlusion
+- Regenerated Reproccer.
+- Regenerated Synthesis
+- Regenerated xLodGEN
+
 ## 1.3.3 - Lod hotfix
 
 My thanks to St. Jiub for helping to debug this issue. The lods have now finally been fixed and overall the game should look nicer.
