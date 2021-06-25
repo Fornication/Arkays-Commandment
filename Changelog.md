@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.4 - Fixes, Updates and Tweaks
+
+**NOT SAVE COMPATIBLE**
+
+Note: This is not Tinvaak 2. This update was done to get the list back online and also to provide a small sampling of what is going to be in Tinvaak 2.
+
+**Build at:** `soon`
+
+`full changelog to come soon`
+
 ## 1.3.3 - Lod hotfix
 
 My thanks to St. Jiub for helping to debug this issue. The lods have now finally been fixed and overall the game should look nicer.
