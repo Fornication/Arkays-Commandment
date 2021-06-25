@@ -23,13 +23,11 @@ Various other gameplay mods used include:
 
 7. [iHarvest](https://www.nexusmods.com/skyrimspecialedition/mods/27789) This mod adds a single spell, "Harvest". To use the spell, just cast it. Note that, as a concentration spell, it will continue to operate as long as you cast it. It will scan your surroundings, learn what in the area can be harvested, and finally send out little, magical Getter Critters to fetch stuff for you. To get the spell, you'll have to find a spellbook.
 
-8. [MisterB's Crafting Matters](https://www.nexusmods.com/skyrimspecialedition/mods/34462) A mod that adds much more to your Skyrim crafting experience. Breakdown Recipes, Tailoring Recipes, the ability to get firewood from miscellaneous items and new crafting materials. 
+8. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
 
-9. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
+9. [Lethal Traps](https://www.nexusmods.com/skyrimspecialedition/mods/3860) traps dispersed around the world of Skyrim will now deal much more damage, alert nearby enemies and can also stagger you! In addition to all of this, traps are unleveled, carefully balanced and are much more effective against enemies. 
 
-10. [Lethal Traps](https://www.nexusmods.com/skyrimspecialedition/mods/3860) traps dispersed around the world of Skyrim will now deal much more damage, alert nearby enemies and can also stagger you! In addition to all of this, traps are unleveled, carefully balanced and are much more effective against enemies. 
-
-11. [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693) The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter. 
+10. [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693) The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter. 
 
 ## Magic and Religion Mods
 
