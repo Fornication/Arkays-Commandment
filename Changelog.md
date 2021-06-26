@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.4.2 - Hotfix
+
+**Should be save compatible**
+
+Note: Small update to fix a few niggling issues that were present in previous version. This will be the last update to 1.x before Tinvaak 2. Updates for this version will now only occur if there is a major issue.
+
+**Build at:** `26/06/2021 15:14:05`
+
+**Info**:
+- Fixed issue with Distinct Interiors in Dawnstar, Morthal and Falkreath.
+- Fixed Normal map issue on Females.
+- Swapped to higher quality Rustic Clothing and Armors to improve overall outfit quality.
+- Download Size change: -1.2GB (Total: 65.2GB)
+- Install Size change: -2.5GB (Total: 75.2GB)
+
+**Download Changes**:
+
+- Updated [RUSTIC ARMOR and WEAPONS SE](https://www.nexusmods.com/skyrimspecialedition/mods/19666/?tab=files&file_id=69262)
+- Updated [RUSTIC CLOTHING - Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/4703/?tab=files&file_id=154783)
+- Updated [SC - Mature Skin Specs](https://www.nexusmods.com/skyrimspecialedition/mods/39115/?tab=files&file_id=154216)
+
 ## 1.4 - Fixes, Updates and Tweaks
 
 **NOT SAVE COMPATIBLE**
