@@ -237,13 +237,9 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. Wh
 
 ## Creating your Character
 
-#### After you configure the Skyrim Unbound MCM and you're finished customizing your character, select `Stay Here`. Do not select any of the other options.
+### If you chose to use survival mods
 
-Wait for AVA to prompt you to assign stats with a message box, and assign your attributes. Use the power called "Reflect" in your magic menu to choose a background and starting skill bonus. When you're done, hit `Enter` to begin the game.
-
-#### If you chose to use survival mods
-
-### Sunhelm (Do This after character creation and you have spawned into the world.)
+#### Sunhelm (Do This after character creation and you have spawned into the world.)
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
