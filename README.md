@@ -237,6 +237,8 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. Wh
 
 ## Creating your Character
 
+Once you have finished the MCM setup, create your character in race menu. Be as creative as you want :D
+
 ### If you chose to use survival mods
 
 #### Sunhelm (Do This after character creation and you have spawned into the world.)
@@ -244,9 +246,6 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. Wh
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
 		- Toggle Carry Weight Penalty [unchecked]
-
-- Also enable `Survival Mode` in Skyrim's game settings.  
-- You can now also configure Survival Control Panel to your liking. 
 
 ## Other Post Installation FAQ
 
