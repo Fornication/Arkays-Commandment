@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.4.3 - Hotfix & Minor addition
+
+**Should be save compatible but new save recommended due to updated lods.**
+
+Note: Small update to fix the issue with grass and plugin order.
+
+**Info**:
+- Fixed issue with grass not appearing in Whiterun. Grass cache has been created which may affect performance.
+- Fixed plugin order issue on Khajiit Speak Profile
+- Generated Grass Cache
+- Regenerated DynDOLOD
+- Regenerated Occlusion
+- Regenerated Synthesis
+
+**Download Changes**:
+
+- Added [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483)
+- Added Tinvaak Grass Cache
+
 ## 1.4.2 - Hotfix
 
 **Should be save compatible**
