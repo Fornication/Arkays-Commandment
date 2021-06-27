@@ -6,6 +6,8 @@
 
 Note: Small update to fix the issue with grass and plugin order.
 
+**Build at:** `27/06/2021 14:49:01`
+
 **Info**:
 - Fixed issue with grass not appearing in Whiterun. Grass cache has been created which may affect performance.
 - Fixed plugin order issue on Khajiit Speak Profile
@@ -13,6 +15,8 @@ Note: Small update to fix the issue with grass and plugin order.
 - Regenerated DynDOLOD
 - Regenerated Occlusion
 - Regenerated Synthesis
+- Download Size change: -748.1MB (Total: 66GB)
+- Install Size change: -2.9GB (Total: 78.1GB)
 
 **Download Changes**:
 
