@@ -9,14 +9,14 @@ assignees: Althro
 
 **Upload your crashlog**
 
-If you've crashed, upload your crashlog from `Tool Cache\NetScriptFramework`
+If you've crashed, upload your crashlog from `Tool Cache\NetScriptFramework`. Reports of crashes that do not include a crashlog will be **ignored and closed.**
 
 **Required: Modlist.txt**
 
 You must also include your modlist.txt from `F:\Tinvaak\profiles\Tinvaak`
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. Failure to do this will result in the report being **closed and ignored.**
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -34,4 +34,4 @@ If applicable, add screenshots to help explain your problem. I highly recommend 
 
 **Did you add any additional mods?**
 
-
+***YOU MUST DECLARE IF YOU HAVE MODIFIED THE LIST.***
