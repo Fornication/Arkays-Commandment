@@ -1,12 +1,12 @@
-# Tinvaak
+# Arkay's Commandment
 
 ![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak/gh-pages/Ghub.png)
 
-Wabbajack Modlist Installer by Althro.
+Wabbajack Modlist Installer by Fornication.
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/Tinvaak/badge.json)
 
-- [Tinvaak](#Tinvaak)
+- [Arkay's Commandment](#Arkay's Commandment)
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
   - [Installation](#installation)
