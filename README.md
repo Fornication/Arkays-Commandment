@@ -1,4 +1,4 @@
-# Arkay's Commandment
+#Arkay's Commandment
 
 ![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak/gh-pages/Ghub.png)
 
