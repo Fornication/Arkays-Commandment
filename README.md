@@ -363,12 +363,4 @@ You can just delete the MO2 folder and be done with it.
 
 ## Contact
 
-Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) I would advise checking the [Issues](https://github.com/Althro/Tinvaak/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
-
-## Contributing
-
-See [Contributing](https://github.com/Althro/Tinvaak/blob/main/CONTRIBUTING.md).
-
-## Changelog
-
-See [Changelog](https://github.com/Althro/Tinvaak/blob/main/Changelog.md).
+You can join my discord, [Fornication's Funhouse](https://discord.gg/SberVMKd8u), or join the [Wabbajack Discord](https://discord.gg/wabbajack). **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
