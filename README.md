@@ -59,7 +59,7 @@ Arkay’s Commandment is a Requiem-based mod list that aims to provide a fair, c
 	- You’ll need to launch Skyrim Special Edition from Steam at least once before playing if you haven’t before
 -	Latest version of Wabbajack installed to a root folder (example C:\Wabbajack)
 -	Enough space to download and install this list 
-	- i. 
+	- i. About 60 GB to download and about 80 GB to install
 -	Nexus Mods account (Nexus premium membership is highly recommended)
 -	Microsoft Visual C++ x64
 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
