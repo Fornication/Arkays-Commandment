@@ -196,14 +196,6 @@ Please do not expect the game to be functionally similar to vanilla. There are a
 
 ## Other Post Installation FAQ
 
-### Tweaking the Game Settings
-
-I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
-
-- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
-- `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
-
 ### Tweaking the ENB
 
 You have the option of disabling the ENB completely, something that I personally do. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press save on the top left.
