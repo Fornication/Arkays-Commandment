@@ -48,20 +48,20 @@ Wabbajack Modlist Installer by Fornication.
 
 Time to '**git gud**'
 
-Arkay’s Commandment is a Requiem-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but my goal is to make progression feel much more meaningful and earned. This list features simple permadeath; you have 1 life, no exceptions.
+Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but my goal is to make progression feel much more meaningful and earned. This list features simple permadeath; you have 1 life, no exceptions.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
 ## System Requirements
 
--	Windows 10
--	Skyrim Special Edition on Steam
+- Windows 10
+- Skyrim Special Edition on Steam
 	- You’ll need to launch Skyrim Special Edition from Steam at least once before playing if you haven’t before
--	Latest version of Wabbajack installed to a root folder (example C:\Wabbajack)
--	Enough space to download and install this list 
+- Latest version of Wabbajack installed to a root folder (example C:\Wabbajack)
+- Enough space to download and install this list 
 	- i. About 60 GB to download and about 80 GB to install
--	Nexus Mods account (Nexus premium membership is highly recommended)
--	Microsoft Visual C++ x64
+- Nexus Mods account (Nexus premium membership is highly recommended)
+- Microsoft Visual C++ x64
 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
 	- ii. You may already have this installed; it’s safe to try to install it again if you’re unsure
 
