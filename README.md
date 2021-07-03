@@ -25,7 +25,7 @@ Wabbajack Modlist Installer by Fornication.
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#game-folder-files)
     - [ENB](#enb)
-  - [How to start up Tinvaak](#how-to-start-up-tinvaak)
+  - [How to start up Arkay's Commandment](#how-to-start-up-arkays-commandment)
   - [Updating](#updating)
   - [Changes to Gameplay](#Changes-to-Gameplay) 
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -46,7 +46,9 @@ Wabbajack Modlist Installer by Fornication.
 
 ## Preamble
 
-Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist for SkyrimSE that focuses on revitalising and reworking Skyrim into an actual roleplaying game. Featuring T3NDO's Skyrim Redone, Skyrim Unbound, Oblivion influenced classes and birthsigns and an optional suite of survival mods, you can be anyone you wish.
+Time to '**git gud**'
+
+Arkay’s Commandment is a Requiem-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but my goal is to make progression feel much more meaningful and earned. This list features simple permadeath; you have 1 life, no exceptions.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
