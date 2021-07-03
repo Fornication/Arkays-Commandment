@@ -153,8 +153,8 @@ Head over to the installation folder and locate an executable named `ModOrganize
 	- I highly recommend you saving your character preset if you’re fond of your character
 - Once done character creating, wait about 30 seconds real time to allow scripts to initialize.
 	- Then open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
-f.	Set up your MCMs as listed below.
-g.	Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
+- Set up your MCMs as listed below.
+- Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
 
 ## In-Game MCM Options
 
