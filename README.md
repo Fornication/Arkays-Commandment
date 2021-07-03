@@ -29,7 +29,6 @@ Wabbajack Modlist Installer by Fornication.
   - [Updating](#updating)
   - [Changes to Gameplay](#Changes-to-Gameplay) 
   - [In-Game MCM Options](#in-game-mcm-options)
-  - [Creating your Character](#creating-your-character)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
     - [Zoomed in Display](#zoomed-in-display)
