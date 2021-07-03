@@ -132,7 +132,7 @@ The download and installation process can take a very long time depending on you
 
 ##### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. **I recommend re-running Wabbajack before posting anything.** Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
@@ -152,37 +152,9 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## Post-Installation
 
-### Game folder Files
-
-Copy the all of the files from the `Tinvaak/Game Folder Files` directory into your Skyrim Special Edition game folder.
-
-### ENB
-
-Tinvaak comes with two custom tweaked ENB's and [Tolls ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) is included to help facilitate the easy changing of ENB profiles. To setup the ENB manager:
-
-1. Open up the folder called Tools where you have the modlist installed.
-2. Navigate to the folder called Tolls ENB Manager and open it.
-3. Double click on ENBManager.exe
-4. Set the path to where your Skyrim Special is installed (In my case, it's C:/Games/steam/steamapps/common/Skyrim Special Edition)
-5. Click on presets in the top row and press the "Add New Preset" button
-6. Press the browse button underneath files.
-7. Navigate to where you were before in the Tools Folder. You will see a folder called "ENB Profiles". Select the one you wish to use and press open.
-8. The name should auto-populate. If it does not, give it a suitable name such as "Ruvaak"
-9. Press the Save button.
-10. To enable the profile, click on the white circle slider.
-11. Your chosen ENB Profile is now installed.
-
-Should you wish to use a different ENB, hare are some other ENB's which are known to work with the list:
-
-- [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
-- [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
-- [Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089) **Has working Night Eye**
-
-## How to start up Tinvaak
+## How to start up Arkay's Commandment
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'Play Tinvaak' by selecting it in the dropdown box and then hitting the run button. 
-
-There are two profiles for Tinvaak, one for regular dialogue, and one for Khajiit Speak dialogue.
 
 ## Updating
 
@@ -196,97 +168,26 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Changes to Gameplay
 
-A video showcase on what is in Tinvaak can be viewed here: https://www.youtube.com/watch?v=p8CtRdu0-e0
-
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see [Changes to Gameplay](https://github.com/Althro/Tinvaak/blob/main/Changes%20to%20Gameplay.md) for a non-exhaustive list of changes in Tinvaak.
 
 ## In-Game MCM Options
 
 Most of the *required* MCM options have been automated for you.
 
-### A Matter of Time (Optional)
-- Presets
-	- Load User Settings
+### Cathedral Weathers 
+- Load Settings
 
 ### Cold Region Behavior
 - General Settings
 	- Main Settings
 		- Enable Mod Features
 
-### Immersive Hud
-- Options
-	- Enable fast fade of health	
-
-### Real Names
-- Basic Options:
-	- Settings
-		- Strangers Mode: Enabled
-		- Title Preference:Title and/or Surname>Epithet
-	- Special Exclusions:
-		- Exclude Dragon Priests?: Enabled
-		- Excluse Corpses?: Enabled
-
-### Violens
-- Profile System
-	- Menu Settings
-		- Load: Tinvaak.vlms
- 
-Tweak the following to your liking:
-
-- SkyUI
-- Lucien (If you set a nickname that's supported he can call you by that name)
-- MoreHUD
-- Extended Encounters
-- Vivid Weathers
-- Thieves Guild Requirements
-
-For Widescreen users: 
-- Extended UI: Aspect Ratio
-
-### Skyrim Unbound
-Configure this MCM last. Select your loadout, dragons, and dragonborn status. When you're ready to create your character, select `Let's go!`
-
-## Creating your Character
-
-Once you have finished the MCM setup, create your character in race menu. Be as creative as you want :D
-
-### If you chose to use survival mods
-
-#### Sunhelm (Do This after character creation and you have spawned into the world.)
-- General Settings
-	- Gameplay Options
-		- Toggle Raw Meat Damage [unchecked]
-		- Toggle Carry Weight Penalty [unchecked]
+### Customizable Camera
+- Profiles and Help
+	- Load
+		- Profile 1 
 
 ## Other Post Installation FAQ
-
-### Controlmap
-
-These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
-
-- Hold 'E' to turn on Quicklight
-
-Hold right click to block while dual wielding. Left click alternates left and right hand. This also works with the SkyRe unarmed weapon.
-
-### Ultrawide Options
-
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to enable Oblivion Loading Screens 21x9, and disable 16x9.
-
-You will also want to install the SkyUI, Better Dialogue Controls, Better messagebox Controls, Campfire, Experience, Racemenu, Flashing Savegame Fix, and Extended UI - High Resolution Widescreen fixes from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
-
-Furthermore, you may choose to alter the ingame HUD to fit 21:9. For this, I recommend switching to Less Intrusive HUD found [here](https://www.nexusmods.com/skyrimspecialedition/mods/17974). Make sure to grab the Fisses patch as well.
-
-In Mod Organizer, in the left pane, find and disable (uncheck) SkyHUD and Customizable UI Replacer - SkyHUD.
-
-Head over [here](https://www.nexusmods.com/skyrimspecialedition/mods/18398/?tab=files) and grab the download for the Less Intrusive HUD version.
-
-When installing Customizable UI, rename it to indicate that is the LIH version, be sure NOT to Merge or Overwrite the existing mod in MO2.
-
-You will also need to reinstall the mod *Dialogue Interface Reshaped* and select your resolution in there.
-
-Once you get in game, head over to the Less Intrusive HUD modpage and see how to alter the postion/size/color/and much more of any HUD aspect, all ingame!
-
-If you have further questions regarding 21:9 or these instructions, feel free to ping St. Jiub in #list-modifications in the Jorrvaskr server.
 
 ### Tweaking the Game Settings
 
@@ -298,16 +199,7 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 ### Tweaking the ENB
 
-By default, Tinvaak ships with two ENB profiles that have been custom tweaked to match the modlist. These are [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) and [The Truth](https://www.nexusmods.com/skyrimspecialedition/mods/9162). If you wish to make changes to them to better suit your visual preferences, follow the information below.
-
-To remove the letterbox effect:
-- Press [Shift+Enter] to open the ENB menu
-- In the right tab called Shader parameters, there is a section called `ENBPOSTPASS.FX`. Select it to open it.
-- Scroll down to letterbox and disable it.
-- Press the save configuration button.
-- You have now disabled letterbox and can press [shift+enter] to return to game.
-
-Open the console with `~` before doing edits, so you're not randomly swinging weapons around while editing the ENB.
+You have the option of disabling the ENB completely, something that I personally do. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press save on the top left.
 
 If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter]:
 
@@ -320,13 +212,7 @@ If you're really struggling with FPS but want the color correction and realism, 
   
 #### Darkness Settings
  
- - If you want the game to be brighter or darker, you can use the Vivid Weathers MCM.
-
-##### If you cannot handle the ENB: Disable `useEffect` in enbseries.ini
-
-#### More color correction
-
-Fiddle with the Vivid Weathers MCM for more color customization.
+ - If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
 
 ### Zoomed in Display
 
@@ -338,39 +224,13 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
     - Set Fullscreen to `True`
     - Set Borderless to `False`
     
-## 360 Behavior Overhaul
-
-If you save in first person and load that save 360 behavior will fail. Save and load in 3rd person to have correct 3rd person facing behavior.
-
-## Dialogue
-
-If you are experiencing dialogue saying that you are Thane of Whiterun or Dragonborn when you wish to not be, follow these steps. **You will need to re-enable these if you decide to become Dragonborn/Become Thane of Whiterun**.
-
-- Make sure you are in world and not in the starting area.
-- Open MCM menu
-- Scroll down to Skyrim Reputation and click on it
-- Select Debug
-- Uncheck Thane of Whiterun and Dragonborn comments.
-- Close MCM.
-
 ## Removing the Modlist
 
-You can just delete the MO2 folder and be done with it.
+Delete the installation folder.
 
 ## Credits and Thanks
 
-- _YOU_ for actually reading the readme. Thanks a ton!!
-- Galaxy Synth (Shelb) for help in the creation, configuration and setup.
-- Sovn for teaching me the CK and consistency.
-- Pierre Despereaux for Keizaal, from which a few mods are derived.
-- Noggog for Mutagen.
-- Special thanks to the Synthesis patcher devs.
-- erri120 & jdsmith2816 - Repository template.
-- jdsmith2816 - Reviving SkyRe, the Reproccer, and having a magnificent beard.
-- iXanza for recompiled MCM scripts for automation, and helping Shelb figure out how to automate the MCMs for Tinvaak.
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
-- Mantis for Ultrawide installation instructions and the logo.
-- St Jiub for additional Ultrawide instructions and help around the server.
+- Althro for letting me fork his readme!
 
 ## Contact
 
