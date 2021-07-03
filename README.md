@@ -65,17 +65,6 @@ Arkay’s Commandment is a Requiem-based mod list that aims to provide a fair, c
 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
 	- ii. You may already have this installed; it’s safe to try to install it again if you’re unsure
 
-- I run the list at locked 72fps with a few dips here and there at 1440p on the following specs:
-
-- Ryzen 5 3600
-- AMD RX 6800
-- 32GB RAM
-- PCIe Based SSD
-
-I recommend that you have at least 6GB vram to run the list comfortably at 1080p with an ENB. You may be able to run the list with 4GB, but expect performance to be sub-optimal. For 1440p, you will need at least 8GB or more of vram to achieve a steady framerate. The list will not work optimily if installed on a HDD, I advise you to install it onto an SSD.
-
-Space required: Approx 136GB
-
 ## Installation
 
 ### Pre-Installation
@@ -156,7 +145,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 ## How to start up Arkay's Commandment
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'Play Tinvaak' by selecting it in the dropdown box and then hitting the run button. 
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'SKSE' and then hit the run button. 
 
 ## Updating
 
@@ -178,11 +167,6 @@ Most of the *required* MCM options have been automated for you.
 
 ### Cathedral Weathers 
 - Load Settings
-
-### Cold Region Behavior
-- General Settings
-	- Main Settings
-		- Enable Mod Features
 
 ### Customizable Camera
 - Profiles and Help
