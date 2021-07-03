@@ -147,19 +147,14 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'SKSE' and then hit the run button. 
 
-## Updating
+## Starting a new game
 
-If this Modlist receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
-## Changes to Gameplay
-
-Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see [Changes to Gameplay](https://github.com/Althro/Tinvaak/blob/main/Changes%20to%20Gameplay.md) for a non-exhaustive list of changes in Tinvaak.
+- Create a new character like usual
+	- I highly recommend you saving your character preset if you’re fond of your character
+- Once done character creating, wait about 30 seconds real time to allow scripts to initialize.
+	- Then open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
+f.	Set up your MCMs as listed below.
+g.	Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
 
 ## In-Game MCM Options
 
@@ -172,6 +167,32 @@ Most of the *required* MCM options have been automated for you.
 - Profiles and Help
 	- Load
 		- Profile 1 
+
+## Updating
+
+If this Modlist receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+## Changes to Gameplay
+
+Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
+
+- Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable.
+- 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/site/3tweaksrequiem/home?authuser=0. Note that BTweaks and FTweaks are also included.
+- This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment!
+- End Times gives you only 365 days to beat Alduin. 
+- Item Durability will make your weapons slowly degrade over time. 
+- You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. Fast Travel is normally disabled, but it is enabled in this list. I encourage you to fast travel... whenever you can afford it.
+- Don’t go jumping down mountains like in Vanilla Skyrim; I’m serious. 
+- Skyrim Souls makes your inventory menu not pause. 
+
+- Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
+
 
 ## Other Post Installation FAQ
 
