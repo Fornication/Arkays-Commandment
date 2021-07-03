@@ -199,7 +199,7 @@ Most of the *required* MCM options have been automated for you.
 
 ### Tweaking the ENB
 
-- You have the option of disabling the ENB completely, something that I personally do. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press save on the top left.
+- You have the option of disabling the ENB completely, something that I personally do. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press 'Save Configuration' on the top left.
 
 - If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter]:
 
