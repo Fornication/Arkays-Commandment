@@ -61,11 +61,11 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ### Pre-Installation
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
+- These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+- I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 #### Steam Config
 
@@ -132,7 +132,7 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 **Windows is reporting that a virus has been detected**:
 
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+- Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
 
@@ -191,9 +191,9 @@ Most of the *required* MCM options have been automated for you.
 
 ### Tweaking the ENB
 
-You have the option of disabling the ENB completely, something that I personally do. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press save on the top left.
+- You have the option of disabling the ENB completely, something that I personally do. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press save on the top left.
 
-If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter]:
+- If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter]:
 
 ##### enbseries.ini
  
@@ -208,7 +208,7 @@ If you're really struggling with FPS but want the color correction and realism, 
 
 ### Zoomed in Display
 
-This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
+- This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
 
 - Set the display scaling back to 100% in the Screen Resolution Settings for Windows
 - Edit the mod SSE Display Tweaks.
@@ -218,7 +218,7 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
     
 ## Removing the Modlist
 
-Delete the installation folder.
+- Delete the installation folder.
 
 ## Credits and Thanks
 
