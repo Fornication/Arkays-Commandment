@@ -37,7 +37,6 @@ Wabbajack Modlist Installer by Fornication.
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
   - [Contributing](#contributing)
-  - [Changelog](#changelog)
 
 ## Preamble
 
