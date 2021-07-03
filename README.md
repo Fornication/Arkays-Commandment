@@ -28,7 +28,7 @@ Wabbajack Modlist Installer by Fornication.
   - [How to start up Arkay's Commandment](#how-to-start-up-arkays-commandment)
   - [Updating](#updating)
   - [Changes to Gameplay](#Changes-to-Gameplay) 
-  - [Early Game Tips]
+  - [Early Game Tips](#Early-Game-Tips)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
@@ -187,7 +187,7 @@ Most of the *required* MCM options have been automated for you.
 
 - Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
 
-##Early Game Tips
+## Early Game Tips
 
 
 
