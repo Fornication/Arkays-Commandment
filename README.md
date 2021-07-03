@@ -54,14 +54,14 @@ Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist for SkyrimSE that focus
 
 - a.	Windows 10
 - b.	Skyrim Special Edition on Steam
-- 	i. You’ll need to launch Skyrim Special Edition from Steam at least once before playing if you haven’t before
+        - i. You’ll need to launch Skyrim Special Edition from Steam at least once before playing if you haven’t before
 - c.	Latest version of Wabbajack installed to a root folder (example C:\Wabbajack)
 - d.	Enough space to download and install this list 
-- 	i.	
+	- i. 
 - e.	Nexus Mods account (Nexus premium membership is highly recommended)
 - f.	Microsoft Visual C++ x64
-- 	i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
-- 	ii. You may already have this installed; it’s safe to try to install it again if you’re unsure
+ 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+ 	- ii. You may already have this installed; it’s safe to try to install it again if you’re unsure
 
 - I run the list at locked 72fps with a few dips here and there at 1440p on the following specs:
 
