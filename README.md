@@ -120,15 +120,15 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist.
+- If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist.
 
 **x is not a whitelisted download**:
 
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+- This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
 **Wabbajack could not find my game folder**:
 
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+- Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
 **Windows is reporting that a virus has been detected**:
 
@@ -173,7 +173,7 @@ Most of the *required* MCM options have been automated for you.
 
 ## Changes to Gameplay
 
-'Please do not expect the game to be functionally similar to vanilla.' There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
+**Please do not expect the game to be functionally similar to vanilla.** There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
 
 - Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable. If you're not already familiar with Requiem and wish to play this list, it will be an extremely difficult learning curve.
 - 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/site/3tweaksrequiem/home?authuser=0. Note that BTweaks and FTweaks are also included.
