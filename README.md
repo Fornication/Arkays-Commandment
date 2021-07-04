@@ -218,11 +218,12 @@ Most of the *required* MCM options have been automated for you.
 
 - This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
 
-- Set the display scaling back to 100% in the Screen Resolution Settings for Windows
-- Edit the mod SSE Display Tweaks.
-  - Under `[Render]`
-    - Set Fullscreen to `True`
-    - Set Borderless to `False`
+	- Set the display scaling back to 100% in the Screen Resolution Settings for Windows
+-or 
+	- Edit the mod **High performance configuration for SSE Display Tweaks**, specifically the file named SSEDisplayTweaks.ini
+		- Under `[Render]`
+			- Set Fullscreen to `True`
+			- Set Borderless to `False`
     
 ## Removing the Modlist
 
