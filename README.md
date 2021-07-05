@@ -182,10 +182,9 @@ Most of the *required* MCM options have been automated for you.
 - End Times gives you only 365 days to beat Alduin. 
 - Item Durability will make your weapons slowly degrade over time. 
 - You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. Fast Travel is normally disabled, but it is enabled in this list. I encourage you to fast travel... whenever you can afford it.
-- Don’t go jumping down mountains like in Vanilla Skyrim; I’m serious. 
 - Skyrim Souls makes your inventory menu not pause. 
-
-- Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
+- Using horses to exploit your way up mountains will probably result in you dying.
+- Jumping down mountains instead of using the proper roads may result in you dying.
 
 ## Gameplay Tips
 
@@ -194,6 +193,7 @@ Most of the *required* MCM options have been automated for you.
 - You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you.
 - Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers.
 - Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. 
+- Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
 
 ## Other Post Installation FAQ
 
