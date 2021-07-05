@@ -30,6 +30,7 @@ Wabbajack Modlist Installer by Fornication.
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
+    - [Widescreen Users](#widescreen-users)
     - [Zoomed in Display](#zoomed-in-display)
     - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
