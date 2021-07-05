@@ -142,7 +142,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 ## Starting a new game
 
 - Create a new character like usual
-	- I highly recommend you saving your character preset if you’re fond of your character
+	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character
 - Once done character creating, wait about 30 seconds real time to allow scripts to initialize.
 	- Then open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
 - Set up your MCMs as listed below.
@@ -150,7 +150,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ## In-Game MCM Options
 
-Most of the *required* MCM options have been automated for you.
+All of the *required* MCM options have been automated for you. I highly recommend setting the following 2 MCMs as follows:
 
 ### Cathedral Weathers 
 - Load Settings
