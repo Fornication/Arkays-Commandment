@@ -212,7 +212,11 @@ Most of the *required* MCM options have been automated for you.
   
 #### Darkness Settings
  
- - If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
+- If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
+
+### Widescreen Users
+
+- Navigate to the bottom section of Mod Organizer's left pane, and find the category **Widescreen Users**, and enable the mods under that category. 
 
 ### Zoomed in Display
 
