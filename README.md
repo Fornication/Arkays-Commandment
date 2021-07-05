@@ -4,8 +4,6 @@
 
 Wabbajack Modlist Installer by Fornication.
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/Tinvaak/badge.json)
-
 - [**Arkay's Commandment**]
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
