@@ -21,7 +21,6 @@ Wabbajack Modlist Installer by Fornication.
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-    - [Copy Game Folder Files](#game-folder-files)
     - [ENB](#enb)
   - [How to start up Arkay's Commandment](#how-to-start-up-arkays-commandment)
   - [Updating](#updating)
