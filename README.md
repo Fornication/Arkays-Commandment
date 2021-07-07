@@ -185,6 +185,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 
 ## Gameplay Tips
 
+- Again, in order to gain levels, you need to use the **INCREASE SKILLS** less power after finding some potions or greater potions of insight.
 - Your race matters; choose this carefully.
 - Requiem provides you with 3 starting perks. I recommend that you focus at least 2 of these on combat-related skills to help you through combat.
 - You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you.
