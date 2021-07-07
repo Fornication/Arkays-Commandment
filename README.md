@@ -204,7 +204,6 @@ All of the *required* MCM options have been automated for you. I highly recommen
 ##### enbseries.ini
  
   - EnableDetailedShadow
-  - EnableComplexFireLights
   - EnableComplexParticleLights
   - EnableReflection
   
