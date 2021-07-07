@@ -24,7 +24,7 @@ Wabbajack Modlist Installer by Fornication.
   	- [How to start up Arkay's Commandment](#how-to-start-up-arkays-commandment)
  	- [Updating](#updating)
   - [Changes to Gameplay](#Changes-to-Gameplay) 
-  - [Early Game Tips](#Early-Game-Tips)
+  - [Gameplay Tips](#Gameplay-Tips)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
