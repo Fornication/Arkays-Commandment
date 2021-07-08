@@ -30,6 +30,7 @@ Wabbajack Modlist Installer by Fornication.
     - [Tweaking the ENB](#tweaking-the-enb)
     - [Widescreen Users](#widescreen-users)
     - [Zoomed in Display](#zoomed-in-display)
+    - [Non-standard or Custom Monitor Resolution](#non-standard-or-custom-monitor-resolution)
     - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -225,7 +226,9 @@ All of the *required* MCM options have been automated for you. I highly recommen
 		- Under `[Render]`
 			- Set Fullscreen to `True`
 			- Set Borderless to `False`
-    
+
+### Non-standard or Custom Monitor Resolution
+
 ## Removing the Modlist
 
 - Delete the installation folder.
