@@ -229,6 +229,11 @@ All of the *required* MCM options have been automated for you. I highly recommen
 
 ### Non-standard or Custom Monitor Resolution
 
+- If the 2 previous instructions are inadequate or not what you're looking for, you can customize your game resolution by doing the following
+	- Edit the mod **High performance configuration for SSE Display Tweaks**, specifically the file named SSEDisplayTweaks.ini
+	- Find the line that says **#Resolution=1920x1080**
+	- Remove the # from the beginning, and replace 1920x1080 with your desired resolution.
+
 ## Removing the Modlist
 
 - Delete the installation folder.
