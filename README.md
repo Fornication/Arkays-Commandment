@@ -25,6 +25,7 @@ Wabbajack Modlist Installer by Fornication.
  	- [Updating](#updating)
   - [Changes to Gameplay](#Changes-to-Gameplay) 
   - [Gameplay Tips](#Gameplay-Tips)
+  - [Replayability](#Replayability)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
@@ -194,6 +195,8 @@ All of the *required* MCM options have been automated for you. I highly recommen
 - Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers.
 - Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. 
 - Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
+
+## Replayability
 
 ## Other Post Installation FAQ
 
