@@ -31,6 +31,7 @@ Wabbajack Modlist Installer by Fornication.
     - [Widescreen Users](#widescreen-users)
     - [Zoomed in Display](#zoomed-in-display)
     - [Non-standard or Custom Monitor Resolution](#non-standard-or-custom-monitor-resolution)
+    - [Information for Content Creators](#information-for-content-creators)
     - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
@@ -233,6 +234,12 @@ All of the *required* MCM options have been automated for you. I highly recommen
 	- Edit the mod **High performance configuration for SSE Display Tweaks**, specifically the file named SSEDisplayTweaks.ini
 	- Find the line that says **#Resolution=1920x1080**
 	- Remove the # from the beginning, and replace 1920x1080 with your desired resolution.
+
+### Information for Content Creators
+
+- There is no nudity in this list. Nothing in this list is worse than vanilla Skyrim in terms of violence or sexual content. The furthest this list varies from vanilla Skyrim in graphic content is enemies can be burned/electricuted and they will appear to have a charred texture, which already exists in game.
+
+- If brightness is an issue, you can modify brightness in the MCM of Cathedral Weathers and play around with several options to get brightness to your exact liking for your videos or streams. I know that GeForce Experience tends to make videos extremely dark, for example.
 
 ## Removing the Modlist
 
