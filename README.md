@@ -203,7 +203,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 	- "coc WIP, not complete
 	- "coc MilitaryCampWhiterunSons"
 	- "coc WolfskullCaveExterior"
-	- "coc
+	- "coc RaldbtharExterior01"
 	- "coc
 
 ## Other Post Installation FAQ
