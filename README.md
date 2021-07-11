@@ -200,7 +200,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 
 - 3Tweaks was designed with shorter playthroughs in mind. Replayability with different races, classes, birthsigns, and divine/daedric blessings keeps you engaged. With permadeath, you may very well be starting over frequently.
 - To keep your game fresh, I recommend switching up where you start off your game. Generally people will choose camping in the woods as their start, but that can get a little repetative after 30 tries. There are several good places to start off in once you grab your gear from the sack if you camp in the woods. If you need a change, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter
-	- "coc WIP, not complete
+	- "coc BannermistTowerExterior02"
 	- "coc MilitaryCampWhiterunSons"
 	- "coc WolfskullCaveExterior"
 	- "coc RaldbtharExterior01"
