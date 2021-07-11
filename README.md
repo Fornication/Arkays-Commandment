@@ -204,7 +204,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 	- "coc MilitaryCampWhiterunSons"
 	- "coc WolfskullCaveExterior"
 	- "coc RaldbtharExterior01"
-	- "coc
+	- "coc ShorsStoneExterior04"
 
 ## Other Post Installation FAQ
 
