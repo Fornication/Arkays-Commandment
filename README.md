@@ -202,7 +202,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 - To keep your game fresh, I recommend switching up where you start off your game. Generally people will choose camping in the woods as their start, but that can get a little repetative after 30 tries. There are several good places to start off in once you grab your gear from the sack if you camp in the woods. If you need a change, I recommend using the following console commands. First press ` and then type one of the following without quotation marks and then press enter
 	- "coc WIP, not complete
 	- "coc MilitaryCampWhiterunSons"
-	- "coc
+	- "coc WolfskullCaveExterior"
 	- "coc
 	- "coc
 
