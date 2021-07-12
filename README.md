@@ -228,9 +228,12 @@ All of the *required* MCM options have been automated for you. I highly recommen
 3. Once opened, navigate to the 'Setup' tab on the top left. The first 4 lines should read as follows, and if not, change it:
 	- Game: Skyrim Special Edition
 	- Game Path: Installed location\Stock Game\
+		- To manually change this, navigate to Installed location\Stock Game\ and double click SkyrimSE.exe
 	- Mod Organizer: Installed location\
+		- - To manually change this, navigate to Installed location\ and double click on ModOrganizer.exe
 	- INI Path: Mod Organizer > Arkays Commandment
 		- To manually change this, navigate to Installed location\Profiles\Arkays Commandment\ and double click Skyrim.ini
+- Once complete, click on the 'Basic' tab and you can try choosing Poor, Low, Medium, High, or Ultra, depending on what your hardware can handle, keeping in mind the default I use is somewhere inbetween Low and Medium. I wouldn't recommend tweaking individual settings without prior experience. When done, hit 'Save and Exit'.
 
 ### Darkness Settings
  
