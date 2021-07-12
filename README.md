@@ -223,14 +223,14 @@ All of the *required* MCM options have been automated for you. I highly recommen
 ### BethINI
 
 - Included as an installed program with this list is BethINI, which is a tool that can quickly change INI settings, which can have a drastic impact on your game performance. The default setting that I used is a somewhat modified 'low'. If you're looking to get slightly better performance, or better graphics, you may want to look here after tweaking the ENB.
-	i. Completely close out of Mod Organizer.
-	ii. Navigate to the folder where you installed this mod list. Open the "Tools" folder, open the "BethINI Standalone" folder, and then open the BethINI.exe file.
-	iii. Once opened, navigate to the 'Setup' tab on the top left. The first 4 lines should read as follows, and if not, change it:
-		- Game: Skyrim Special Edition
-		- Game Path: Installed location\Stock Game\
-		- Mod Organizer: Installed location\
-		- INI Path: Mod Organizer > Arkays Commandment
-			- To manually change this, navigate to Installed location\Profiles\Arkays Commandment\ and double click Skyrim.ini
+1. Completely close out of Mod Organizer.
+2. Navigate to the folder where you installed this mod list. Open the "Tools" folder, open the "BethINI Standalone" folder, and then open the BethINI.exe file.
+3. Once opened, navigate to the 'Setup' tab on the top left. The first 4 lines should read as follows, and if not, change it:
+	- Game: Skyrim Special Edition
+	- Game Path: Installed location\Stock Game\
+	- Mod Organizer: Installed location\
+	- INI Path: Mod Organizer > Arkays Commandment
+		- To manually change this, navigate to Installed location\Profiles\Arkays Commandment\ and double click Skyrim.ini
 
 ### Darkness Settings
  
