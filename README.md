@@ -199,7 +199,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 ## Replayability
 
 - 3Tweaks was designed with shorter playthroughs in mind. Replayability with different races, classes, birthsigns, and divine/daedric blessings keeps you engaged. With permadeath, you may very well be starting over frequently.
-- To keep your game fresh, I recommend switching up where you start off your game. Generally people will choose camping in the woods as their start, but that can get a little repetative after 30 tries. There are several good places to start off in once you grab your gear from the sack if you camp in the woods. If you need a change, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter
+- To keep your game fresh, I recommend switching up where you start off your game. Generally people will choose camping in the woods as their start, but that can get a little repetative after 30 tries. There are several good places to start off in once you grab your gear from the sack if you camp in the woods. If you need a change, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter:
 	- "coc BannermistTowerExterior02"
 	- "coc MilitaryCampWhiterunSons"
 	- "coc WolfskullCaveExterior"
@@ -210,17 +210,21 @@ All of the *required* MCM options have been automated for you. I highly recommen
 
 ### Tweaking the ENB
 
-- You have the option of disabling the ENB completely, something that I personally do. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press 'Save Configuration' on the top left.
+- You have the option of disabling the ENB completely, something that I personally do since my GPU isn't the best. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press 'Save Configuration' on the top left.
 
-- If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter]:
-
-##### enbseries.ini
+- If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter] and press 'Save Configuration' on the top left:
  
-  - EnableDetailedShadow
-  - EnableComplexParticleLights
-  - EnableReflection
-  
-#### Darkness Settings
+	- EnableDetailedShadow
+	- EnableComplexParticleLights
+	- EnableReflection
+
+### BethINI
+
+- Included as an installed program with this list is BethINI, which is a tool that can quickly change INI settings, which can have a drastic impact on your game performance. The default setting that I used is a somewhat modified 'low'. If you're looking to get slightly better performance, or better graphics, you may want to look here after tweaking the ENB.
+	i. Completely close out of Mod Organizer.
+	ii. 
+
+### Darkness Settings
  
 - If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
 
