@@ -23,10 +23,11 @@ Wabbajack Modlist Installer by Fornication.
   - [Post-Installation](#post-installation)
   	- [How to start up Arkay's Commandment](#how-to-start-up-arkays-commandment)
  	- [Updating](#updating)
-  - [Changes to Gameplay](#Changes-to-Gameplay) 
-  - [Gameplay Tips](#Gameplay-Tips)
-  - [Replayability](#Replayability)
-  - [In-Game MCM Options](#in-game-mcm-options)
+  - [Gameplay](#Gameplay)
+    - [Changes to Gameplay](#Changes-to-Gameplay) 
+    - [Gameplay Tips](#Gameplay-Tips)
+    - [Replayability](#Replayability)
+    - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
     - [BethINI](#bethini)
@@ -174,7 +175,9 @@ All of the *required* MCM options have been automated for you. I highly recommen
 
 - Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-## Changes to Gameplay
+## Gameplay
+
+### Changes to Gameplay
 
 **Please do not expect the game to be functionally similar to vanilla.** There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
 
@@ -188,7 +191,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
 
-## Gameplay Tips
+### Gameplay Tips
 
 - Again, in order to gain levels, you need to use the **INCREASE SKILLS** less power after finding some potions or greater potions of insight.
 - Your race matters; choose this carefully.
@@ -198,7 +201,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 - Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. 
 - Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
 
-## Replayability
+### Replayability
 
 - 3Tweaks was designed with shorter playthroughs in mind. Replayability with different races, classes, birthsigns, and divine/daedric blessings keeps you engaged. With permadeath, you may very well be starting over frequently.
 - To keep your game fresh, I recommend switching up where you start off your game. Generally people will choose camping in the woods as their start, but that can get a little repetative after 30 tries. There are several good places to start off in once you grab your gear from the sack if you camp in the woods. If you need a change, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter:
