@@ -27,7 +27,6 @@ Wabbajack Modlist Installer by Fornication.
     - [Changes to Gameplay](#Changes-to-Gameplay) 
     - [Gameplay Tips](#Gameplay-Tips)
     - [Replayability](#Replayability)
-    - [In-Game MCM Options](#in-game-mcm-options)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
     - [BethINI](#bethini)
