@@ -199,6 +199,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 - Requiem provides you with 3 starting perks. I recommend that you focus at least 2 of these on combat-related skills to help you through combat.
 - You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you.
 - Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers.
+- Having a good night sleep or even a poor night sleep increase the rate at which your stamina and magicka regenerate. Be sure to sleep before adventuring.
 - Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. 
 - Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
 
