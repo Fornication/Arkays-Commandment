@@ -4,6 +4,8 @@
 
 Wabbajack Modlist Installer by Fornication.
 
+Feel free to join my discord! [Fornication's Funhouse](https://discord.gg/SberVMKd8u)
+
 - [**Arkay's Commandment**]
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
