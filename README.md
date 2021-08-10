@@ -270,7 +270,7 @@ All of the *required* MCM options have been automated for you. I highly recommen
 
 ### Information for Content Creators
 
-- There is no nudity in this list. Nothing in this list is worse than vanilla Skyrim in terms of violence or sexual content. The furthest this list varies from vanilla Skyrim in graphic content is enemies can be burned/electricuted and they will appear to have a charred texture, which already exists in game.
+- There is no nudity in this list. Nothing in this list is worse than vanilla Skyrim in terms of violence or sexual content. The furthest this list varies from vanilla Skyrim in graphic content is enemies can be burned/electricuted and they will appear to have a charred texture, which already exists in the vanilla game.
 
 - If brightness is an issue, you can modify brightness in the MCM of Cathedral Weathers and play around with several options to get brightness to your exact liking for your videos or streams. I know that GeForce Experience tends to make videos extremely dark, for example.
 
