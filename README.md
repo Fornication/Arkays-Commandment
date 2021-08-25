@@ -1,4 +1,4 @@
-#Arkay's Commandment
+#Arkay's Commandment!!!!!
 
 ![ArkaysCommandment Banner](https://raw.githubusercontent.com/Fornication/Arkays-Commandment/main/gitgud.png)
 
