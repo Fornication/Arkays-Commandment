@@ -33,6 +33,7 @@ Feel free to join my discord! [Fornication's Funhouse](https://discord.gg/SberVM
     - [Changes to Gameplay](#Changes-to-Gameplay) 
     - [Gameplay Tips](#Gameplay-Tips)
     - [Replayability](#Replayability)
+    - [FAQ](#FAQ)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Tweaking the ENB](#tweaking-the-enb)
     - [BethINI](#bethini)
@@ -221,6 +222,10 @@ All of the other *required* MCM options have been automated for you. I highly re
 	- "coc WolfskullCaveExterior"
 	- "coc RaldbtharExterior01"
 	- "coc ShorsStoneExterior04"
+
+### FAQ
+
+- When using a crossbow for the first time ever on your character, you need to *activate* the non-exploitable crossbow reload mod. When *out of combat*, equip your crossbow, and then equip your bolts. Doing this should complete the process of initializing the mod, and you can use your crossbow like normal from then on. If you don't do this, for example if you are in combat, you risk causing the game to crash when you initialize the mod.
 
 ## Other Post Installation FAQ
 
