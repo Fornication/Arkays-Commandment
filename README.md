@@ -161,12 +161,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ## In-Game MCM Options
 
-You *need* to only change 1 MCM setting.
-
-### Dyndolod
-- Settings -> fminsecondsforloadfadein -> 0.10 seconds
-
-All of the other *required* MCM options have been automated for you. I highly recommend setting the following 2 MCMs as follows:
+All *required* MCM options have been automated for you. I highly recommend setting the following 2 MCMs as follows:
 
 ### Cathedral Weathers 
 - Load Settings
