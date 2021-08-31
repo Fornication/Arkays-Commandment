@@ -193,9 +193,10 @@ All *required* MCM options have been automated for you. I highly recommend setti
 - End Times gives you only 365 days to beat Alduin. 
 - Item Durability will make your weapons slowly degrade over time. 
 - You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. Fast Travel is normally disabled, but it is enabled in this list. I encourage you to fast travel... whenever you can afford it.
-- Skyrim Souls makes your inventory menu not pause. 
+- Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
+- **FOLLOWERS CANNOT BE RECRUITED!** Only quest-related NPCs will follow you for the duration of the quest. Mercenaries, friends, etc cannot follow you - this is intentional, and it is one of Arkay's Commandments.
 
 ### Gameplay Tips
 
