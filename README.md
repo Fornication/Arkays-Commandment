@@ -1,6 +1,6 @@
 #Arkay's Commandment
 
-![ArkaysCommandment Banner](https://raw.githubusercontent.com/Fornication/Arkays-Commandment/main/gallery.png)
+![ArkaysCommandment Banner](https://raw.githubusercontent.com/Fornication/Arkays-Commandment/main/gallery2.png)
 
 Wabbajack Modlist Installer by Fornication.
 
