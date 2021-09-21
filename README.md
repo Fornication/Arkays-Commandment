@@ -178,7 +178,6 @@ All *required* MCM options have been automated for you. I highly recommend setti
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
 - This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
-
 - Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
 ## Gameplay
@@ -196,7 +195,6 @@ All *required* MCM options have been automated for you. I highly recommend setti
 - Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
-- **FOLLOWERS CANNOT BE RECRUITED!** Only quest-related NPCs will follow you for the duration of the quest. Mercenaries, friends, etc cannot follow you - this is intentional, and it is one of Arkay's Commandments.
 
 ### Gameplay Tips
 
