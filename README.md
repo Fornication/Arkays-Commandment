@@ -223,7 +223,7 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 - When using a crossbow for the first time ever on your character, you need to *activate* the non-exploitable crossbow reload mod. When *out of combat*, equip your crossbow, and then equip your bolts. Doing this should complete the process of initializing the mod, and you can use your crossbow like normal from then on. If you don't do this, for example if you are in combat, you risk causing the game to crash when you initialize the mod.
 
-- If you're having issues with NPCs getting aggressive while you're brawling, try stopping your channeled spell from Pact Weapon with your lesser power while you brawl. 
+- If you're having issues with NPCs becoming aggressive whilst you're brawling, try stopping your channeled spell from Pact Weapon with your lesser power before you brawl. 
 
 ## Other Post Installation FAQ
 
