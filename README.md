@@ -225,6 +225,9 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 - If you're having issues with NPCs becoming aggressive whilst you're brawling, try stopping your channeled spell from Pact Weapon with your lesser power before you brawl. 
 
+- If an area of shadow seems to "follow" you, wait for 1 hour.
+	- Let's say you see an area illuminated by sunlight. You walk over there, but for some reason when you get close, the area starts to be covered in shadow. As you walk, the shadow follows you. Waiting fixes this, and it generally only occurs on new games.
+
 ## Other Post Installation FAQ
 
 ### Tweaking the ENB
