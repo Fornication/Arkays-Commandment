@@ -195,6 +195,7 @@ All *required* MCM options have been automated for you. I highly recommend setti
 - Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
+- You cannot save during combat.
 
 ### Gameplay Tips
 
