@@ -11,6 +11,7 @@ Feel free to join my discord! [Fornication's Funhouse](https://discord.gg/SberVM
 - [**Arkay's Commandment**]
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
+  - [Skyrim Anniversary Edition](#skyrim-anniversary-edition)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -66,6 +67,17 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 - Microsoft Visual C++ x64
 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
 	- ii. You may already have this installed; it’s safe to try to install it again if you’re unsure
+
+## Skyrim Anniversary Edition
+
+- Wabbajack modlists are not compatible with Skyrim Anniversary Edition and there is no estimated timeframe for when this may change. The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
+
+- In order to use Wabbajack modlists, you must not update your copy of Skyrim Special Edition or use the AE downgrade patcher:
+https://www.nexusmods.com/skyrimspecialedition/mods/57618
+
+- To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
+
+- Please do not ask when AE will be supported.
 
 ## Installation
 
