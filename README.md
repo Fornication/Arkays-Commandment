@@ -175,7 +175,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
 All *required* MCM options have been automated for you. I highly recommend setting the following 2 MCMs as follows:
 
 ### Cathedral Weathers 
-- Load Settings
+- Load Settings (note that you DO NOT need to adjust this MCM if you are using the optional ENB, only if you are playing without ENB)
 
 ### Customizable Camera
 - Profiles and Help
