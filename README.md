@@ -34,8 +34,9 @@ Feel free to join my discord! [Fornication's Funhouse](https://discord.gg/SberVM
     - [Replayability](#Replayability)
     - [FAQ](#FAQ)
   - [Other Post Installation FAQ](#other-post-installation-faq)
-    - [Tweaking the ENB](#tweaking-the-enb)
+    - [Adding and Tweaking the ENB](#adding-and-tweaking-the-enb)
     - [BethINI](#bethini)
+    - [In-Game Settings](#in-game-settings)
     - [Darkness Settings](#darkness-settings)
     - [Widescreen Users](#widescreen-users)
     - [Zoomed in Display](#zoomed-in-display)
@@ -212,7 +213,7 @@ All *required* MCM options have been automated for you. I highly recommend setti
 - Again, in order to gain levels, you need to use the **INCREASE SKILLS** less power after finding some potions or greater potions of insight.
 - Your race matters; choose this carefully.
 - Requiem provides you with 3 starting perks. I recommend that you focus at least 2 of these on combat-related skills to help you through combat.
-- You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you.
+- You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you. Daedric blessings tend to have a downside, and you may want to avoid these until you get more comfortable with the basics.
 - Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers.
 - Having a good night sleep or even a poor night sleep increase the rate at which your stamina and magicka regenerate. Be sure to sleep before adventuring.
 - Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. 
@@ -241,9 +242,15 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 ## Other Post Installation FAQ
 
-### Tweaking the ENB
+### Adding and Tweaking the ENB
 
-- You have the option of disabling the ENB completely, something that I personally do since my GPU isn't the best. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press 'Save Configuration' on the top left.
+-By default, ENB is not enabled, but is optionally included if you want to add it yourself. The reason why I chose to do it this way is that by simply including the ENB files in your Skyrim folder, even if ENB is disabled, you can lose 5-10 FPS depending on your rig. You can follow the following steps to enable ENB:
+
+	- Navigate to your install folder for Arkay's Commandment -> open the 'Tools' folder -> copy the folder there called 'Stock Game'
+	- Navigate back to your install folder where the 'Tools' Folder exists, and paste your 'Stock Game' folder
+	- This will add all the relevant ENB files directly into your stock game directory where SkyrimSE.exe is located and is all you have to do.
+	
+- If you choose to add the ENB but want to disable it temporarily, you have the option to. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press 'Save Configuration' on the top left.
 
 - If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter] and press 'Save Configuration' on the top left:
  
@@ -265,6 +272,11 @@ All *required* MCM options have been automated for you. I highly recommend setti
 	- INI Path: Mod Organizer > Arkays Commandment
 		- To manually change this, navigate to Installed location\Profiles\Arkays Commandment\ and double click Skyrim.ini
 - Once complete, click on the 'Basic' tab and you can try choosing Poor, Low, Medium, High, or Ultra, depending on what your hardware can handle, keeping in mind the default I use is somewhere inbetween Low and Medium. I wouldn't recommend tweaking individual settings without prior experience. When done, hit 'Save and Exit'.
+
+### In-Game Settings
+
+- Feel free to adjust any in-game settings as you wish, they shouldn't cause any issues. This includes changing draw distance to gain some frames, changing sound settings, among other things.
+- Note that some in-game settings will simply not work, like enabling the compass, and this is intentional. If something is not working, it cannot be changed by only changing something from in-game settings.
 
 ### Darkness Settings
  
