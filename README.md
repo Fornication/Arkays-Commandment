@@ -248,7 +248,8 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 	- Navigate to your install folder for Arkay's Commandment -> open the 'Tools' folder -> copy the folder there called 'Stock Game'
 	- Navigate back to your install folder where the 'Tools' Folder exists, and paste your 'Stock Game' folder
-	- This will add all the relevant ENB files directly into your stock game directory where SkyrimSE.exe is located and is all you have to do.
+	- This will add all the relevant ENB files directly into your stock game directory where SkyrimSE.exe is located
+	- Launch Mod Organizer. On the left side of the screen, expand the 'ENB (Optional - ReadME for Instructions)' tab and enable each mod in this section. Enable these mods in order from top to bottom.
 	
 - If you choose to add the ENB but want to disable it temporarily, you have the option to. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press 'Save Configuration' on the top left.
 
