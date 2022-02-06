@@ -318,4 +318,4 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 ## Contact
 
-You can join my discord, [Fornication's Funhouse](https://discord.gg/SberVMKd8u), or join the [Wabbajack Discord](https://discord.gg/wabbajack). **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+Official support occurs through the dedicated support channel found at the [Wabbajack Discord](https://discord.gg/wabbajack). You can join my discord for less support-related inquiries and chatting [Fornication's Funhouse](https://discord.gg/SberVMKd8u). **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
