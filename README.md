@@ -222,7 +222,7 @@ All *required* MCM options have been automated for you. I highly recommend setti
 ### Replayability
 
 - 3Tweaks was designed with shorter playthroughs in mind. Replayability with different races, classes, birthsigns, and divine/daedric blessings keeps you engaged. With permadeath, you may very well be starting over frequently.
-- To keep your game fresh, I recommend switching up where you start off your game. Generally people will choose camping in the woods as their start, but that can get a little repetative after 30 tries. There are several good places to start off in once you grab your gear from the sack if you camp in the woods. If you need a change, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter:
+- If you need a change from the default starts or want to get directly into the action when starting a new character, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter:
 	- "coc BannermistTowerExterior02"
 	- "coc MilitaryCampWhiterunSons"
 	- "coc WolfskullCaveExterior"
@@ -240,7 +240,7 @@ All *required* MCM options have been automated for you. I highly recommend setti
 - If you're having issues with NPCs becoming aggressive whilst you're brawling, try stopping your channeled spell from Pact Weapon with your lesser power before you brawl. 
 
 - If an area of shadow seems to "follow" you, wait for 1 hour.
-	- Let's say you see an area illuminated by sunlight. You walk over there, but for some reason when you get close, the area starts to be covered in shadow. As you walk, the shadow follows you. Waiting can fix this, and it generally only occurs on new games.
+	- Let's say you see an area illuminated by sunlight. You walk over there, but for some reason when you get close, the area starts to be covered in shadow. As you walk, the shadow follows you. Waiting 1 hour can sometimes fix this.
 
 ## Other Post Installation FAQ
 
