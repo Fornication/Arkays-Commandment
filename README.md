@@ -69,14 +69,9 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ## Skyrim Anniversary Edition
 
-- Wabbajack modlists are not compatible with Skyrim Anniversary Edition and there is no estimated timeframe for when this may change. The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
+- This list requires you to have updated to the most recent build of Skyrim Special Edition on Steam, dubbed "Skyrim Anniversary Edition". The list itself uses an older Skyrim version, and will automatically be downgraded for you. Your Steam folder will not be touched. Do not run the Downgrade Patcher or the list will not install.
 
-- In order to use Wabbajack modlists, you must not update your copy of Skyrim Special Edition or use the AE downgrade patcher:
-https://www.nexusmods.com/skyrimspecialedition/mods/57618
-
-- To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
-
-- Please do not ask when AE will be supported.
+- If for some reason you DO NOT want to upgrade you the latest Skyrim version, there is a workaround. Rename your current "Skyrim Special Edition" folder in your steam folder to something else. Go to steam and verify the integrity of the games files, or simply try to play Skyrim Special Edition, and this will trigger Steam to reinstall Skyrim Special Edition. Once it's finished downloading, you can install this list. Upon finalizing the installation, you can optionally delete the newly installed "Skyrim Special Edition" Steam folder, and rename your old folder.
 
 ## Installation
 
