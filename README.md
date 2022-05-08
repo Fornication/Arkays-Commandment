@@ -318,4 +318,4 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 ## Contact
 
-Official support occurs through the dedicated support channel found at the [Wabbajack Discord](https://discord.gg/wabbajack). You can join [my discord](https://discord.gg/SberVMKd8u) for less support-related inquiries and chatting. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+Official support takes place on my discord channel. You can join [my discord](https://discord.gg/SberVMKd8u) for less support-related inquiries and chatting as well! **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
