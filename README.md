@@ -71,7 +71,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 - This list requires you to have updated to the most recent build of Skyrim Special Edition on Steam, dubbed "Skyrim Anniversary Edition". The list itself uses an older Skyrim version, and will automatically be downgraded for you. Your Steam folder will not be touched. Do not run the Downgrade Patcher or the list will not install.
 
-- If for some reason you DO NOT want to upgrade you the latest Skyrim version, there is a workaround. Rename your current "Skyrim Special Edition" folder in your steam folder to something else. Go to steam and verify the integrity of the games files, or simply try to play Skyrim Special Edition, and this will trigger Steam to reinstall Skyrim Special Edition. Once it's finished downloading, you can install this list. Upon finalizing the installation, you can optionally delete the newly installed "Skyrim Special Edition" Steam folder, and rename your old folder.
+- If for some reason you DO NOT want to upgrade you the latest Skyrim version, there is a workaround. Rename your current "Skyrim Special Edition" folder in your steam folder to something else. Go to steam and verify the integrity of the games files, or simply try to play Skyrim Special Edition, and this will trigger Steam to reinstall Skyrim Special Edition. Once it's finished downloading, you can install this list. Upon finalizing the installation, you can optionally delete the newly installed "Skyrim Special Edition" Steam folder, and rename your old folder back to the original name.
 
 ## Installation
 
@@ -160,7 +160,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 - Create a new character like usual
 	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character
-- Once done character creating, wait about 30 seconds real time to allow scripts to initialize.
+- Once done character creating, wait about 10 seconds real time to allow scripts to initialize.
 	- Then open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
 - Set up your MCMs as listed below.
 - Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
@@ -194,10 +194,11 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 - Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable. If you're not already familiar with Requiem and wish to play this list, it will be an extremely difficult learning curve.
 - 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. These potions are given as quest rewards but mainly found as loot in various chests and for killing various NPCs across Skyrim. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/site/3tweaksrequiem/home?authuser=0. Note that BTweaks and FTweaks are also included.
-- This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment!
-- End Times gives you only 365 days to beat Alduin. 
+- This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment! This is optionally disabled.
+- End Times gives you only 365 days to beat Alduin. It's much more time than it sounds.
 - Item Durability will make your weapons slowly degrade over time. 
-- You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. Fast Travel is normally disabled, but it is enabled in this list. I encourage you to fast travel... whenever you can afford it.
+- You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. This feature is optional and disabled by default.
+- Fast Travel is normally disabled, but it is enabled in this list. I encourage you to fast travel... whenever you can afford it.
 - Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
@@ -226,7 +227,7 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 ### FAQ
 
-- Permadeath can be disabled in 1 simple click. On the right pane, scroll to the bottom of the list and uncheck the "Dead_Is_Dead.esp". Done!
+- Permadeath can be disabled in 1 simple click. On the left pane, scroll to the bottom of the list and find the section in dark red called "Optional - enable or disable and play" and untick the green circle next to the mod "Permadeath (Playing this way is like playing a brand new game)". Done!
 
 - Do not select any other profile besides the default one provided! The Potato profile is currently in testing and isn't recommended for a complete, stable playthrough. 
 
