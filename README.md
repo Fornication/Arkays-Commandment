@@ -4,7 +4,7 @@ Wabbajack Modlist Installer by Fornication.
 
 List of mods included here: https://modwat.ch/u/Arkays%20Commandment
 
-Feel free to join my discord! [Fornication's Funhouse](https://discord.gg/SberVMKd8u)
+Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZz7)
 
 - [**Arkay's Commandment**]
   - [Preamble](#preamble)
@@ -319,4 +319,4 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 ## Contact
 
-Official support takes place on my discord channel. You can join [my discord](https://discord.gg/SberVMKd8u) for less support-related inquiries and chatting as well! **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+Official support takes place on my discord channel. You can join [my discord](https://discord.gg/JycmyqzZz7) for less support-related inquiries and chatting as well! **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
