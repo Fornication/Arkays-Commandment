@@ -229,7 +229,9 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 - Permadeath can be disabled in 1 simple click. On the left pane, scroll to the bottom of the list and find the section in dark red called "Optional - enable or disable and play" and untick the green circle next to the mod "Permadeath (Playing this way is like playing a brand new game)". Done!
 
-- Do not select any other profile besides the default one provided! The Potato profile is currently in testing and isn't recommended for a complete, stable playthrough. 
+- The world ending can be changed in the "End Times" MCM to as much as 1000 days, effectively disabling it. If you somehow play 1 character in this list for 1000 days without beating Alduin.. it simply won't happen.
+
+- Do not select any other profile besides the default one provided! The Potato profile is currently in testing and isn't recommended for a complete, stable playthrough. It actually won't work either.
 
 - When using a crossbow for the first time ever on your character, you need to *activate* the non-exploitable crossbow reload mod. When *out of combat*, equip your crossbow, and then equip your bolts. Doing this should complete the process of initializing the mod, and you can use your crossbow like normal from then on. If you don't do this, for example if you are in combat, you risk causing the game to crash when you initialize the mod.
 
