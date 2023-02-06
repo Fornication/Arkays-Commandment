@@ -158,8 +158,9 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ## Starting a new game
 
+- BEFORE CREATING YOUR CHARACTER: let the MCM automation play. In total there will be 8 MCMs that automate, and 2 messages will pop up. Once this occurs, you can make your character.
 - Create a new character like usual
-	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character
+	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character.
 - Once done character creating, wait about 10 seconds real time to allow scripts to initialize.
 	- Then open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
 - Set up your MCMs as listed below.
@@ -167,15 +168,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ## In-Game MCM Options
 
-All *required* MCM options have been automated for you. I highly recommend setting the following 2 MCMs as follows:
-
-### Cathedral Weathers 
-- Load Settings (note that you DO NOT need to adjust this MCM if you are using the optional ENB, only if you are playing without ENB)
-
-### Customizable Camera
-- Profiles and Help
-	- Load
-		- Profile 1 
+All *required* MCM options have been automated for you.
 
 ## Updating
 
@@ -195,14 +188,14 @@ All *required* MCM options have been automated for you. I highly recommend setti
 - Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable. If you're not already familiar with Requiem and wish to play this list, it will be an extremely difficult learning curve.
 - 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. These potions are given as quest rewards but mainly found as loot in various chests and for killing various NPCs across Skyrim. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/site/3tweaksrequiem/home?authuser=0. Note that BTweaks and FTweaks are also included.
 - This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment! This is optionally disabled.
-- End Times gives you only 365 days to beat Alduin. It's much more time than it sounds.
-- Item Durability will make your weapons slowly degrade over time. 
-- You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. This feature is optional and disabled by default.
+- Item Durability will make your weapons slowly degrade over time. (optional)
+- You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. (optional)
 - Fast Travel is normally disabled, but it is enabled in this list. I encourage you to fast travel... whenever you can afford it.
 - Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
 - You cannot save during combat.
+- Having proper lighting and not being able to see well in dark dungeons is a part of the design. Find a lantern or other item to help you see.
 
 ### Gameplay Tips
 
@@ -233,31 +226,9 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 - Do not select any other profile besides the default one provided! The Potato profile is currently in testing and isn't recommended for a complete, stable playthrough. It actually won't work either.
 
-- When using a crossbow for the first time ever on your character, you need to *activate* the non-exploitable crossbow reload mod. When *out of combat*, equip your crossbow, and then equip your bolts. Doing this should complete the process of initializing the mod, and you can use your crossbow like normal from then on. If you don't do this, for example if you are in combat, you risk causing the game to crash when you initialize the mod.
-
 - If you're having issues with NPCs becoming aggressive whilst you're brawling, try stopping your channeled spell from Pact Weapon with your lesser power before you brawl. 
 
-- If an area of shadow seems to "follow" you, wait for 1 hour.
-	- Let's say you see an area illuminated by sunlight. You walk over there, but for some reason when you get close, the area starts to be covered in shadow. As you walk, the shadow follows you. Waiting 1 hour can sometimes fix this.
-
 ## Other Post Installation FAQ
-
-### Adding and Tweaking the ENB
-
--By default, ENB is not enabled, but is optionally included if you want to add it yourself. The reason why I chose to do it this way is that by simply including the ENB files in your Skyrim folder, even if ENB is disabled, you can lose 5-10 FPS depending on your rig. You can follow the following steps to enable ENB:
-
-	- Navigate to your install folder for Arkay's Commandment -> open the 'Tools' folder -> copy the folder there called 'Stock Game'
-	- Navigate back to your install folder where the 'Tools' Folder exists, and paste your 'Stock Game' folder
-	- This will add all the relevant ENB files directly into your stock game directory where SkyrimSE.exe is located
-	- Launch Mod Organizer. On the left side of the screen, expand the 'ENB (Optional - ReadME for Instructions)' tab and enable each mod in this section. Enable these mods in order from top to bottom.
-	
-- If you choose to add the ENB but want to disable it temporarily, you have the option to. Open the ENB GUI [shift+enter], click 'useEffect' to toggle it off and then press 'Save Configuration' on the top left.
-
-- If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter] and press 'Save Configuration' on the top left:
- 
-	- EnableDetailedShadow
-	- EnableComplexParticleLights
-	- EnableReflection
 
 ### BethINI
 
@@ -281,7 +252,7 @@ All *required* MCM options have been automated for you. I highly recommend setti
 
 ### Darkness Settings
  
-- If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
+- If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM and ENB GUI menu.
 
 ### Widescreen Users
 
@@ -308,8 +279,6 @@ All *required* MCM options have been automated for you. I highly recommend setti
 ### Information for Content Creators
 
 - There is no nudity in this list. Nothing in this list is worse than vanilla Skyrim in terms of violence or sexual content. The furthest this list varies from vanilla Skyrim in graphic content is enemies can be burned/electricuted and they will appear to have a charred texture, which already exists in the vanilla game.
-
-- If brightness is an issue, you can modify brightness in the MCM of Cathedral Weathers and play around with several options to get brightness to your exact liking for your videos or streams. I know that GeForce Experience tends to make videos extremely dark, for example.
 
 ## Removing the Modlist
 
