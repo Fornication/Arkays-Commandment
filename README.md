@@ -160,14 +160,15 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 - Create a new character like usual
 	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character.
-- Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. Let it run until you have no more messages displaying at the top left of your screen. Then, when they're gone, click through the message box pop ups. Once you've done that...
+- Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. Let it run until you have no more messages displaying at the top left of your screen. Then, when they're gone, click through the message box pop ups. MCM options have been automated. If the auto-MCM fails to load, you can manually load the customizable camera preset. Once you've done that...
 	- Open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
 - If you want, go to your powers menu and find the spell "Randomize Word Walls". Use the power, wait until it's complete when a message box pops up. This may take over a minute. DO NOT use this at any other point in the game, only in the character creation cell.
 - Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
 
 ## In-Game MCM Options
 
-All *required* MCM options have been automated for you.
+- All mandatory MCMs are pre-loaded.
+- When using a crossbow for the first time ever on your character, you need to *activate* the non-exploitable crossbow reload mod. When *out of combat*, equip your crossbow, and then equip your bolts. Doing this should complete the process of initializing the mod, and you can use your crossbow like normal from then on. If you don't do this, for example if you are in combat, you risk causing the game to crash when you initialize the mod.
 
 ## Updating
 
