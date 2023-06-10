@@ -222,8 +222,6 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 - Permadeath can be disabled in 1 simple click. On the left pane, scroll to the bottom of the list and find the section in dark red called "Optional - enable or disable and play" and untick the green circle next to the mod "Permadeath (Playing this way is like playing a brand new game)". Done!
 
-- The world ending can be changed in the "End Times" MCM to as much as 1000 days, effectively disabling it. If you somehow play 1 character in this list for 1000 days without beating Alduin.. it simply won't happen.
-
 - Do not select any other profile besides the default one provided! The Potato profile is currently in testing and isn't recommended for a complete, stable playthrough. It actually won't work either.
 
 - If you're having issues with NPCs becoming aggressive whilst you're brawling, try stopping your channeled spell from Pact Weapon with your lesser power before you brawl. 
