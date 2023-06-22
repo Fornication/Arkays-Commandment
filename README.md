@@ -160,7 +160,8 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 - Create a new character like usual
 	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character.
-- Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. Let it run until you have no more messages displaying at the top left of your screen. Then, when they're gone, click through the message box pop ups. MCM options have been automated. If the auto-MCM fails to load, you can manually load the customizable camera preset. Once you've done that...
+ 	- When you're naming your character, you can press the "Insert" button on your keyboard to randomize your name based on the race and sex you selected.	
+- Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. It will probably make your game laggy for a short period of time. Let it run until you have no more messages displaying at the top left of your screen. Once you've done that...
 	- Open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
 - If you want, go to your powers menu and find the spell "Randomize Word Walls". Use the power, wait until it's complete when a message box pops up. This may take over a minute. DO NOT use this at any other point in the game, only in the character creation cell.
 - Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
@@ -190,11 +191,11 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 - This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment! This is optionally disabled.
 - Item Durability will make your weapons slowly degrade over time. (optional)
 - You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. (optional)
-- Fast Travel is normally disabled, but it is enabled in this list. I encourage you to fast travel... whenever you can afford it.
+- Fast Travel is enabled in this list. I encourage you to fast travel... whenever you can afford it.
 - Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
-- You cannot save during combat.
+- You cannot save during combat. (optional)
 - Having proper lighting and not being able to see well in dark dungeons is a part of the design. Find a lantern or other item to help you see.
 
 ### Gameplay Tips
