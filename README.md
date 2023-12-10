@@ -34,7 +34,6 @@ Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZ
     - [Replayability](#Replayability)
     - [FAQ](#FAQ)
   - [Other Post Installation FAQ](#other-post-installation-faq)
-    - [Adding and Tweaking the ENB](#adding-and-tweaking-the-enb)
     - [BethINI](#bethini)
     - [In-Game Settings](#in-game-settings)
     - [Darkness Settings](#darkness-settings)
@@ -87,7 +86,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ##### Disable the Steam Overlay
 
-- The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+- The Steam Overlay is recommended to be turned off.
 
 - Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
@@ -231,7 +230,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ### BethINI
 
-- Included as an installed program with this list is BethINI, which is a tool that can quickly change INI settings, which can have a drastic impact on your game performance. The default setting that I used is a somewhat modified 'low'. If you're looking to get slightly better performance, or better graphics, you may want to look here after tweaking the ENB.
+- Included as an installed program with this list is BethINI, which is a tool that can quickly change INI settings, which can have a drastic impact on your game performance. The default setting that I used is a somewhat modified 'low'. If you're looking to get slightly better performance, or better graphics, you may want to look here.
 1. Completely close out of Mod Organizer.
 2. Navigate to the folder where you installed this mod list. Open the "Tools" folder, open the "BethINI Standalone" folder, and then open the BethINI.exe file.
 3. Once opened, navigate to the 'Setup' tab on the top left. The first 4 lines should read as follows, and if not, change it:
@@ -251,7 +250,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ### Darkness Settings
  
-- If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM and ENB GUI menu.
+- If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
 
 ### Widescreen Users
 
