@@ -169,6 +169,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 - All mandatory MCMs are pre-loaded.
 - When using a crossbow for the first time ever on your character, you need to *activate* the non-exploitable crossbow reload mod. When *out of combat*, equip your crossbow, and then equip your bolts. Doing this should complete the process of initializing the mod, and you can use your crossbow like normal from then on. If you don't do this, for example if you are in combat, you risk causing the game to crash when you initialize the mod.
+- You can change various MCM settings to your liking. Most changes will NOT persist between saves. This is mod-dependent.
 
 ## Updating
 
@@ -185,9 +186,11 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 **Please do not expect the game to be functionally similar to vanilla.** There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
 
+Arkay's Commandment is the Skyrim that I've built to match what I find the most fun. I enjoy immersion, roleplaying, difficulty, and a strong sense of progression. Arkay's Commandment is a summation of what I enjoy most about Skyrim and is a forever ongoing work in progress. There are way too many details to discuss in a readme, but I invite you to experience Arkay's Commandment more as a journey through your character into Skyrim to really integrate yourself into the world. 
+
 - Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable. If you're not already familiar with Requiem and wish to play this list, it will be an extremely difficult learning curve.
 - 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. These potions are given as quest rewards but mainly found as loot in various chests and for killing various NPCs across Skyrim. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/site/3tweaksrequiem/home?authuser=0. Note that BTweaks and FTweaks are also included.
-- This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment! This is optionally disabled.
+- This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment! (optional)
 - Item Durability will make your weapons slowly degrade over time. (optional)
 - You will need to find or purchase a map of Skyrim and Solstheim to be able to use the actual map. (optional)
 - Fast Travel is enabled in this list. I encourage you to fast travel... whenever you can afford it.
@@ -205,12 +208,13 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 - You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you. Daedric blessings tend to have a downside, and you may want to avoid these until you get more comfortable with the basics.
 - Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers.
 - Having a good night sleep or even a poor night sleep increase the rate at which your stamina and magicka regenerate. Be sure to sleep before adventuring.
-- Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. 
+- Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. Animals can be hunted and killed too. Animals tend to be easier and more predictable than bandits, but are less rewarding.
 - Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
 
 ### Replayability
 
 - 3Tweaks was designed with shorter playthroughs in mind. Replayability with different races, classes, birthsigns, and divine/daedric blessings keeps you engaged. With permadeath, you may very well be starting over frequently.
+- Despite 3Tweaks being designed for shorter playthroughs, it is EXTREMELY customizable in the Requiem - 3Tweaks MCM. Leveling rate of insight potions is adjustable in the MCM and you can have an extremely long or extremely short playthrough, which is completely up to your discretion. You can repeatedly edit this MCM at any point during your playthrough, if you feel like you need to change it.
 - If you need a change from the default starts or want to get directly into the action when starting a new character, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter:
 	- "coc BannermistTowerExterior02"
 	- "coc MilitaryCampWhiterunSons"
@@ -220,11 +224,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ### FAQ
 
-- Permadeath can be disabled in 1 simple click. On the left pane, scroll to the bottom of the list and find the section in dark red called "Optional - enable or disable and play" and untick the green circle next to the mod "Permadeath (Playing this way is like playing a brand new game)". Done!
-
 - Do not select any other profile besides the default one provided! The Potato profile is currently in testing and isn't recommended for a complete, stable playthrough. It actually won't work either.
-
-- If you're having issues with NPCs becoming aggressive whilst you're brawling, try stopping your channeled spell from Pact Weapon with your lesser power before you brawl. 
 
 ## Other Post Installation FAQ
 
@@ -277,6 +277,8 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 ### Information for Content Creators
 
 - There is no nudity in this list. Nothing in this list is worse than vanilla Skyrim in terms of violence or sexual content. The furthest this list varies from vanilla Skyrim in graphic content is enemies can be burned/electricuted and they will appear to have a charred texture, which already exists in the vanilla game.
+
+- If using the Music Mod in the optional files which is defaultly enabled, you may or may not have issues with copyright on streaming or video services. I do not know, but I would not take the risk and deactivate the mod.
 
 ## Removing the Modlist
 
