@@ -49,18 +49,18 @@ Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZ
 
 Time to '**git gud**'
 
-Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but my goal is to make progression feel much more meaningful and earned. This list features simple permadeath; you have 1 life, no exceptions.
+Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but progression feels much more meaningful and earned.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
 ## System Requirements
 
-- Windows 10
+- Windows 10+
 - Skyrim Special Edition on Steam
 	- You’ll need to launch Skyrim Special Edition from Steam at least once before playing if you haven’t before
 - Latest version of Wabbajack installed to a root folder (example C:\Wabbajack)
 - Enough space to download and install this list 
-	- i. About 65 GB to download and about 95 GB for the installation. In total you'll need around 160 GB of space, but then after the installation completes, you can decide to delete the 65 GB download folder if you'd like. Note that if you delete the downloads, if you try to update the list, you will need to redownload the files.
+	- i. About 86 GB to download and about 128 GB for the installation. In total you'll need around 215 GB of space, but then after the installation completes, you can decide to delete the 65 GB download folder if you'd like. Note that if you delete the downloads, if you try to update the list, you will need to redownload the files.
 - Nexus Mods account (Nexus premium membership is highly recommended)
 - Microsoft Visual C++ x64
 	- i. Specifically, the file: vc_redist.x64.exe found here: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
@@ -80,7 +80,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-- I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+- I doubt you need to do this since you likely already have this installed. The package is required for Mod Organizer 2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 #### Steam Config
 
@@ -160,8 +160,8 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 - Create a new character like usual
 	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character.
  	- When you're naming your character, you can press the "Insert" button on your keyboard to randomize your name based on the race and sex you selected.	
-- Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. It will probably make your game laggy for a short period of time. Let it run until you have no more messages displaying at the top left of your screen. Once you've done that...
-	- Open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
+- Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. It will probably make your game lag for a short period of time. Let it run until you have no more messages displaying at the top left of your screen. Once you've done that...
+	- Open and then close your magic or inventory menu so that 3BFTweaks scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
 - If you want, go to your powers menu and find the spell "Randomize Word Walls". Use the power, wait until it's complete when a message box pops up. This may take over a minute. DO NOT use this at any other point in the game, only in the character creation cell.
 - Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
 
@@ -189,13 +189,11 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 Arkay's Commandment is the Skyrim that I've built to match what I find the most fun. I enjoy immersion, roleplaying, difficulty, and a strong sense of progression. Arkay's Commandment is a summation of what I enjoy most about Skyrim and is a forever ongoing work in progress. There are way too many details to discuss in a readme, but I invite you to experience Arkay's Commandment more as a journey through your character into Skyrim to really integrate yourself into the world. 
 
 - Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable. If you're not already familiar with Requiem and wish to play this list, it will be an extremely difficult learning curve.
-- 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. These potions are given as quest rewards but mainly found as loot in various chests and for killing various NPCs across Skyrim. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/site/3tweaksrequiem/home?authuser=0. Note that BTweaks and FTweaks are also included.
-- This list contains permadeath. You have 1 life, and if you die, you cannot continue your character. It's very simple and very unforgiving. There is a strong community of permadeath or 'dead is dead'/'DiD' players, and it can be extremely rewarding. Permadeath is Arkay's Commandment! (optional)
+- 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. These potions are given as quest rewards but mainly found as loot in various chests and for killing various NPCs across Skyrim. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/view/3bftweaksrequiem/home.
 - Fast Travel is enabled in this list. I encourage you to fast travel... whenever you can afford it.
 - Skyrim Souls makes your inventory menu not pause. Be sure to have necessary hotkeys set up.
 - Using horses to exploit your way up mountains will probably result in you dying.
 - Jumping down mountains instead of using the proper roads may result in you dying.
-- You cannot save during combat. (optional)
 - Having proper lighting and not being able to see well in dark dungeons is a part of the design. Find a lantern or other item to help you see.
 
 ### Gameplay Tips
@@ -206,19 +204,13 @@ Arkay's Commandment is the Skyrim that I've built to match what I find the most 
 - You can choose your standing stone and divine blessing right after starting your character by using the lesser power given to you. Daedric blessings tend to have a downside, and you may want to avoid these until you get more comfortable with the basics.
 - Always keep food buffs up to benefit your character; food can be cooked or bought from innkeepers.
 - Having a good night sleep or even a poor night sleep increase the rate at which your stamina and magicka regenerate. Be sure to sleep before adventuring.
-- Bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. Animals can be hunted and killed too. Animals tend to be easier and more predictable than bandits, but are less rewarding.
+- Exploration and even wildlife can be very punishing. You may want to stick to easier tasks and enemies if you lack experience. Once you're more comfortable, bandits are generally the best way to start off most characters. Some bandits may be higher level than you and some bandit camps are more difficult than others. In general, you will want to start off clearing bandit camps to provide early game levels. Boss chests at the end of camps/dungeons always offer insight potions and are a great early game goal. Animals can be hunted and killed too. Animals tend to be easier and more predictable than bandits, but are less rewarding.
 - Don’t leave town without being prepared for a fight. Be prepared to run away. Always watch your back. 'DO NOT' run out of stamina, ever.
 
 ### Replayability
 
 - 3Tweaks was designed with shorter playthroughs in mind. Replayability with different races, classes, birthsigns, and divine/daedric blessings keeps you engaged. With permadeath, you may very well be starting over frequently.
 - Despite 3Tweaks being designed for shorter playthroughs, it is EXTREMELY customizable in the Requiem - 3Tweaks MCM. Leveling rate of insight potions is adjustable in the MCM and you can have an extremely long or extremely short playthrough, which is completely up to your discretion. You can repeatedly edit this MCM at any point during your playthrough, if you feel like you need to change it.
-- If you need a change from the default starts or want to get directly into the action when starting a new character, I recommend using the following console commands. Each of the locations offer a number of directions to begin your adventure. First press ` and then type one of the following without quotation marks and then press enter:
-	- "coc BannermistTowerExterior02"
-	- "coc MilitaryCampWhiterunSons"
-	- "coc WolfskullCaveExterior"
-	- "coc RaldbtharExterior01"
-	- "coc ShorsStoneExterior04"
 
 ### FAQ
 
