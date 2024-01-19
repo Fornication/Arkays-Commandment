@@ -161,7 +161,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 	- I highly recommend you saving your character preset in the racemenu options if you’re fond of your character.
  	- When you're naming your character, you can press the "Insert" button on your keyboard to randomize your name based on the race and sex you selected.	
 - Once done character creating, STOP. The MCM automation will occur and this can be prone to act buggy. It will probably make your game lag for a short period of time. Let it run until you have no more messages displaying at the top left of your screen. Once you've done that...
-	- Open and then close your magic or inventory menu so that 3BFTweaks scripts will begin to initialize. Accept the dialogue box. Wait for another pop-up saying that this process is finished.
+	- Open and then close your magic or inventory menu so that Requiem scripts will begin to initialize. You should hear gears turning. Wait a few seconds, then proceed to the next step.
 - If you want, go to your powers menu and find the spell "Randomize Word Walls". Use the power, wait until it's complete when a message box pops up. This may take over a minute. DO NOT use this at any other point in the game, only in the character creation cell.
 - Talk to the statue of mara and select an option. Once selected, follow the quest directions on how to start your adventure.
 
