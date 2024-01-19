@@ -110,7 +110,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 - After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 
-- Start the game and exit once you're in the main menu.
+- Start the game. Once in the main menu, click on Creations. You need to download Saints and Seducers, Rare Curios, Survival, and Fishing. You will not have the correct version of the four free CC mods if you do not do this.
 
 ### Using Wabbajack
 
