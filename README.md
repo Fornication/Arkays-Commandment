@@ -214,7 +214,7 @@ Arkay's Commandment is the Skyrim that I've built to match what I find the most 
 
 ### FAQ
 
-- Do not select any other profile besides the default one provided! The Potato profile is currently in testing and isn't recommended for a complete, stable playthrough. It actually won't work either.
+- Do not select any other profile besides the default one provided!
 
 ## Other Post Installation FAQ
 
