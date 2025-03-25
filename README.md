@@ -242,9 +242,6 @@ Arkay's Commandment is the Skyrim that I've built to match what I find the most 
  
 - If you want the game to be brighter or darker, you can use the Cathedral Weathers MCM.
 
-### Widescreen Users
-
-- Navigate to the bottom section of Mod Organizer's left pane, and find the category **Widescreen Users**, and enable the mods under that category. 
 
 ### Zoomed in Display
 
@@ -257,9 +254,9 @@ Arkay's Commandment is the Skyrim that I've built to match what I find the most 
 			- Set Fullscreen to `True`
 			- Set Borderless to `False`
 
-### Non-standard or Custom Monitor Resolution
+### Widescreen Users, Non-standard or Custom Monitor Resolution
 
-- If the 2 previous instructions are inadequate or not what you're looking for, you can customize your game resolution by doing the following
+- Widescreen is not officially supported. My monitor is 1440p and the UI is designed to fit on a 1440p monitor. The UI may look not as fully intended if not using this resolution. Visit the discord to inquire about any issues you may have. To change the game's resolution to a custom resolution, do as follows:
 	- Edit the mod **SSE Display Tweaks**, specifically the file named SSEDisplayTweaks.ini
 	- Find the line that says **#Resolution=1920x1080**
 	- Remove the # from the beginning, and replace 1920x1080 with your desired resolution.
