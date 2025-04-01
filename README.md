@@ -277,4 +277,4 @@ Arkay's Commandment is the Skyrim that I've built to match what I find the most 
 
 ## Contact
 
-Official support takes place on my discord channel. You can join [my discord](https://discord.gg/JycmyqzZz7) for less support-related inquiries and chatting as well! **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+Official support takes place on my discord channel. You can join [my discord](https://discord.gg/JycmyqzZz7) for less support-related inquiries and chatting as well!
