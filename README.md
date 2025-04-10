@@ -173,7 +173,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ## Updating
 
-- If this Modlist receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
+- Always back up your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
