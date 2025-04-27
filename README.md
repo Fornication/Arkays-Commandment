@@ -6,7 +6,7 @@ List of mods included here: https://modwat.ch/u/Arkays%20Commandment
 
 Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZz7)
 
-- [**Arkay's Commandment**]
+- [**Wanderlust**]
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
   - [Skyrim Anniversary Edition](#skyrim-anniversary-edition)
@@ -24,7 +24,7 @@ Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZ
       - [Downloading and Installing](#downloading-and-installing)
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
-  	- [How to start up Arkay's Commandment](#how-to-start-up-arkays-commandment)
+  	- [How to start up Wanderlust](#how-to-start-up-wanderlust)
   	- [Starting a new game](#starting-a-new-game)
   	- [In-Game MCM Options](#in-game-mcm-options)
  	- [Updating](#updating)
@@ -47,9 +47,7 @@ Feel free to join my discord! [Requiem - Wabbajack ](https://discord.gg/JycmyqzZ
 
 ## Preamble
 
-Time to '**git gud**'
-
-Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but progression feels much more meaningful and earned.
+Wanderlust is a Requiem-based and 3Tweaks-based mod list that aims to provide a fair, challenging Skyrim experience. You will be pressured to manage your resources efficiently, plan your travels carefully, and take on all encounters cautiously, while always needing a backup plan. There will be a somewhat steep learning curve for those not used to playing a more punishing list, but progression feels much more meaningful and earned.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
@@ -151,7 +149,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 ## Post-Installation
 
-## How to start up Arkay's Commandment
+## How to start up Wanderlust
 
 - Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'SKSE' and then hit the run button. 
 
@@ -186,7 +184,7 @@ Arkay’s Commandment is a Requiem-based and 3Tweaks-based mod list that aims to
 
 **Please do not expect the game to be functionally similar to vanilla.** There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. 
 
-Arkay's Commandment is the Skyrim that I've built to match what I find the most fun. I enjoy immersion, roleplaying, difficulty, and a strong sense of progression. Arkay's Commandment is a summation of what I enjoy most about Skyrim and is a forever ongoing work in progress. There are way too many details to discuss in a readme, but I invite you to experience Arkay's Commandment more as a journey through your character into Skyrim to really integrate yourself into the world. 
+Wanderlust is the Skyrim that I've built to match what I find the most fun. I enjoy immersion, roleplaying, difficulty, and a strong sense of progression. Wanderlust is a summation of what I enjoy most about Skyrim and is a forever ongoing work in progress. There are way too many details to discuss in a readme, but I invite you to experience Arkay's Commandment more as a journey through your character into Skyrim to really integrate yourself into the world. 
 
 - Requiem is a Skyrim overhaul that encompasses the entire game. Requiem de-levels the world, and you can fight extremely difficult content right from level 1. Not every build can complete all content. Combat can be extremely punishing. Every build has a weakness. All skills will require a perk to be useable. If you're not already familiar with Requiem and wish to play this list, it will be an extremely difficult learning curve.
 - 3Tweaks is a Requiem overhaul that this list is build around. Requiem can be unbalanced, and 3Tweaks aims to fix this. You need to be much more conservative with stamina management. You now can **ONLY** level up by finding insight and greater insight potions and then using your **increase skills** power. These potions are given as quest rewards but mainly found as loot in various chests and for killing various NPCs across Skyrim. It may be a good idea to read up upon 3Tweaks systems https://sites.google.com/view/3bftweaksrequiem/home.
